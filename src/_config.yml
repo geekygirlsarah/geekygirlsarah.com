@@ -1,0 +1,124 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: GeekyGirlSarah
+title_separator: "|"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://geekygirlsarah.com" # the base hostname & protocol for your site, e.g. http://example.com
+locale: "en-US"
+timezone: America/New_York
+description: >- # this means to ignore newlines until "baseurl:"
+  Sarah's Home on the World Wide Web!
+# head_scripts:
+#   - https://code.jquery.com/jquery-3.2.1.min.js
+#   - /assets/js/your-custom-head-script.js
+# logo: "/assets/images/88x88.png" # logo for the top left corner
+# masthead_title: "My Custom Title" # optional masthead. defaults to site title
+# breadcrumbs: true # disabled by default
+# permalink: /:categories/:title/
+# search: true
+paginate: 5
+# paginate_path: /recent/page:num/
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+
+
+# Sarah Settings
+name: "Sarah Withee"
+# email: your-email@example.com
+# repository: "geekygirlsarah/geekygirlsarah.github.io"
+twitter_username: geekygirlsarah
+twitter:
+  username: geekygirlsarah
+facebook:
+  username: geekygirlsarah
+github_username:  geekygirlsarah
+
+# Side bar 
+author:
+  name: "Sarah Withee"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an amazing person."
+  location: "That Pittsburgh city. No, not the one in KS"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+
+
+# Social profile for search engines
+# social:
+#   type:  # Person or Organization (defaults to Person)
+#   name:  # If the user or organization name differs from the site's name
+#   links:
+#     - "https://twitter.com/yourTwitter"
+#     - "https://facebook.com/yourFacebook"
+#     - "https://instagram.com/yourProfile"
+#     - "https://www.linkedin.com/in/yourprofile"
+#     - "https://plus.google.com/your_profile"
+
+
+
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+

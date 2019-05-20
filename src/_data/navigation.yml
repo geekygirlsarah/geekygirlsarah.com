@@ -1,0 +1,16 @@
+main:
+  - title: "About"
+    description: "Learn about Sarah"
+    url: /
+  - title: "What I'm Doing Now"
+    url: /
+  - title: "Speaking"
+    url: /
+  - title: "Press/Media"
+    url: /
+  - title: "Blog"
+    url: /
+  - title: "Blog"
+    url: /
+  - title: "Contact"
+    url: /
