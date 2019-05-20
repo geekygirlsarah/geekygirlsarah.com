@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: GeekyGirlSarah
+title: GeekyGirlSarah.com
 title_separator: "|"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geekygirlsarah.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,19 +29,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 # breadcrumbs: true # disabled by default
 # permalink: /:categories/:title/
 # search: true
-paginate: 5
+include: ["_pages"]
+# paginate: 5
 # paginate_path: /recent/page:num/
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+powered_by: false # true (default), false
 
 
 # Sarah Settings
@@ -110,6 +101,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
 
 defaults:
   # _posts
@@ -122,4 +124,34 @@ defaults:
       comments: true
       share: true
       related: true
+      author_profile: true
+      footer:
+        links:
+          - label: "Twitter"
+            icon: "fab fa-fw fa-twitter-square"
+            url: "https://twitter.com/mmistakes"
+          - label: "GitHub"
+            icon: "fab fa-fw fa-github"
+            url: "https://github.com/mmistakes"
+          - label: "Instagram"
+            icon: "fab fa-fw fa-instagram"
+            url: "https://instagram.com/mmistakes"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      footer:
+        links:
+          - label: "Twitter"
+            icon: "fab fa-fw fa-twitter-square"
+            url: "https://twitter.com/mmistakes"
+          - label: "GitHub"
+            icon: "fab fa-fw fa-github"
+            url: "https://github.com/mmistakes"
+          - label: "Instagram"
+            icon: "fab fa-fw fa-instagram"
+            url: "https://instagram.com/mmistakes"
 
