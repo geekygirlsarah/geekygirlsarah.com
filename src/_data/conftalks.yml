@@ -1,0 +1,581 @@
+conftalks:
+- start_date: 2013-05-03
+  end_date: 2013-05-03
+  event: Introduce a Girl to Engineering Day
+  location: Kansas City, MO
+  type: Discussion Panel
+  title: College discussion panel
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2013-07-17
+  end_date: 2013-07-17
+  event: She++ Women in Technology Panel
+  location: Kansas City, MO
+  type: Discussion Panel
+  title: Women in tech panel (moderator)
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2013-10-19
+  end_date: 2013-10-19
+  event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
+  location: Kansas City, MO
+  type: Lightning Talk
+  title: Why You Should Participate in a Hackathon
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2013-10-19
+  end_date: 2013-10-19
+  event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
+  location: Kansas City, MO
+  type: Lightning Talk
+  title: Becoming an Undergraduate Teaching Assistant
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2014-02-21
+  end_date: 2014-02-21
+  event: Introduce a Girl to Engineering Day
+  location: Kansas City, MO
+  type: Discussion Panel
+  title: College discussion panel
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2015-02-06
+  end_date: 2015-02-06
+  event: NCWIT Aspriations Awards Ceremony (KS-MO Chapter)
+  location: Kansas City, MO
+  type: Discussion Panel
+  title: College student panel (moderator)
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2015-02-27
+  end_date: 2015-02-27
+  event: Introduce a Girl to Engineering Day
+  location: Kansas City, MO
+  type: Discussion Panel
+  title: College discussion panel
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2015-03-20
+  end_date: 2015-03-20
+  event: Nebraska.Code() Conference
+  location: Lincoln, NE
+  type: Session
+  title: Intro to Hacking with the Raspberry Pi
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2015-04-28
+  end_date: 2015-04-28
+  event: UMKC IEEE Meeting
+  location: Kansas City, MO
+  type: Group Meeting
+  title: Intro to Hacking with the Raspberry Pi
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2015-06-25
+  end_date: 2015-06-25
+  event: Kansas City Developer Conference
+  location: Kansas City, MO
+  type: Session
+  title: Intro to Hacking with the Raspberry Pi
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2015-06-26
+  end_date: 2015-06-26
+  event: Kansas City Developer Conference
+  location: Kansas City, MO
+  type: Session
+  title: Intro to Hacking with the Raspberry Pi (encore)
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2015-10-17
+  end_date: 2015-10-17
+  event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
+  location: Kansas City, MO
+  type: Session
+  title: Intro to Hacking with the Raspberry Pi
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2015-11-12
+  end_date: 2015-11-12
+  event: IEEE-KC CompSci monthly meeting
+  location: Kansas City, MO
+  type: Group Meeting
+  title: Intro to Hacking with the Raspberry Pi
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-05-19
+  end_date: 2016-05-19
+  event: Nebraska.Code() Conference
+  location: Lincoln, NE
+  type: Session
+  title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-05-19
+  end_date: 2016-05-19
+  event: Nebraska.Code() Conference
+  location: Lincoln, NE
+  type: Session
+  title: A Primer on Functional Programming
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-05-21
+  end_date: 2016-05-21
+  event: Self.Conference
+  location: Detroit, MI
+  type: Session
+  title: A Primer on Functional Programming
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-05-21
+  end_date: 2016-05-21
+  event: Self.Conference
+  location: Detroit, MI
+  type: Lightning Talk
+  title: Encouraging Kids Through Robotics Mentoring
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-06-23
+  end_date: 2016-06-23
+  event: Kansas City Developer Conference
+  location: Kansas City, MO
+  type: Session
+  title: A Primer on Functional Programming
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-06-24
+  end_date: 2016-06-24
+  event: Kansas City Developer Conference
+  location: Kansas City, MO
+  type: Session
+  title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-08-12
+  end_date: 2016-08-12
+  event: AndConf
+  location: Camp Meeker, CA (near San Francisco)
+  type: Lightning Talk
+  title: Why Self Care Is Harder for Me
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-09-26
+  end_date: 2016-09-26
+  event: Girl Develop It – Kansas City
+  location: Kansas City, MO
+  type: Class
+  title: JavaScript for Beginners
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-10-01
+  end_date: 2016-10-01
+  event: AlterConf
+  location: Portland, OR
+  type: Session
+  title: The Power of Secrets
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-10-27
+  end_date: 2016-10-27
+  event: Prairie.Code() Conference
+  location: Des Moines, IA
+  type: Session
+  title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2016-10-28
+  end_date: 2016-10-28
+  event: Prairie.Code() Conference
+  location: Des Moines, IA
+  type: Session
+  title: A Primer on Functional Programming
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2017-05-07
+  end_date: 2017-05-07
+  event: Listen to Your Mother Kansas City
+  location: Lawrence, KS
+  type: Spoken Essay
+  title: I’d Like to Be A Mother Someday, But…
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2017-05-19
+  end_date: 2017-05-19
+  event: Self.Conference
+  location: Detroit, MI
+  type: Session
+  title: The Power of Secrets
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2017-05-19
+  end_date: 2017-05-19
+  event: Self.Conference
+  location: Detroit, MI
+  type: Lightning Talk
+  title: How to Start a Podcast
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2017-08-26
+  end_date: 2017-08-26
+  event: AlterConf
+  location: Austin, TX
+  type: Session
+  title: Life as a Midwestern Developer
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2017-10-16
+  end_date: 2017-10-16
+  event: devUp Conference
+  location: St. Louis, MO
+  type: Session
+  title: The Power of Secrets
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2017-10-17
+  end_date: 2017-10-17
+  event: devUp Conference
+  location: St. Louis, MO
+  type: Session
+  title: Intro to Hacking with the Raspberry Pi
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2017-11-04
+  end_date: 2017-11-04
+  event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
+  location: Kansas City, MO
+  type: Session
+  title: "Pursuing a Passion Project: Struggles and Successes"
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-01-18
+  end_date: 2018-01-18
+  event: Techtonica Launch Celebration
+  location: San Francisco, CA
+  type: Invited Keynote
+  title: Doors
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-04-20
+  end_date: 2018-04-21
+  event: Heartifacts
+  location: Pittsburgh, PA
+  type: Emcee
+  title: 
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-04-30
+  end_date: 2018-05-02
+  event: deliver:Agile
+  location: Austin, TX
+  type: Invited Speaker
+  title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-05-31
+  end_date: 2018-06-02
+  event: Music City Code
+  location: Nashville, TN
+  type: Session
+  title: A Primer on Functional Programming
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-08-17
+  end_date: 2018-08-18
+  event: Self.Conference
+  location: Detroit, MI
+  type: Lightning Talk
+  title: I Built an Artificial Pancreas!
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-08-17
+  end_date: 2018-08-18
+  event: Self.Conference
+  location: Detroit, MI
+  type: Session
+  title: Maintaining Your Mental and Emotional Health While Job Hunting
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-08-20
+  end_date: 2018-08-20
+  event: Pittsburgh Code & Supply Meetup
+  location: Pittsburgh, PA
+  type: Meetup
+  title: Intro to Hacking with the Raspberry Pi
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-09-14
+  end_date: 2018-09-14
+  event: CodeDaze Vol. 2
+  location: Buffalo, NY
+  type: Session
+  title: A Primer on Functional Programming
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-09-27
+  end_date: 2018-09-27
+  event: Strange Loop
+  location: St. Louis, MO
+  type: Lightning Talk
+  title: I Built an Artificial Pancreas!
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-10-08
+  end_date: 2018-10-10
+  event: devUp Conference
+  location: St. Louis, MO
+  type: Session
+  title: Maintaining Your Mental and Emotional Health While Job Hunting
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-10-08
+  end_date: 2018-10-10
+  event: devUp Conference
+  location: St. Louis, MO
+  type: Session
+  title: A Primer on Functional Programming
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2018-11-12
+  end_date: 2018-11-12
+  event: Pittsburgh Code & Supply / Python Users Group
+  location: Pittsburgh, PA
+  type: Discussion Panel
+  title: "Small Snakes: Python for microcontrollers & embedded systems (panelist)"
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-01-09
+  end_date: 2019-01-11
+  event: Code Mash
+  location: Sandusky, OH
+  type: Session
+  title: Building Your Team to Last
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-01-09
+  end_date: 2019-01-11
+  event: Code Mash
+  location: Sandusky, OH
+  type: Session
+  title: A Primer on Functional Programming
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-01-09
+  end_date: 2019-01-11
+  event: Code Mash
+  location: Sandusky, OH
+  type: Lightning Talk
+  title: I Built an Artificial Pancreas!
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-02-01
+  end_date: 2019-02-01
+  event: NDC London
+  location: London, United Kingdom
+  type: Session
+  title: "“Hey Mycroft”: Getting Started with the OSS Home Assistant"
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-02-07
+  end_date: 2019-02-07
+  event: Pittsburgh Code & Supply/ Engineering Management Meetup
+  location: Pittsburgh, PA
+  type: Meetup
+  title: Building Your Team to Last
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-04-26
+  end_date: 2019-04-26
+  event: Stir Trek
+  location: Columbus, OH
+  type: Session
+  title: Intro to Hacking with the Raspberry Pi
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-05-03
+  end_date: 2019-05-03
+  event: Penguicon
+  location: Southfield (Detroit), MI
+  type: Invited Featured Guest
+  title: Building an Open Source Artificial Pancreas
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-05-03
+  end_date: 2019-05-03
+  event: Penguicon
+  location: Southfield (Detroit), MI
+  type: Invited Featured Guest
+  title: Maintaining Your Mental and Emotional Health While Job Hunting
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-05-04
+  end_date: 2019-05-04
+  event: PyCon US
+  location: Cleveland, OH
+  type: Session
+  title: Building an Open Source Artificial Pancreas
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-05-11
+  end_date: 2019-05-12
+  event: "!!Con"
+  location: New York City, NY
+  type: Lightning Talk
+  title: I Built an Artificial Pancreas!
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-06-07
+  end_date: 2019-06-08
+  event: Self.Conference
+  location: Detroit, MI
+  type: Session
+  title: Building an Open Source Artificial Pancreas
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-06-19
+  end_date: 2019-06-21
+  event: NDC Oslo
+  location: Oslo, Norway
+  type: Session
+  title: A Primer on Functional Programming
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-08-05
+  end_date: 2019-08-08
+  event: THAT Conference
+  location: Wisconsin Dells, WI
+  type: Workshop
+  title: “What is a HashTrieStackFilter?” A Data Structures & Algorithms Refresher For Everyone
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-08-05
+  end_date: 2019-08-08
+  event: THAT Conference
+  location: Wisconsin Dells, WI
+  type: Session
+  title: Building an Open Source Artificial Pancreas
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
+- start_date: 2019-11-03
+  end_date: 2019-11-08
+  event: Agile + DevOps East
+  location: Orlando, FL
+  type: Invited Session
+  title: Building an Open Source Artificial Pancreas
+  room: 
+  time: 
+  event_url: 
+  talk_url: 
