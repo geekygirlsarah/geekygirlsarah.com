@@ -58,6 +58,7 @@ github_username:  geekygirlsarah
 # Side bar 
 author:
   name: "Sarah Withee"
+  short_name: sarah
   avatar: "/assets/images/bio-photo.jpg"
   bio: "I am an amazing person."
   location: "That Pittsburgh city. No, not the one in KS"
