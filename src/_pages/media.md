@@ -22,7 +22,7 @@ Sarah has been in a variety of articles, blog posts, podcasts, videos, and websi
 
 ## Articles or Blog Posts:
 
-{% for item in site.data.articles.articles reversed %}
+{% for item in site.data.articles reversed %}
 - [{{ item.title }}]({{ item.url }}) - {{ item.source }}, {{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endfor %}
 
 
@@ -30,10 +30,10 @@ Sarah has been in a variety of articles, blog posts, podcasts, videos, and websi
 
 ## Podcasts
 
-{% for item in site.data.podcasts.podcasts reversed %}
+{% for item in site.data.podcasts reversed %}
 - [{{ item.show }}]({{ item.url }}) {{ item.episode }} - {{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endfor %}
 
 ## Videos
 
-{% for item in site.data.videos.videos reversed %}
+{% for item in site.data.videos reversed %}
 - [{{ item.title }}]({{ item.url }}) - {{ item.source }}, {{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endfor %}

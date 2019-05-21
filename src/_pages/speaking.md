@@ -22,12 +22,12 @@ Sarah has given various presentations and talks. If you’re interested in havin
 
 | Date | Event | Location | Talk Type | Talk Title | 
 |------|-------|----------|-----------|------------|
-{% for item in site.data.conftalks.conftalks %}{% assign event_date = item.start_date | date: "%Y-%m-%d" %}{% if event_date >= today %}{% if item.start_date == item.end_date %}{{ item.start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {{ item.event }} | {{ item.location }} | {{ item.type }} | {{ item.title }}
+{% for item in site.data.conftalks %}{% assign event_date = item.start_date | date: "%Y-%m-%d" %}{% if event_date >= today %}{% if item.start_date == item.end_date %}{{ item.start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {{ item.event }} | {{ item.location }} | {{ item.type }} | {{ item.title }}
 {% endif %}{% endfor %}
 
 ## Past Speaking Events
 
 | Date | Event | Location | Talk Type | Talk Title | 
 |------|-------|----------|-----------|------------|
-{% for item in site.data.conftalks.conftalks reversed %}{% assign event_date = item.start_date | date: "%Y-%m-%d" %}{% if event_date < today %}{% if item.start_date == item.end_date %}{{ item.start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {{ item.event }} | {{ item.location }} | {{ item.type }} | {{ item.title }}
+{% for item in site.data.conftalks reversed %}{% assign event_date = item.start_date | date: "%Y-%m-%d" %}{% if event_date < today %}{% if item.start_date == item.end_date %}{{ item.start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {{ item.event }} | {{ item.location }} | {{ item.type }} | {{ item.title }}
 {% endif %}{% endfor %}
