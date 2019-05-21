@@ -40,8 +40,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-data (1.0.0)
-      jekyll (~> 3.3)
     jekyll-feed (0.12.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
@@ -73,19 +71,8 @@ GEM
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minimal-mistakes-jekyll (4.16.3)
-      jekyll (~> 3.7)
-      jekyll-data (~> 1.0)
-      jekyll-feed (~> 0.10)
-      jekyll-gist (~> 1.5)
-      jekyll-include-cache (~> 0.1)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.2)
-      jemoji (~> 0.10)
     minitest (5.11.3)
     multipart-post (2.1.1)
-    nokogiri (1.10.3)
-      mini_portile2 (~> 2.4.0)
     nokogiri (1.10.3-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
@@ -121,8 +108,12 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.4)
   jekyll-feed (~> 0.6)
+  jekyll-gist
+  jekyll-include-cache
+  jekyll-paginate
+  jekyll-sitemap
+  jemoji
   minima (~> 2.0)
-  minimal-mistakes-jekyll
   tzinfo-data
   wdm (~> 0.1.0)
 

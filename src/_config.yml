@@ -1,5 +1,3 @@
-# Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -8,111 +6,303 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: GeekyGirlSarah.com
-title_separator: "|"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://geekygirlsarah.com" # the base hostname & protocol for your site, e.g. http://example.com
-locale: "en-US"
-timezone: America/New_York
-description: >- # this means to ignore newlines until "baseurl:"
+
+# My site is based off of the Minimalist Mistakes theme
+# Site: https://jekyllthemes.io/theme/minimal-mistakes
+# Github: https://github.com/mmistakes/minimal-mistakes
+# All settings below are based off that site's _config.yml file with my modifications
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+title                    : GeekyGirlSarah.com
+title_separator          : "|"
+name                     : "Sarah Withee"
+description              : >- # this means to ignore newlines until "baseurl:"
   Sarah's Home on the World Wide Web!
-# head_scripts:
-#   - https://code.jquery.com/jquery-3.2.1.min.js
-#   - /assets/js/your-custom-head-script.js
-# logo: "/assets/images/88x88.png" # logo for the top left corner
-# masthead_title: "My Custom Title" # optional masthead. defaults to site title
-# breadcrumbs: true # disabled by default
-# permalink: /:categories/:title/
-# search: true
-include: ["_pages"]
-# paginate: 5
-# paginate_path: /recent/page:num/
-powered_by: false # true (default), false
+url                      : "https://geekygirlsarah.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title_enable    : false # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+staticman:
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment by {fields.name}"
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
+  transforms:
+    email                : # "md5"
+  generatedFields:
+    date:
+      type               : # "date"
+      options:
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : false # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
 
-
-# Sarah Settings
-name: "Sarah Withee"
-# email: your-email@example.com
-# repository: "geekygirlsarah/geekygirlsarah.github.io"
-twitter_username: geekygirlsarah
+# Social Sharing
 twitter:
-  username: geekygirlsarah
+  username               : geekygirlsarah
 facebook:
-  username: geekygirlsarah
-github_username:  geekygirlsarah
+  username               : geekygirlsarah
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Sarah Withee # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+  - https://twitter.com/geekygirlsarah
+  - https://instragram.com/geekygirlsarah
+  - https://linkedin.com/in/sarahwithee
+  - https://github.com/geekygirlsarah
+  - https://gitlab.com/geekygirlsarah
+  - https://facebook.com/geekygirlsarah
 
-# Side bar 
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
+
+
+# Site Author
 author:
-  name: "Sarah Withee"
-  short_name: sarah
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an amazing person."
-  location: "That Pittsburgh city. No, not the one in KS"
+  name             : "Sarah Withee"
+  short_name       : sarah
+  avatar           : "/assets/images/sarah-profile-600px.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "That Pittsburgh city. No, not the one in KS."
+  email            :
   links:
-    - label: "Made Mistakes"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:your.name@email.com
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://geekygirlsarah.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/geekygirlsarah"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/geekygirlsarah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/geekygirlsarah"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/geekygirlsarah"
 
-
-# Social profile for search engines
-# social:
-#   type:  # Person or Organization (defaults to Person)
-#   name:  # If the user or organization name differs from the site's name
-#   links:
-#     - "https://twitter.com/yourTwitter"
-#     - "https://facebook.com/yourFacebook"
-#     - "https://instagram.com/yourProfile"
-#     - "https://www.linkedin.com/in/yourprofile"
-#     - "https://plus.google.com/your_profile"
-
-
-
-
-# Build settings
-markdown: kramdown
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-
-plugins:
-  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/geekygirlsarah"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/geekygirlsarah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/geekygirlsarah"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/sarahwithee"
 
+
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -120,22 +310,11 @@ defaults:
       type: posts
     values:
       layout: single
+      author_profile: true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
-      author_profile: true
-      footer:
-        links:
-          - label: "Twitter"
-            icon: "fab fa-fw fa-twitter-square"
-            url: "https://twitter.com/mmistakes"
-          - label: "GitHub"
-            icon: "fab fa-fw fa-github"
-            url: "https://github.com/mmistakes"
-          - label: "Instagram"
-            icon: "fab fa-fw fa-instagram"
-            url: "https://instagram.com/mmistakes"
   # _pages
   - scope:
       path: ""
@@ -143,15 +322,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      footer:
-        links:
-          - label: "Twitter"
-            icon: "fab fa-fw fa-twitter-square"
-            url: "https://twitter.com/mmistakes"
-          - label: "GitHub"
-            icon: "fab fa-fw fa-github"
-            url: "https://github.com/mmistakes"
-          - label: "Instagram"
-            icon: "fab fa-fw fa-instagram"
-            url: "https://instagram.com/mmistakes"
+
+
+
+# Not sure if these do anything, so commenting out for now
+# twitter_username: geekygirlsarah
+# github_username:  geekygirlsarah
 
