@@ -17,6 +17,9 @@ main:
   - title: "Blog"
     # description: 
     url: blog/
+  - title: "Resume"
+    # description: 
+    url: resume/
   - title: "Contact"
     # description: 
     url: contact/
