@@ -1,14 +1,22 @@
 main:
+  - title: "Home"
+    # description: 
+    url: /
   - title: "About"
-    description: "Learn about Sarah"
+    # description: 
     url: about/
   - title: "What I'm Doing Now"
+    # description: 
     url: now/
   - title: "Speaking"
+    # description: 
     url: speaking/
   - title: "Press/Media"
+    # description: 
     url: media/
   - title: "Blog"
+    # description: 
     url: blog/
   - title: "Contact"
+    # description: 
     url: contact/
