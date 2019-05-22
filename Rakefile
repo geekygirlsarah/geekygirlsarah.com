@@ -74,3 +74,7 @@ task :preview do
 
   Jekyll::Commands::Serve.process(options)
 end
+
+task "assets:precompile" do
+  exec("jekyll build")
+end

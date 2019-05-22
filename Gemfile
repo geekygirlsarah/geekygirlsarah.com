@@ -34,3 +34,7 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # gem "minimal-mistakes-jekyll"
+
+# For Heroku
+gem "rake"
+ruby "2.4.4"
