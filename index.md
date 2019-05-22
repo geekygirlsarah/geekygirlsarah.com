@@ -38,6 +38,28 @@ feature_row:
     # url: "blog/"
     # btn_label: "Read"
     # btn_class: "btn--primary"
+feature_row2:
+  - image_path: assets/images/icons8-code-100.png
+    alt: "Code icon"
+    title: "2"
+    excerpt: "I am a software engineer who is passionate about the intersection of tech and people."
+    # url: "resume/"
+    # btn_label: "Resume"
+    # btn_class: "btn--primary"
+  - image_path: /assets/images/icons8-lecturer-100.png
+    alt: "Lecturer icon"
+    title: "3"
+    excerpt: "I've given keynotes, technical talks, and powerful talks capable of making people laugh and cry at the same time."
+    # url: "speaking/"
+    # btn_label: "Speaking"
+    # btn_class: "btn--primary"
+  - image_path: assets/images/icons8-blog-100.png
+    alt: "Blog icon"
+    title: "4"
+    excerpt: "I write about projects I've worked on, as well as a variety of other technical and personal topics."
+    # url: "blog/"
+    # btn_label: "Read"
+    # btn_class: "btn--primary"
 # feature_row2:
 #   - image_path: /assets/images/noun_favorites_484222.png
 #     alt: "Icon"
@@ -69,6 +91,8 @@ feature_row:
 <!-- {% include feature_row id="intro" type="center" %} -->
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" %}
 
 <!-- {% include feature_row id="feature_row2" type="left" %} -->
 
