@@ -38,66 +38,45 @@ feature_row:
     # url: "blog/"
     # btn_label: "Read"
     # btn_class: "btn--primary"
-feature_row2:
+feature_block1:
   - image_path: assets/images/icons8-code-100.png
     alt: "Code icon"
-    title: "2"
-    excerpt: "I am a software engineer who is passionate about the intersection of tech and people."
-    # url: "resume/"
-    # btn_label: "Resume"
-    # btn_class: "btn--primary"
+    title: "Upcoming Talks"
+    data_type: "talks"
+    number: 3
+    # sort_by: "upcoming"
+    url: "speaking/"
+    btn_label: "All Talk Schedule"
+    btn_class: "btn--primary"
+feature_block2:
   - image_path: /assets/images/icons8-lecturer-100.png
     alt: "Lecturer icon"
-    title: "3"
-    excerpt: "I've given keynotes, technical talks, and powerful talks capable of making people laugh and cry at the same time."
-    # url: "speaking/"
-    # btn_label: "Speaking"
-    # btn_class: "btn--primary"
+    title: "Recent Podcasts"
+    data_type: "podcasts"
+    number: 3
+    # sort_by: "recent"
+    url: "media/"
+    btn_label: "All Media"
+    btn_class: "btn--primary"
+feature_block3:
   - image_path: assets/images/icons8-blog-100.png
     alt: "Blog icon"
-    title: "4"
-    excerpt: "I write about projects I've worked on, as well as a variety of other technical and personal topics."
-    # url: "blog/"
-    # btn_label: "Read"
-    # btn_class: "btn--primary"
-# feature_row2:
-#   - image_path: /assets/images/noun_favorites_484222.png
-#     alt: "Icon"
-#     title: "Something something stuff stuff"
-#     excerpt: >-
-#       Testing a thing in markdown:  {% "now" | date: "%y-%m-%d" %}
-#     url: "#test-link"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
-# feature_row3:
-#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#     alt: "placeholder image 2"
-#     title: "Placeholder Image Right Aligned"
-#     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-#     url: "#test-link"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
-# feature_row4:
-#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#     alt: "placeholder image 2"
-#     title: "Placeholder Image Center Aligned"
-#     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-#     url: "#test-link"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
+    title: "Recent Blog Posts"
+    data_type: "posts"
+    number: 3
+    # sort_by: "recent"
+    url: "blog/"
+    btn_label: "All Posts"
+    btn_class: "btn--primary"
 
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} -->
-
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" %}
+{% include feature_block id="feature_block1" align="left" %}
 
-<!-- {% include feature_row id="feature_row2" type="left" %} -->
+{% include feature_block id="feature_block2" align="left" %}
 
-<!-- {% include feature_row id="feature_row3" type="right" %} -->
+{% include feature_block id="feature_block3" align="left" %}
 
-<!-- {% include feature_row id="feature_row4" type="center" %} -->
 
-More stuff goes here or something.

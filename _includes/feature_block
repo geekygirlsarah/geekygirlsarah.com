@@ -1,0 +1,83 @@
+{% if include.id %}
+  {% assign feature_block = page[include.id] %}
+{% else %}
+  {% assign feature_block = page.feature_block %}
+{% endif %}
+
+<div class="feature__wrapper">
+
+  {% for f in feature_block %}
+
+    {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+    {% endif %}
+
+    <div class="feature__item{% if include.align %}--{{ include.align }}{% endif %}">
+      <div class="archive__item">
+        {% if f.image_path %}
+          <div class="archive__item-teaser">
+            <img src=
+              {% if f.image_path contains "://" %}
+                "{{ f.image_path }}"
+              {% else %}
+                "{{ f.image_path | relative_url }}"
+              {% endif %}
+            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+
+
+          {% if f.data_type %}
+            {% assign today = "now" | date: "%Y-%m-%d" %}
+            {% assign count = 0 %}
+            <div class="archive__item-excerpt">
+              <ul>
+                {% if f.data_type == "posts" %}
+                  {% for item in site.posts %}
+                    {% if count < f.number %}
+                      <li> {{ date | date_to_string: "ordinal", "US" }}: {{ item.title }}</li>
+                      {% assign count = count | plus:1 %}
+                    {% endif %}
+                  {% endfor %}
+                {% elsif f.data_type == "talks" %}
+                  {% for item in site.data.conftalks %}
+                    {% if count < f.number %}
+                      {% assign date = item.date | date: "%Y-%m-%d" %}
+                      {% if date >= today %}
+                        <li> {{ date | date_to_xmlschema | date_to_string: "ordinal", "US" }}: {{ item.title }} ({{ item.event }})</li>
+                        {% assign count = count | plus:1 %}
+                      {% endif %}
+                    {% endif %}
+                  {% endfor %}
+                {% elsif f.data_type == "podcasts" %}
+                  {% for item in site.data.podcasts reversed %}
+                    {% if count < f.number %}
+                      {% assign date = item.date | date: "%Y-%m-%d" %}
+                      <li> {{ date | date_to_xmlschema | date_to_string: "ordinal", "US" }}: {{ item.episode }} ({{ item.show }})</li>
+                      {% assign count = count | plus:1 %}
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
+              </ul>
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
