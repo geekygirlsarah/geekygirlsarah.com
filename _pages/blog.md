@@ -14,10 +14,12 @@ header:
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
+Uh, something insightful goes here...
+
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }} ({{ post.date }})</a>
     </li>
   {% endfor %}
 </ul>
