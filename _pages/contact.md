@@ -23,7 +23,7 @@ You're welcome to send me an email with the form below and I'll try to get back
 with you as soon as possible.
 
 
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="captcha">
+<form name="contact" method="post" data-netlify="true" netlify-honeypot="captcha">
   <p>
     <label>Your name*: <input type="text" name="name" required=""/></label>   
   </p>
