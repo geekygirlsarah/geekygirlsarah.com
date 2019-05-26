@@ -14,28 +14,43 @@ header:
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
+I want to hear from you! Whether it's feedback on something I worked on, wanting 
+to collaborate on a project, or speaking at an event, I'd love for you to reach out.
 
-Sarah loves staying in touch with those in the community, and always appreciates hearing what others are learning from her talks. If you have a question or comment, please leave it below.
+I'm most easily accessible on Twitter [@geekygirlsarah](https://twitter.com/geekygirlsarah).
+
+You're welcome to send me an email with the form below and I'll try to get back 
+with you as soon as possible.
 
 
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="captcha">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>Your name*: <input type="text" name="name" required=""/></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>Your email*: <input type="email" name="email" required="" /></label>
+  </p>
+  <p>
+    <label>Your phone: <input type="tel" name="phone" /></label>
   </p>
   <p class="hidden">
     <label>Don’t fill this out if you're human: <input name="captcha" /></label>
   </p>
   <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
+    <label>Why are you reaching out?: <select name="reason" >
+      <option value="speaking">Conference/event speaking request</option>
+      <option value="podcast">Podcast guest request</option>
+      <option value="job">Talk about a job</option>
+      <option value="website">Website issue</option>
+      <option value="hey">Just reaching out</option>
+      <option value="other">Something else</option>
     </select></label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Subject: <input type="text" name="subject" /></label>   
+  </p>
+  <p>
+    <label>Your message*: <textarea name="message" required=""></textarea></label>
   </p>
   <p>
     <button type="submit">Send</button>
