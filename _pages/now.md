@@ -30,7 +30,7 @@ Quick link:  sarahwithee.com/now
 {% for item in site.data.now.near_future %}
 - {{ item.text }}{% endfor %}
 
-## Availablity
+## Availability
 
 {% for item in site.data.now.availability %}
 - {{ item.text }}{% endfor %}
