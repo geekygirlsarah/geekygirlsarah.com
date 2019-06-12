@@ -38,9 +38,9 @@ with you as soon as possible.
   </p>
   <p>
     <label>Why are you reaching out?: <select name="reason" >
+      <option value="job">Talk about a job</option>
       <option value="speaking">Conference/event speaking request</option>
       <option value="podcast">Podcast guest request</option>
-      <option value="job">Talk about a job</option>
       <option value="website">Website issue</option>
       <option value="hey">Just reaching out</option>
       <option value="other">Something else</option>
