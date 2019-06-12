@@ -1,5 +1,5 @@
 # For the /now page. Use markdown on text items
-updated: 2019-01-03
+updated: 2019-06-11
 now:
   - text: >-
       I am a software engineer presently looking for a job
@@ -11,9 +11,9 @@ now:
       Starting work on Code Thesaurus, a polyglot developer reference tool
 near_future:
   - text: >-
-      I’ll be giving two talks at Code Mash on Jan 10-11: A Primer on Functional Programming and Building Your Team to Last
+      I’ll be giving my "A Primer on Functional Programming" talk at NDC Oslo on June 19th
   - text: >-
-      I’m being interviewed for two podcast episodes in January and will be posted soon.
+      I'm scheduled to be on two podcasts in the near future
 availability:
   - text: >-
       I **am** currently looking for more conferences to speak at for my list of growing topics, both technical and non-technical. Click [here](speaking/) to see my talks.
@@ -22,4 +22,7 @@ availability:
   - text: >-
       I **am** looking for more interested women in tech, junior developers, or other underrepresented people in tech to work on an open source project I’m starting. Contact me or tweet me if interested.
   - text: >-
-      I **am** looking for more teaching or mentoring opportunities in Pittsburgh, PA. Contact me or tweet me and we can talk about it.
+      I **am** looking for more teaching or mentoring opportunities in Pittsburgh. Contact me or tweet me and we can talk about it.
+  - text: >-
+      I **am** looking for a good women in tech group in Pittsburgh to get involved with. Contact me or tweet me if you know of any!
+

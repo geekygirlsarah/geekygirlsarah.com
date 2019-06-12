@@ -14,10 +14,8 @@ header:
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-Everything you’ve wanted to know about Sarah and what’s happening right now!
-
-Quick link:  sarahwithee.com/now
-
+Everything you’ve wanted to know about me and what’s happening right now! <br />
+Quick link:  [geekygirlsarah.com/now](https://geekygirlsarah.com/now) <br />
 (This list current as of {{ site.data.now.updated | date_to_xmlschema | date_to_string: "ordinal", "US"}}.)
 
 ## Now
