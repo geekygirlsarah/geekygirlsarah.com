@@ -14,11 +14,7 @@ header:
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-
-
-Sarah has been in a variety of articles, blog posts, podcasts, videos, and websites. Here’s a list of several of them.
-
-
+Sarah has been in a variety of podcasts, articles, blog posts, and videos. Here’s a list of several of them.
 
 ## Podcasts
 

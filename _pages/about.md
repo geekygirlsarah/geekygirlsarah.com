@@ -16,14 +16,32 @@ header:
 
 <img src="/assets/images/sarah-mobile-app-umkc.jpg" style="float: right;" alt="Sarah working on a mobile app" />
 
-Sarah Withee is a polyglot software engineer in the Pittsburgh area. She attended the University of Missouri-Kansas City for her bachelors in computer science.
+## My Short Bio 
+(98 words)
 
-While at UMKC, Sarah gained three years of experience writing artificial intelligence code for the UMKC Robotics Team, was a member of the UMKC Programming Competition Team, and was the president of Upsilon Pi Epsilon (the CS/IT honor society).  She also taught an Intro to Programming 2 (C++) course, and a Intro to Programming 2 lab course while working towards her undergraduate degree.
+Sarah Withee is a polyglot software engineer, public speaker, teacher and mentor, and hardware and robot tinkerer 
+located in Pittsburgh, PA. She has a passion for technology and has ever since she wrote her first computer programs 
+in elementary school. She captivates audiences with both popular and powerful technical and anecdotal talks. She gives 
+workshops to teach programming and hardware building to women in tech, as well as to students of all ages. She's 
+mentored middle and high school robotics teams to world championships. She's even co-organized six conferences and is 
+the Director of Programming for Abstractions conference. 
 
-Sarah has been a mentor for a FIRST Tech Challenge and two FIRST LEGO League robotics teams, all whom have won numerous awards, including a top award at the FLL world competition.
 
-She has participated in a number of panels, evangelized STEM careers to many schools, and has been speaking at conferences for several years. She has given over 20 talks about engineering or robotics to various elementary, middle, and high schools. Her conference talk “Intro to Hacking with the Raspberry Pi” became the largest attended talks at the Kansas City Developer Conference in 2015.
+## My Long Bio
+(196 words)
 
-In her free time Sarah enjoys hacking on various projects (including the Raspberry Pi!).  She has participated in three hackathons, including one in which her team won the Best Mobile App award.
+Sarah Withee is a polyglot software engineer, public speaker, teacher and mentor, and hardware and robot tinkerer 
+located in Pittsburgh, PA. She is also the Director of Programming for Abstractions Conference. She has a passion for 
+technology, and has ever since she wrote her first computer programs in elementary school.
 
-Sarah is also committed to supporting women in computer science.  She is on the planning committee for the Missouri, Iowa, Nebraska, and Kansas Women in Computing conference. She has also been a mentor for the Tech sHeroes program for middle schoolers, and a member and conference planner for the Society of Women Engineers.
+Sarah has given incredibly popular conference technical talks (including the only encore she’s ever heard of) as well 
+as powerful talks capable of making people laugh and cry at the same time. She’s given workshops to teach programming 
+and hardware building to women in tech, as well as to students of all ages. She’s mentored middle and high school 
+robotics teams to world championships. She’s even helped organize six conferences, been on a Google Year in Search 
+video, and started the viral hashtag #SpeakerConfessions.
+
+She passionately tries to connect with people and communities, both online and offline, and encourage and support new 
+people going in tech. She even started a podcast to try to help boost underrepresented groups in tech.
+
+Sarah would love to connect with you too! Say hello over on Twitter, LinkedIn, her blog, or you can contact her 
+directly on the Contact page.
