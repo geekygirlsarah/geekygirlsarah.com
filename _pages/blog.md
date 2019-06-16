@@ -19,7 +19,7 @@ Uh, something insightful goes here...
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }} ({{ post.date }})</a>
+      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_xmlschema | date_to_string: "ordinal", "US" }})
     </li>
   {% endfor %}
 </ul>
