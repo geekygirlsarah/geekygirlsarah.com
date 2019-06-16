@@ -6,66 +6,72 @@
   font-style: normal;
 }
 
-.home_feature_table
-{
-    display: table;
-    width: 100%;
+.home_feature_table {
+  display: table;
+  width: 100%;
 }
-.home_feature_table_title
-{
-    display: table-caption;
-    text-align: center;
-    font-weight: bold;
-    font-size: larger;
+
+.home_feature_table_title {
+  display: table-caption;
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
 }
-.home_feature_table_heading
-{
-    display: table-row;
-    font-weight: bold;
-    text-align: center;
+
+.home_feature_table_heading {
+  display: table-row;
+  font-weight: bold;
+  text-align: center;
 }
-.home_feature_table_row
-{
-    display: table-row;
+
+.home_feature_table_row {
+  display: table-row;
+  vertical-align: top;
 }
-.home_feature_table_cell
-{
-    display: table-cell;
-    border: none;
-    padding-left: 5px;
-    padding-right: 5px;
+
+.home_feature_table_cell {
+  display: table-cell;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  vertical-align: top;
+
 }
-.home_feature_table_cell_third
-{
+
+.home_feature_table_cell_third {
   display: table-cell;
   border: none;
   padding-left: 5px;
   padding-right: 20px;
-  width: 33%
+  width: 33%;
 }
-.home_feature_table_cell_third h2
-{
+
+.home_feature_table_cell_third h2 {
   text-align: center;
 }
-.home_feature_table_cell_third p
-{
+
+.home_feature_table_cell_third p {
   text-align: center;
 }
-.home_feature_table_cell_image
-{
-    display: table-cell;
-    border: none;
-    padding-left: 5px;
-    padding-right: 5px;
-    width: 125px;
-    text-align: center;
+
+.home_feature_table_cell_image {
+  display: table-cell;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 125px;
+  text-align: center;
+  vertical-align: middle;
 }
-.home_feature_table_cell_image
-{
-    display: table-cell;
-    border: none;
-    padding-left: 5px;
-    padding-right: 5px;
-    width: 125px;
-    text-align: center;
-}
+
+/* media queries */
+//@media screen and (max-width: 600px) {
+//  .home_feature_table_cell_third {
+//    display: table-cell;
+//    border: none;
+//    padding-left: 5px;
+//    padding-right: 20px;
+//    width: 100%;
+//  }
+//
+//}
