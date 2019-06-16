@@ -7,16 +7,54 @@ date: 2019-05-19T12:00:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/code-mash-lightning-talk.jpg
+  overlay_image: assets/images/splash_bg_codemash_2019.jpg
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
+<nav class="container-grid center">
+  <div class="background-gray container-padding-vert-sm container-padding-horiz grid-column-span-6-sm grid-column-start-2-md grid-column-span-4-md grid-column-start-3-lg grid-column-span-2-lg">
+    <h3 class="text-headline-3">Jump to a section</h3>
+    <ul class="list-unstyled list-inline">
+      <li class="mr-1 mb-2">
+        <a class="button button-small" href="#history">History</a>
+      </li>
+      <li class="mr-1 mb-2">
+        <a class="button btn--primary" href="#bios">Bios</a>
+      </li>
+      <li>
+        <a class="button button-small" href="#robots">Robots</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr />
+
 <img src="/assets/images/sarah-mobile-app-umkc.jpg" style="float: right;" alt="Sarah working on a mobile app" />
 
-## My Short Bio 
+## My Short Bio
+(41 words)
+
+Sarah is a polyglot software engineer, international public speaker, teacher and mentor, and hardware and robot 
+tinkerer in Pittsburgh, PA. She has always loved programming and technology for as long as she can remember. She lives 
+up to her Twitter username.
+
+## My Medium Bio 
 (98 words)
 
 Sarah Withee is a polyglot software engineer, public speaker, teacher and mentor, and hardware and robot tinkerer 

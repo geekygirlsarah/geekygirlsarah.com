@@ -7,7 +7,7 @@ date: 2019-05-19T12:00:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/code-mash-lightning-talk.jpg
+  overlay_image: assets/images/splash_bg_codemash_2019.jpg
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
