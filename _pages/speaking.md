@@ -14,9 +14,13 @@ header:
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-Sarah has given various presentations and talks. If you’re interested in having her speak, please send a message on the Contact page.
+I've given all sorts of presentations from workshops to keynote presentations. I've also spoken locally, regionally, 
+nationally, and internationally. If you’re interested in having me speak, please reach out! Send me a message on my 
+[Contact](contact/) page.
 
-## Upcoming Speaking Events
+I've presented over 50 times at assorted conferences and events. Check out past talks I've given towards the bottom of the page.
+
+## Upcoming Events
 
 {% assign today = "now" | date: "%Y-%m-%d" %}
 
@@ -25,7 +29,40 @@ Sarah has given various presentations and talks. If you’re interested in havin
 {% for item in site.data.conftalks %}{% assign event_date = item.date | date: "%Y-%m-%d" %}{% if event_date >= today %}{% if item.date == item.end_date %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {% if item.event_url %}<a href="{{ item.event_url}}" target="_blank">{{ item.event }}</a>{% else %}{{ item.event }}{% endif %} | {{ item.location }} | {{ item.type }} | {% if item.talk_url %}<a href="{{ item.talk_url}}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
 {% endif %}{% endfor %}
 
-## Past Speaking Events
+## About My Talks
+
+I really love speaking about the intersection of where tech and people come together. As a polyglot (multiple-language) 
+software engineer, I've worked in a variety of tech stacks and fields and I have a wide range of interests. My talks 
+often reflect this and I bring a different perspective to many topics in the field, both technically and professionally.
+
+If you see a talk that interests you, or would like to discuss maybe creating a talk or discussing something 
+specifically for your event, please reach out to me. I'd love to chat more about it. Drop me a line on my 
+[Contact](contact/) page.
+
+Here's a list of my talks I've given.
+
+**Keynote-Worthy Talks**
+- [Building an Open Source Artificial Pancreas](https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/)
+- [Doors](https://sarahwithee.com/speaking/doors/)
+- [The Power of Secrets](https://sarahwithee.com/speaking/the-power-of-secrets/)
+
+**Technical Talks**
+- [A Primer on Functional Programming](https://sarahwithee.com/speaking/a-primer-on-functional-programming/)
+- [Building an Open Source Artificial Pancreas](https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/)
+- [“Hey Mycroft”: Getting Started with the Open Source Home Assistant](https://sarahwithee.com/speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/)
+- [Intro to Hacking with the Raspberry Pi](https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/)
+    
+**Professional Skills/Human Skills Talks**
+- [Building an Open Source Artificial Pancreas](https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/)
+- [Building Your Team to Last: Successful Onboarding and Mentoring Practices](https://sarahwithee.com/speaking/building-your-team-to-last/)
+- [Doors](https://sarahwithee.com/speaking/doors/)
+- Life as a Midwestern Developer
+- [Maintaining Your Mental and Emotional Health While Job Hunting](https://sarahwithee.com/speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/)
+- [The Power of Secrets](https://sarahwithee.com/speaking/the-power-of-secrets/)
+- [Pursuing a Passion Project: Struggles and Successes]()
+
+
+## Past Events
 
 | Date | Event | Location | Talk Type | Talk Title | 
 |------|-------|----------|-----------|------------|
