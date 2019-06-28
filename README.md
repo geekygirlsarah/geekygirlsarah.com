@@ -1,6 +1,6 @@
 # geekygirlsarah.com
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6b9259db-5daa-4714-99ae-c5a627fc5fae/deploy-status)](https://app.netlify.com/sites/geekygirlsarah-alpha/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b9259db-5daa-4714-99ae-c5a627fc5fae/deploy-status)](https://app.netlify.com/sites/geekygirlsarah/deploys)
 
 It's my new website! Exciting, huh?
 

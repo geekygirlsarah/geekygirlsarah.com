@@ -33,8 +33,8 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geekygirlsarah/geekygirlsarah.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title_enable    : false # overrides the website title displayed in the masthead, use " " for no title
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title_enable    : true # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : GeekyGirlSarah  # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -178,8 +178,6 @@ footer:
 #    - label: "YouTube"
 #      icon: "fab fa-fw fa-youtube"
 #      url: "https://youtube.com/user/geekygirlsarah"
-
-
 
 
 # Reading Files
@@ -330,10 +328,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-
-
-# Not sure if these do anything, so commenting out for now
-# twitter_username: geekygirlsarah
-# github_username:  geekygirlsarah
-
