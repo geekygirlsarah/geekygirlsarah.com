@@ -1,0 +1,25 @@
+main:
+  - title: "Home"
+    description: Home page
+    url: /
+#  - title: "About"
+#    description: About Sarah
+#    url: about/
+  #  - title: "What I'm Doing Now"
+  #    description: Quick summary of things I'm up to lately
+  #    url: now/
+  - title: "Resume"
+    description: My professional background
+    url: resume/
+  - title: "Speaking"
+    description: All of my past and present speaking events
+    url: speaking/
+  - title: "Media/Press"
+    description: Any media I've been mentioned in
+    url: media/
+#  - title: "Blog"
+#    description: Assorted thoughts and writings
+#    url: blog/
+  - title: "Contact"
+    description: How to get a hold of me
+    url: contact/

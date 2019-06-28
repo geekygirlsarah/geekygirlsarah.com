@@ -1,0 +1,35 @@
+{% assign type = include.data_type %}
+{% assign show_number = include.show_number %}
+
+{% if type %}
+  {% assign today = "now" | date: "%Y-%m-%d" %}
+  {% assign count = 0 %}
+  <ul>
+    {% if type == "posts" %}
+      {% for item in site.posts %}
+        {% if count < show_number %}
+          <li>{{ date | date_to_string: "ordinal", "US" }}: {{ item.title }}</li>
+          {% assign count = count | plus:1 %}
+        {% endif %}
+      {% endfor %}
+    {% elsif type == "talks" %}
+      {% for item in site.data.conftalks %}
+        {% if count < show_number %}
+          {% assign date = item.date | date: "%Y-%m-%d" %}
+          {% if date >= today %}
+            <li>{{ date | date_to_xmlschema | date_to_string: "ordinal", "US" }}: {{ item.title }} ({{ item.event }})</li>
+            {% assign count = count | plus:1 %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% elsif type == "podcasts" %}
+      {% for item in site.data.podcasts reversed %}
+        {% if count < show_number %}
+          {% assign date = item.date | date: "%Y-%m-%d" %}
+          <li>{{ date | date_to_xmlschema | date_to_string: "ordinal", "US" }}: {{ item.episode }} ({{ item.show }})</li>
+          {% assign count = count | plus:1 %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </ul>
+{% endif %}

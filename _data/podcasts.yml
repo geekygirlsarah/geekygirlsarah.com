@@ -1,0 +1,40 @@
+- show: "LGBTQ Tech Podcast"
+  episode: "Episode 0: What Is This?"
+  url: http://lgbtq.fm/0/
+  date: 2015-11-30
+- show: "LGBTQ Tech Podcast"
+  episode: "Episode 1: Origin Stories"
+  url: http://lgbtq.fm/1/
+  date: 2015-12-03
+- show: "LGBTQ Tech Podcast"
+  episode: "Episode 2: Coming Out in the Workplace"
+  url: http://lgbtq.fm/2/
+  date: 2016-01-19
+- show: "LGBTQ Tech Podcast"
+  episode: "Episode 4: Things That Excite Us in Tech"
+  url: http://lgbtq.fm/4/
+  date: 2016-02-29
+- show: "Hallway Chats"
+  episode: "Episode 29: Sarah Withee"
+  url: https://hallwaychats.com/episodes/episode-29-sarah-withee/
+  date: 2017-12-28
+- show: "Screaming Into The Cloud"
+  episode: "Episode 12: Like Normal Cloud Services, but More Depressing"
+  url: https://www.screaminginthecloud.com/episodes/2018/5/29/episode-12-like-normal-cloud-services-but-more-depressing
+  date: 2018-05-29
+- show: "Developer on Fire"
+  episode: "Episode 407: Sarah Withee - Open Learning"
+  url: https://developeronfire.com/podcast/episode-407-sarah-withee-open-learning
+  date: 2019-01-21
+- show: ".Net Rocks Podcast"
+  episode: "Episode 1623: Open Source Home Assistants"
+  url: https://www.dotnetrocks.com/?show=1623
+  date: 2019-02-21
+- show: "Ruby on Rails Podcast"
+  episode: "Episode 263: Abstractions and Generalist Strategy with Sarah Withee"
+  url: http://5by5.tv/rubyonrails/263
+  date: 2019-03-05
+- show: "IT Career Energizer"
+  episode: "Episode 158 – Always Be Willing to Try Something New to Become a Better IT Professional with Sarah Withee"
+  url: https://itcareerenergizer.com/e158/
+  date: 2019-05-01

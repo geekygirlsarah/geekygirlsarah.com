@@ -1,0 +1,28 @@
+# For the /now page. Use markdown on text items
+updated: 2019-06-11
+now:
+  - text: >-
+      I am a software engineer presently looking for a job
+  - text: >-
+      Currently living in Pittsburgh, PA
+  - text: >-
+      I am the Director of Programming for the Abstractions 2 conference
+  - text: >-
+      Starting work on Code Thesaurus, a polyglot developer reference tool
+near_future:
+  - text: >-
+      I’ll be giving my "A Primer on Functional Programming" talk at NDC Oslo on June 19th
+  - text: >-
+      I'm scheduled to be on two podcasts in the near future
+availability:
+  - text: >-
+      I **am** currently looking for more conferences to speak at for my list of growing topics, both technical and non-technical. Click [here](speaking/) to see my talks.
+  - text: >-
+      I **am** looking for more guests for The Rest of Us in Tech podcast, which has the goal of amplifying voices, stories, and projects from underrepresented people in tech. Contact me or tweet me if you have something to share or know of people with good stories/projects.
+  - text: >-
+      I **am** looking for more interested women in tech, junior developers, or other underrepresented people in tech to work on an open source project I’m starting. Contact me or tweet me if interested.
+  - text: >-
+      I **am** looking for more teaching or mentoring opportunities in Pittsburgh. Contact me or tweet me and we can talk about it.
+  - text: >-
+      I **am** looking for a good women in tech group in Pittsburgh to get involved with. Contact me or tweet me if you know of any!
+
