@@ -26,8 +26,8 @@
   title: Why You Should Participate in a Hackathon
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.minkwic.org/
+  talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2013-10-19
   end_date: 2013-10-19
   event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
@@ -36,8 +36,8 @@
   title: Becoming an Undergraduate Teaching Assistant
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.minkwic.org/
+  talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2014-02-21
   end_date: 2014-02-21
   event: Introduce a Girl to Engineering Day
@@ -76,8 +76,8 @@
   title: Intro to Hacking with the Raspberry Pi
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://nebraskacode.amegala.com/
+  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-04-28
   end_date: 2015-04-28
   event: UMKC IEEE Meeting
@@ -87,7 +87,7 @@
   room: 
   time: 
   event_url: 
-  talk_url: 
+  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-06-25
   end_date: 2015-06-25
   event: Kansas City Developer Conference
@@ -96,8 +96,8 @@
   title: Intro to Hacking with the Raspberry Pi
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://2015.kcdc.info/#!/speakers/sarah-withee
+  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-06-26
   end_date: 2015-06-26
   event: Kansas City Developer Conference
@@ -106,8 +106,8 @@
   title: Intro to Hacking with the Raspberry Pi (encore)
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://2015.kcdc.info/#!/speakers/sarah-withee
+  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-10-17
   end_date: 2015-10-17
   event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
@@ -116,8 +116,8 @@
   title: Intro to Hacking with the Raspberry Pi
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.minkwic.org/
+  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-11-12
   end_date: 2015-11-12
   event: IEEE-KC CompSci monthly meeting
@@ -127,7 +127,7 @@
   room: 
   time: 
   event_url: 
-  talk_url: 
+  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2016-05-19
   end_date: 2016-05-19
   event: Nebraska.Code() Conference
@@ -136,8 +136,8 @@
   title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://nebraskacode.com/speakers/sarah-withee
+  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
 - date: 2016-05-19
   end_date: 2016-05-19
   event: Nebraska.Code() Conference
@@ -146,8 +146,8 @@
   title: A Primer on Functional Programming
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://nebraskacode.com/speakers/sarah-withee
+  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
 - date: 2016-05-21
   end_date: 2016-05-21
   event: Self.Conference
@@ -156,8 +156,8 @@
   title: A Primer on Functional Programming
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://selfconference.org/events/2/sessions#speaker_2
+  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
 - date: 2016-05-21
   end_date: 2016-05-21
   event: Self.Conference
@@ -166,8 +166,8 @@
   title: Encouraging Kids Through Robotics Mentoring
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://selfconference.org/events/2/sessions#speaker_2
+  talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2016-06-23
   end_date: 2016-06-23
   event: Kansas City Developer Conference
@@ -176,8 +176,8 @@
   title: A Primer on Functional Programming
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://www.kcdc.info/#!/speakers/sarah-withee
+  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
 - date: 2016-06-24
   end_date: 2016-06-24
   event: Kansas City Developer Conference
@@ -186,8 +186,8 @@
   title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://www.kcdc.info/#!/speakers/sarah-withee
+  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
 - date: 2016-08-12
   end_date: 2016-08-12
   event: AndConf
@@ -196,8 +196,8 @@
   title: Why Self Care Is Harder for Me
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://andconf.io/
+  talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2016-09-26
   end_date: 2016-09-26
   event: Girl Develop It – Kansas City
@@ -206,8 +206,8 @@
   title: JavaScript for Beginners
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.meetup.com/Girl-Develop-It-Kansas-City/events/233650726/
+  talk_url: https://www.meetup.com/Girl-Develop-It-Kansas-City/events/233650726/
 - date: 2016-10-01
   end_date: 2016-10-01
   event: AlterConf
@@ -216,8 +216,8 @@
   title: The Power of Secrets
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.alterconf.com/talks/power-secrets
+  talk_url: https://sarahwithee.com/speaking/the-power-of-secrets/
 - date: 2016-10-27
   end_date: 2016-10-27
   event: Prairie.Code() Conference
@@ -226,8 +226,8 @@
   title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://prairiecode.amegala.com/
+  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
 - date: 2016-10-28
   end_date: 2016-10-28
   event: Prairie.Code() Conference
@@ -236,8 +236,8 @@
   title: A Primer on Functional Programming
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://prairiecode.amegala.com/
+  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
 - date: 2017-05-07
   end_date: 2017-05-07
   event: Listen to Your Mother Kansas City
@@ -246,7 +246,7 @@
   title: I’d Like to Be A Mother Someday, But…
   room: 
   time: 
-  event_url: 
+  event_url: http://listentoyourmothershow.com/kansascity/
   talk_url: 
 - date: 2017-05-19
   end_date: 2017-05-19
@@ -256,8 +256,8 @@
   title: The Power of Secrets
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://selfconference.org/
+  talk_url: https://sarahwithee.com/speaking/the-power-of-secrets/
 - date: 2017-05-19
   end_date: 2017-05-19
   event: Self.Conference
@@ -266,8 +266,8 @@
   title: How to Start a Podcast
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://selfconference.org/
+  talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2017-08-26
   end_date: 2017-08-26
   event: AlterConf
@@ -276,7 +276,7 @@
   title: Life as a Midwestern Developer
   room: 
   time: 
-  event_url: 
+  event_url: https://www.alterconf.com/conferences/2017/austin-tx
   talk_url: 
 - date: 2017-10-16
   end_date: 2017-10-16
@@ -286,8 +286,8 @@
   title: The Power of Secrets
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://devupconf.org/Speakers/435
+  talk_url: https://sarahwithee.com/speaking/the-power-of-secrets/
 - date: 2017-10-17
   end_date: 2017-10-17
   event: devUp Conference
@@ -296,8 +296,8 @@
   title: Intro to Hacking with the Raspberry Pi
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://devupconf.org/Speakers/435
+  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2017-11-04
   end_date: 2017-11-04
   event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
@@ -306,7 +306,7 @@
   title: "Pursuing a Passion Project: Struggles and Successes"
   room: 
   time: 
-  event_url: 
+  event_url: http://minkwic.org/program/tech-talks/#passion
   talk_url: 
 - date: 2018-01-18
   end_date: 2018-01-18
@@ -316,8 +316,8 @@
   title: Doors
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.eventbrite.com/e/2018-apprenticeship-launch-celebration-tickets-41595729948
+  talk_url: https://sarahwithee.com/speaking/doors/
 - date: 2018-04-20
   end_date: 2018-04-21
   event: Heartifacts
@@ -326,8 +326,8 @@
   title: 
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://codeandsupply.co/heartifacts
+  talk_url: https://codeandsupply.co/heartifacts
 - date: 2018-04-30
   end_date: 2018-05-02
   event: deliver:Agile
@@ -336,8 +336,8 @@
   title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.agilealliance.org/deliver-agile-2018/#q=~(filters~(postType~(~'aa_event_session~'aa_video)~sources~(~'deliver*3aAgile*202018))~searchTerm~'~sort~'name.sort~sortDirection~'asc~page~1)
+  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
 - date: 2018-05-31
   end_date: 2018-06-02
   event: Music City Code
@@ -346,8 +346,8 @@
   title: A Primer on Functional Programming
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://www.musiccitytech.com/sessions/
+  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
 - date: 2018-08-17
   end_date: 2018-08-18
   event: Self.Conference
@@ -356,8 +356,8 @@
   title: I Built an Artificial Pancreas!
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://selfconference.org/sessions#speaker_2
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2018-08-17
   end_date: 2018-08-18
   event: Self.Conference
@@ -366,8 +366,8 @@
   title: Maintaining Your Mental and Emotional Health While Job Hunting
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://selfconference.org/sessions#speaker_2
+  talk_url: https://sarahwithee.com/speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
 - date: 2018-08-20
   end_date: 2018-08-20
   event: Pittsburgh Code & Supply Meetup
@@ -376,8 +376,8 @@
   title: Intro to Hacking with the Raspberry Pi
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.meetup.com/Pittsburgh-Code-Supply/events/252757579/
+  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2018-09-14
   end_date: 2018-09-14
   event: CodeDaze Vol. 2
@@ -386,8 +386,8 @@
   title: A Primer on Functional Programming
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://codedaze.me/
+  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
 - date: 2018-09-27
   end_date: 2018-09-27
   event: Strange Loop
@@ -396,8 +396,8 @@
   title: I Built an Artificial Pancreas!
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://github.com/strangeloop/StrangeLoop2018/wiki/Lightning-Talks-Sign-up
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2018-10-08
   end_date: 2018-10-10
   event: devUp Conference
@@ -406,8 +406,8 @@
   title: Maintaining Your Mental and Emotional Health While Job Hunting
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://devupconf.org/speakers/Sarah-Withee
+  talk_url: https://sarahwithee.com/speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
 - date: 2018-10-08
   end_date: 2018-10-10
   event: devUp Conference
@@ -416,8 +416,8 @@
   title: A Primer on Functional Programming
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://devupconf.org/speakers/Sarah-Withee
+  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
 - date: 2018-11-12
   end_date: 2018-11-12
   event: Pittsburgh Code & Supply / Python Users Group
@@ -426,7 +426,7 @@
   title: "Small Snakes: Python for microcontrollers & embedded systems (panelist)"
   room: 
   time: 
-  event_url: 
+  event_url: https://www.meetup.com/Pittsburgh-Code-Supply/
   talk_url: 
 - date: 2019-01-09
   end_date: 2019-01-11
@@ -436,8 +436,8 @@
   title: Building Your Team to Last
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://www.codemash.org/
+  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
 - date: 2019-01-09
   end_date: 2019-01-11
   event: Code Mash
@@ -446,8 +446,8 @@
   title: A Primer on Functional Programming
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://www.codemash.org/
+  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
 - date: 2019-01-09
   end_date: 2019-01-11
   event: Code Mash
@@ -456,8 +456,8 @@
   title: I Built an Artificial Pancreas!
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://www.codemash.org/
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-02-01
   end_date: 2019-02-01
   event: NDC London
@@ -466,8 +466,8 @@
   title: "“Hey Mycroft”: Getting Started with the OSS Home Assistant"
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://ndc-london.com/
+  talk_url: https://sarahwithee.com/speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
 - date: 2019-02-07
   end_date: 2019-02-07
   event: Pittsburgh Code & Supply/ Engineering Management Meetup
@@ -476,8 +476,8 @@
   title: Building Your Team to Last
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.meetup.com/Pittsburgh-Code-Supply/events/258286538
+  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
 - date: 2019-04-26
   end_date: 2019-04-26
   event: Stir Trek
@@ -486,8 +486,8 @@
   title: Intro to Hacking with the Raspberry Pi
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://stirtrek.com/
+  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2019-05-03
   end_date: 2019-05-03
   event: Penguicon
@@ -496,8 +496,8 @@
   title: Building an Open Source Artificial Pancreas
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://2019.penguicon.org/
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-05-03
   end_date: 2019-05-03
   event: Penguicon
@@ -506,8 +506,8 @@
   title: Maintaining Your Mental and Emotional Health While Job Hunting
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://2019.penguicon.org/
+  talk_url: https://sarahwithee.com/speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
 - date: 2019-05-04
   end_date: 2019-05-04
   event: PyCon US
@@ -516,8 +516,8 @@
   title: Building an Open Source Artificial Pancreas
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://us.pycon.org/2019/
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-05-11
   end_date: 2019-05-12
   event: "!!Con"
@@ -526,8 +526,8 @@
   title: I Built an Artificial Pancreas!
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://bangbangcon.com/
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-06-07
   end_date: 2019-06-08
   event: Self.Conference
@@ -536,8 +536,8 @@
   title: Building an Open Source Artificial Pancreas
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: http://selfconference.org/events/2/sessions#speaker_2
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-06-19
   end_date: 2019-06-21
   event: NDC Oslo
@@ -546,8 +546,8 @@
   title: A Primer on Functional Programming
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://ndcoslo.com/
+  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
 - date: 2019-08-05
   end_date: 2019-08-08
   event: THAT Conference
@@ -556,7 +556,7 @@
   title: “What is a HashTrieStackFilter?” A Data Structures & Algorithms Refresher For Everyone
   room: 
   time: 
-  event_url: 
+  event_url: https://www.thatconference.com/
   talk_url: 
 - date: 2019-08-05
   end_date: 2019-08-08
@@ -566,8 +566,8 @@
   title: Building an Open Source Artificial Pancreas
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://www.thatconference.com/
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-09-12
   end_date: 2019-09-14
   event: Strange Loop
@@ -576,8 +576,8 @@
   title: Building an Open Source Artificial Pancreas
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://thestrangeloop.com/
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-11-03
   end_date: 2019-11-08
   event: Agile + DevOps East
@@ -586,5 +586,5 @@
   title: Building an Open Source Artificial Pancreas
   room: 
   time: 
-  event_url: 
-  talk_url: 
+  event_url: https://agiledevopseast.techwell.com/
+  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/

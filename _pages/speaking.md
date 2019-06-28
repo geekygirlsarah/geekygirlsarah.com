@@ -22,12 +22,12 @@ Sarah has given various presentations and talks. If you’re interested in havin
 
 | Date | Event | Location | Talk Type | Talk Title | 
 |------|-------|----------|-----------|------------|
-{% for item in site.data.conftalks %}{% assign event_date = item.date | date: "%Y-%m-%d" %}{% if event_date >= today %}{% if item.date == item.end_date %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {{ item.event }} | {{ item.location }} | {{ item.type }} | {{ item.title }}
+{% for item in site.data.conftalks %}{% assign event_date = item.date | date: "%Y-%m-%d" %}{% if event_date >= today %}{% if item.date == item.end_date %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {% if item.event_url %}<a href="{{ item.event_url}}" target="_blank">{{ item.event }}</a>{% else %}{{ item.event }}{% endif %} | {{ item.location }} | {{ item.type }} | {% if item.talk_url %}<a href="{{ item.talk_url}}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
 {% endif %}{% endfor %}
 
 ## Past Speaking Events
 
 | Date | Event | Location | Talk Type | Talk Title | 
 |------|-------|----------|-----------|------------|
-{% for item in site.data.conftalks reversed %}{% assign event_date = item.date | date: "%Y-%m-%d" %}{% if event_date < today %}{% if item.date == item.end_date %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {{ item.event }} | {{ item.location }} | {{ item.type }} | {{ item.title }}
+{% for item in site.data.conftalks reversed %}{% assign event_date = item.date | date: "%Y-%m-%d" %}{% if event_date < today %}{% if item.date == item.end_date %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {% if item.event_url %}<a href="{{ item.event_url}}" target="_blank">{{ item.event }}</a>{% else %}{{ item.event }}{% endif %} | {{ item.location }} | {{ item.type }} | {% if item.talk_url %}<a href="{{ item.talk_url}}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
 {% endif %}{% endfor %}
