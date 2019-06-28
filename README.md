@@ -1,5 +1,7 @@
 # geekygirlsarah.com
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b9259db-5daa-4714-99ae-c5a627fc5fae/deploy-status)](https://app.netlify.com/sites/geekygirlsarah-alpha/deploys)
+
 It's my new website! Exciting, huh?
 
 It's built in Jekyll, a static site generator, and uses the Minimal Mistakes theme available at 
