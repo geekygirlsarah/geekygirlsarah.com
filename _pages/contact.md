@@ -42,12 +42,13 @@ with you as soon as possible.
       <option value="speaking">Conference/event speaking request</option>
       <option value="podcast">Podcast guest request</option>
       <option value="website">Website issue</option>
+      <option value="collaboration">Collaborate on a project together</option>
       <option value="hey">Just reaching out</option>
       <option value="other">Something else</option>
     </select></label>
   </p>
   <p>
-    <label>Subject: <input type="text" name="subject" /></label>   
+    <label>Subject: <input type="text" name="subject" required="" /></label>   
   </p>
   <p>
     <label>Your message*: <textarea name="message" required=""></textarea></label>
