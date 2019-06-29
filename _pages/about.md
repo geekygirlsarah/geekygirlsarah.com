@@ -14,26 +14,9 @@ header:
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-<nav class="container-grid center">
-  <div class="background-gray container-padding-vert-sm container-padding-horiz grid-column-span-6-sm grid-column-start-2-md grid-column-span-4-md grid-column-start-3-lg grid-column-span-2-lg">
-    <h3 class="text-headline-3">Jump to a section</h3>
-    <ul class="list-unstyled list-inline">
-      <li class="mr-1 mb-2">
-        <a class="button button-small" href="#history">History</a>
-      </li>
-      <li class="mr-1 mb-2">
-        <a class="button btn--primary" href="#bios">Bios</a>
-      </li>
-      <li>
-        <a class="button button-small" href="#robots">Robots</a>
-      </li>
-    </ul>
-  </div>
-</nav>
+## I'm a software engineer
 
-
-
-
+I learned to program in BASIC on my Commodore 64 when I was a kid. 
 
 
 
@@ -47,6 +30,7 @@ header:
 
 <img src="/assets/images/sarah-mobile-app-umkc.jpg" style="float: right;" alt="Sarah working on a mobile app" />
 
+<!-- 
 ## My Short Bio
 (41 words)
 
@@ -83,3 +67,4 @@ people going in tech. She even started a podcast to try to help boost underrepre
 
 Sarah would love to connect with you too! Say hello over on Twitter, LinkedIn, her blog, or you can contact her 
 directly on the Contact page.
+-->

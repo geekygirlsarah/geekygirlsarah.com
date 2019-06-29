@@ -77,7 +77,7 @@
   room: 
   time: 
   event_url: https://nebraskacode.amegala.com/
-  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-04-28
   end_date: 2015-04-28
   event: UMKC IEEE Meeting
@@ -87,7 +87,7 @@
   room: 
   time: 
   event_url: 
-  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-06-25
   end_date: 2015-06-25
   event: Kansas City Developer Conference
@@ -97,7 +97,7 @@
   room: 
   time: 
   event_url: http://2015.kcdc.info/#!/speakers/sarah-withee
-  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-06-26
   end_date: 2015-06-26
   event: Kansas City Developer Conference
@@ -107,7 +107,7 @@
   room: 
   time: 
   event_url: http://2015.kcdc.info/#!/speakers/sarah-withee
-  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-10-17
   end_date: 2015-10-17
   event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
@@ -117,7 +117,7 @@
   room: 
   time: 
   event_url: https://www.minkwic.org/
-  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-11-12
   end_date: 2015-11-12
   event: IEEE-KC CompSci monthly meeting
@@ -127,7 +127,7 @@
   room: 
   time: 
   event_url: 
-  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2016-05-19
   end_date: 2016-05-19
   event: Nebraska.Code() Conference
@@ -137,7 +137,7 @@
   room: 
   time: 
   event_url: http://nebraskacode.com/speakers/sarah-withee
-  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
+  talk_url: /speaking/building-your-team-to-last/
 - date: 2016-05-19
   end_date: 2016-05-19
   event: Nebraska.Code() Conference
@@ -147,7 +147,7 @@
   room: 
   time: 
   event_url: http://nebraskacode.com/speakers/sarah-withee
-  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
+  talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2016-05-21
   end_date: 2016-05-21
   event: Self.Conference
@@ -157,7 +157,7 @@
   room: 
   time: 
   event_url: http://selfconference.org/events/2/sessions#speaker_2
-  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
+  talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2016-05-21
   end_date: 2016-05-21
   event: Self.Conference
@@ -177,7 +177,7 @@
   room: 
   time: 
   event_url: http://www.kcdc.info/#!/speakers/sarah-withee
-  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
+  talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2016-06-24
   end_date: 2016-06-24
   event: Kansas City Developer Conference
@@ -187,7 +187,7 @@
   room: 
   time: 
   event_url: http://www.kcdc.info/#!/speakers/sarah-withee
-  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
+  talk_url: /speaking/building-your-team-to-last/
 - date: 2016-08-12
   end_date: 2016-08-12
   event: AndConf
@@ -217,7 +217,7 @@
   room: 
   time: 
   event_url: https://www.alterconf.com/talks/power-secrets
-  talk_url: https://sarahwithee.com/speaking/the-power-of-secrets/
+  talk_url: /speaking/the-power-of-secrets/
 - date: 2016-10-27
   end_date: 2016-10-27
   event: Prairie.Code() Conference
@@ -227,7 +227,7 @@
   room: 
   time: 
   event_url: https://prairiecode.amegala.com/
-  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
+  talk_url: /speaking/building-your-team-to-last/
 - date: 2016-10-28
   end_date: 2016-10-28
   event: Prairie.Code() Conference
@@ -237,7 +237,7 @@
   room: 
   time: 
   event_url: https://prairiecode.amegala.com/
-  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
+  talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2017-05-07
   end_date: 2017-05-07
   event: Listen to Your Mother Kansas City
@@ -257,7 +257,7 @@
   room: 
   time: 
   event_url: http://selfconference.org/
-  talk_url: https://sarahwithee.com/speaking/the-power-of-secrets/
+  talk_url: /speaking/the-power-of-secrets/
 - date: 2017-05-19
   end_date: 2017-05-19
   event: Self.Conference
@@ -287,7 +287,7 @@
   room: 
   time: 
   event_url: http://devupconf.org/Speakers/435
-  talk_url: https://sarahwithee.com/speaking/the-power-of-secrets/
+  talk_url: /speaking/the-power-of-secrets/
 - date: 2017-10-17
   end_date: 2017-10-17
   event: devUp Conference
@@ -297,7 +297,7 @@
   room: 
   time: 
   event_url: http://devupconf.org/Speakers/435
-  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2017-11-04
   end_date: 2017-11-04
   event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
@@ -317,7 +317,7 @@
   room: 
   time: 
   event_url: https://www.eventbrite.com/e/2018-apprenticeship-launch-celebration-tickets-41595729948
-  talk_url: https://sarahwithee.com/speaking/doors/
+  talk_url: /speaking/doors/
 - date: 2018-04-20
   end_date: 2018-04-21
   event: Heartifacts
@@ -337,7 +337,7 @@
   room: 
   time: 
   event_url: https://www.agilealliance.org/deliver-agile-2018/#q=~(filters~(postType~(~'aa_event_session~'aa_video)~sources~(~'deliver*3aAgile*202018))~searchTerm~'~sort~'name.sort~sortDirection~'asc~page~1)
-  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
+  talk_url: /speaking/building-your-team-to-last/
 - date: 2018-05-31
   end_date: 2018-06-02
   event: Music City Code
@@ -347,7 +347,7 @@
   room: 
   time: 
   event_url: http://www.musiccitytech.com/sessions/
-  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
+  talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2018-08-17
   end_date: 2018-08-18
   event: Self.Conference
@@ -367,7 +367,7 @@
   room: 
   time: 
   event_url: http://selfconference.org/sessions#speaker_2
-  talk_url: https://sarahwithee.com/speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
+  talk_url: /speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
 - date: 2018-08-20
   end_date: 2018-08-20
   event: Pittsburgh Code & Supply Meetup
@@ -377,7 +377,7 @@
   room: 
   time: 
   event_url: https://www.meetup.com/Pittsburgh-Code-Supply/events/252757579/
-  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2018-09-14
   end_date: 2018-09-14
   event: CodeDaze Vol. 2
@@ -387,7 +387,7 @@
   room: 
   time: 
   event_url: http://codedaze.me/
-  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
+  talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2018-09-27
   end_date: 2018-09-27
   event: Strange Loop
@@ -407,7 +407,7 @@
   room: 
   time: 
   event_url: https://devupconf.org/speakers/Sarah-Withee
-  talk_url: https://sarahwithee.com/speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
+  talk_url: /speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
 - date: 2018-10-08
   end_date: 2018-10-10
   event: devUp Conference
@@ -417,7 +417,7 @@
   room: 
   time: 
   event_url: https://devupconf.org/speakers/Sarah-Withee
-  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
+  talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2018-11-12
   end_date: 2018-11-12
   event: Pittsburgh Code & Supply / Python Users Group
@@ -437,7 +437,7 @@
   room: 
   time: 
   event_url: http://www.codemash.org/
-  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
+  talk_url: /speaking/building-your-team-to-last/
 - date: 2019-01-09
   end_date: 2019-01-11
   event: Code Mash
@@ -447,7 +447,7 @@
   room: 
   time: 
   event_url: http://www.codemash.org/
-  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
+  talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2019-01-09
   end_date: 2019-01-11
   event: Code Mash
@@ -467,7 +467,7 @@
   room: 
   time: 
   event_url: https://ndc-london.com/
-  talk_url: https://sarahwithee.com/speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
+  talk_url: /speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
 - date: 2019-02-07
   end_date: 2019-02-07
   event: Pittsburgh Code & Supply/ Engineering Management Meetup
@@ -477,7 +477,7 @@
   room: 
   time: 
   event_url: https://www.meetup.com/Pittsburgh-Code-Supply/events/258286538
-  talk_url: https://sarahwithee.com/speaking/building-your-team-to-last/
+  talk_url: /speaking/building-your-team-to-last/
 - date: 2019-04-26
   end_date: 2019-04-26
   event: Stir Trek
@@ -487,7 +487,7 @@
   room: 
   time: 
   event_url: https://stirtrek.com/
-  talk_url: https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2019-05-03
   end_date: 2019-05-03
   event: Penguicon
@@ -497,7 +497,7 @@
   room: 
   time: 
   event_url: https://2019.penguicon.org/
-  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-05-03
   end_date: 2019-05-03
   event: Penguicon
@@ -507,7 +507,7 @@
   room: 
   time: 
   event_url: https://2019.penguicon.org/
-  talk_url: https://sarahwithee.com/speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
+  talk_url: /speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
 - date: 2019-05-04
   end_date: 2019-05-04
   event: PyCon US
@@ -517,7 +517,7 @@
   room: 
   time: 
   event_url: https://us.pycon.org/2019/
-  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-05-11
   end_date: 2019-05-12
   event: "!!Con"
@@ -537,7 +537,7 @@
   room: 
   time: 
   event_url: http://selfconference.org/events/2/sessions#speaker_2
-  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-06-19
   end_date: 2019-06-21
   event: NDC Oslo
@@ -547,7 +547,7 @@
   room: 
   time: 
   event_url: https://ndcoslo.com/
-  talk_url: https://sarahwithee.com/speaking/a-primer-on-functional-programming/
+  talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2019-08-05
   end_date: 2019-08-08
   event: THAT Conference
@@ -567,7 +567,7 @@
   room: 
   time: 
   event_url: https://www.thatconference.com/
-  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-09-12
   end_date: 2019-09-14
   event: Strange Loop
@@ -577,7 +577,7 @@
   room: 
   time: 
   event_url: https://thestrangeloop.com/
-  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-11-03
   end_date: 2019-11-08
   event: Agile + DevOps East
@@ -587,4 +587,4 @@
   room: 
   time: 
   event_url: https://agiledevopseast.techwell.com/
-  talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
