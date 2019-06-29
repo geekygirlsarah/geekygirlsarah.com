@@ -39,6 +39,12 @@ Circuit diagrams are made with Fritzing ([www.fritzing.org](http://www.fritzing.
 Stir Trek (2019): [https://www.youtube.com/watch?v=24NQKDDuERM](https://www.youtube.com/watch?v=24NQKDDuERM)
 {% include video id="24NQKDDuERM" provider="youtube" %}
 
+Code & Supply Meetup (2018): [https://www.youtube.com/watch?v=pfmD-G3KUpc](https://www.youtube.com/watch?v=pfmD-G3KUpc)
+
+Kansas City Developer Conference (2015 day 1, outdated, bad audio quality): [https://www.youtube.com/watch?v=pfmD-G3KUpc](https://www.youtube.com/watch?v=pfmD-G3KUpc)
+
+Kansas City Developer Conference (2015 day 2, outdated, bad video quality): [https://www.youtube.com/watch?v=aEKSFDEJlco](https://www.youtube.com/watch?v=aEKSFDEJlco)
+
 ## History
 
 Date | Version | Venue

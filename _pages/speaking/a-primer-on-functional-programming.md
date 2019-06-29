@@ -28,7 +28,7 @@ The latest version is 3.2 which was given at NDC Oslo on 6/19/2019.
 NDC Oslo (2019): [https://www.youtube.com/watch?v=o7R7RbPDVzY](https://www.youtube.com/watch?v=o7R7RbPDVzY)
 {% include video id="o7R7RbPDVzY" provider="youtube" %}
 
-Self.Conference (2016):  [https://www.youtube.com/watch?v=x9wJ-P7iUck](https://www.youtube.com/watch?v=x9wJ-P7iUck)
+Self.Conference (2016, outdated):  [https://www.youtube.com/watch?v=x9wJ-P7iUck](https://www.youtube.com/watch?v=x9wJ-P7iUck)
 
 ## History
 
