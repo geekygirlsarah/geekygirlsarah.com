@@ -1,6 +1,6 @@
 ---
 title: "Speaking"
-layout: single
+layout: splash
 author: sarah
 permalink: /speaking/
 date: 2019-05-19T12:00:00-04:00
@@ -11,20 +11,18 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/splash_bg_minkwic_2015.jpg
-toc: true
-toc_label: "Page Contents"
-toc_icon: "file-alt"
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-I've given all sorts of presentations from workshops to keynote presentations. I've also spoken locally, regionally, 
-nationally, and internationally. If you’re interested in having me speak, please reach out! Send me a message on my 
-[Contact](/contact/) page.
+Over the years, I've given over 55 presentations that range from workshops to keynote presentations. I've also spoken 
+locally, regionally, nationally, and internationally. If you’re interested in having me speak, please reach out! Send 
+me a message on my [Contact](/contact/) page.
 
-I've presented over 50 times at assorted conferences and events. Check out past talks I've given towards the bottom of the page.
+Jump to section: 
+[Upcoming Events](#upcoming-events){: .btn .btn--large}
+[About My Talks](#about-my-talks){: .btn .btn--large}
+[All Talks](#all-talks){: .btn .btn--large}
+[Past Events](#past-events){: .btn .btn--large}
+{: .notice--primary.text-center}
 
 ## Upcoming Events
 
