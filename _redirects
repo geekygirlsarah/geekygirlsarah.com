@@ -1,10 +1,17 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
-# Redirect default Netlify subdomain to primary domain
-https://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
+# Redirect domain aliases to primary domain
+https://sarahwithee.com/* https://geekygirlsarah.com/:splat 301!
+https://geekygirlsarah.dev/* https://geekygirlsarah.com/:splat 301!
 
 # These extra rules are required because HTTPS is not forced
+http://sarahwithee.com/* https://geekygirlsarah.com/:splat 301!
+http://geekygirlsarah.dev/* https://geekygirlsarah.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
 http://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
+
 
 # -----------------------------------------------------------------------------
 
