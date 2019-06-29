@@ -1,13 +1,19 @@
 ---
 title: "Speaking"
-layout: splash
+layout: single
 author: sarah
 permalink: /speaking/
 date: 2019-05-19T12:00:00-04:00
+classes: 
+  - wide
+  - landing
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/splash_bg_minkwic_2015.jpg
+toc: true
+toc_label: "Page Contents"
+toc_icon: "file-alt"
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -16,7 +22,7 @@ header:
 
 I've given all sorts of presentations from workshops to keynote presentations. I've also spoken locally, regionally, 
 nationally, and internationally. If you’re interested in having me speak, please reach out! Send me a message on my 
-[Contact](contact/) page.
+[Contact](/contact/) page.
 
 I've presented over 50 times at assorted conferences and events. Check out past talks I've given towards the bottom of the page.
 
@@ -37,28 +43,30 @@ often reflect this and I bring a different perspective to many topics in the fie
 
 If you see a talk that interests you, or would like to discuss maybe creating a talk or discussing something 
 specifically for your event, please reach out to me. I'd love to chat more about it. Drop me a line on my 
-[Contact](contact/) page.
+[Contact](/contact/) page.
+
+## All Talks
 
 Here's a list of my talks I've given.
 
 **Keynote-Worthy Talks**
-- [Building an Open Source Artificial Pancreas](https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/)
-- [Doors](https://sarahwithee.com/speaking/doors/)
-- [The Power of Secrets](https://sarahwithee.com/speaking/the-power-of-secrets/)
+- [Building an Open Source Artificial Pancreas](/speaking/building-an-open-source-artificial-pancreas/)
+- [Doors](/speaking/doors/)
+- [The Power of Secrets](/speaking/the-power-of-secrets/)
 
 **Technical Talks**
-- [A Primer on Functional Programming](https://sarahwithee.com/speaking/a-primer-on-functional-programming/)
-- [Building an Open Source Artificial Pancreas](https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/)
-- [“Hey Mycroft”: Getting Started with the Open Source Home Assistant](https://sarahwithee.com/speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/)
-- [Intro to Hacking with the Raspberry Pi](https://sarahwithee.com/speaking/intro-to-hacking-with-the-raspberry-pi/)
+- [A Primer on Functional Programming](/speaking/a-primer-on-functional-programming/)
+- [Building an Open Source Artificial Pancreas](/speaking/building-an-open-source-artificial-pancreas/)
+- [“Hey Mycroft”: Getting Started with the Open Source Home Assistant](/speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/)
+- [Intro to Hacking with the Raspberry Pi](/speaking/intro-to-hacking-with-the-raspberry-pi/)
     
 **Professional Skills/Human Skills Talks**
-- [Building an Open Source Artificial Pancreas](https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/)
-- [Building Your Team to Last: Successful Onboarding and Mentoring Practices](https://sarahwithee.com/speaking/building-your-team-to-last/)
-- [Doors](https://sarahwithee.com/speaking/doors/)
+- [Building an Open Source Artificial Pancreas](/speaking/building-an-open-source-artificial-pancreas/)
+- [Building Your Team to Last: Successful Onboarding and Mentoring Practices](/speaking/building-your-team-to-last/)
+- [Doors](/speaking/doors/)
 - Life as a Midwestern Developer
-- [Maintaining Your Mental and Emotional Health While Job Hunting](https://sarahwithee.com/speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/)
-- [The Power of Secrets](https://sarahwithee.com/speaking/the-power-of-secrets/)
+- [Maintaining Your Mental and Emotional Health While Job Hunting](/speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/)
+- [The Power of Secrets](/speaking/the-power-of-secrets/)
 - [Pursuing a Passion Project: Struggles and Successes]()
 
 

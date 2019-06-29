@@ -1,4 +1,4 @@
-
+---
 title: "A Primer on Functional Programming"
 layout: single
 author: sarah
