@@ -1,10 +1,10 @@
 main:
-  - title: "Home"
-    description: Home page
-    url: /
-#  - title: "About"
-#    description: About Sarah
-#    url: about/
+#  - title: "Home"
+#    description: Home page
+#    url: /
+  - title: "About"
+    description: About Sarah
+    url: about/
   #  - title: "What I'm Doing Now"
   #    description: Quick summary of things I'm up to lately
   #    url: now/
