@@ -1,0 +1,45 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect default Netlify subdomain to primary domain
+https://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
+
+# These extra rules are required because HTTPS is not forced
+http://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
+
+# -----------------------------------------------------------------------------
+
+# Travel shortlink
+/travel/              https://trello.com/b/ANNnxeq5/travel-pittsburgh-first-week-2-4-18-2-8-18      302
+
+
+# -----------------------------------------------------------------------------
+
+# Talk - Building Your Team to Last
+/build-your-team/     /speaking/building-your-team-to-last/
+/building-your-team/  /speaking/building-your-team-to-last/
+/buildingyourteam/    /speaking/building-your-team-to-last/
+/buildyourteam/       /speaking/building-your-team-to-last/
+
+# Talk - Hey Mycroft
+/hey-mycroft/         /speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
+/heymycroft/          /speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
+/mycroft/             /speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
+
+# Talk - Maintaining Your Emotional and Mental Health While Job Hunting
+/job-hunt/            /speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
+/jobhunt/             /speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
+
+# Talk - Building an Open Source Artifical Pancreas
+/pancreas/            /speaking/building-an-open-source-artificial-pancreas/
+
+# Talk - A Primer on Functional Programming
+/primer-fp/           /speaking/a-primer-on-functional-programming/
+/primerfp/            /speaking/a-primer-on-functional-programming/
+/primer/              /speaking/a-primer-on-functional-programming/
+
+# Talk - Intro to Hacking with the Raspberry Pi
+/raspberrypi/         /speaking/intro-to-hacking-with-the-raspberry-pi/
+
+# Talk - The Power of Secrets
+/secrets/             /speaking/the-power-of-secrets/
+
