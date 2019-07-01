@@ -14,7 +14,7 @@ header:
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-Uh, something insightful goes here...
+These are some of my assorted thoughts and writings from the last several years. Feel free to check them out!
 
 <ul>
   {% for post in site.posts %}
