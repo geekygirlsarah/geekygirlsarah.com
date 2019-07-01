@@ -18,10 +18,10 @@ locally, regionally, nationally, and internationally. If you’re interested in 
 me a message on my [Contact](/contact/) page.
 
 Jump to section: 
-[Upcoming Events](#upcoming-events){: .btn .btn--large}
-[About My Talks](#about-my-talks){: .btn .btn--large}
-[All Talks](#all-talks){: .btn .btn--large}
-[Past Events](#past-events){: .btn .btn--large}
+[Upcoming Events](#upcoming-events){: .btn .btn--inverse .btn--large }
+[About My Talks](#about-my-talks){: .btn .btn--inverse .btn--large }
+[My Talks](#my-talks){: .btn .btn--inverse .btn--large }
+[Past Events](#past-events){: .btn .btn--inverse .btn--large }
 {: .notice--primary.text-center}
 
 ## Upcoming Events
@@ -43,7 +43,7 @@ If you see a talk that interests you, or would like to discuss maybe creating a 
 specifically for your event, please reach out to me. I'd love to chat more about it. Drop me a line on my 
 [Contact](/contact/) page.
 
-## All Talks
+## My Talks
 
 Here's a list of my talks I've given.
 
