@@ -1,16 +1,17 @@
 ---
-id: 931
 title: 'Year in Review: Part 2 &#8211; 2019 Goals'
 date: 2019-05-19T17:59:53+00:00
-author: wordpress
-layout: post
-guid: https://geekygirlsarah.com/?p=931
 permalink: /2019/05/19/year-in-review-part-2-2019-goals/
+# canonical_url: "https://yoursite.com/custom-canonical-url"
 medium_post:
   - ""
 categories:
-  - Uncategorized
+  - Life Updates
+tags:
+  - job hunting
+  - year in review
 ---
+
 I started writing this post back in January (an ideal time to do some yearly reflections and goal-setting). Then life took over. My whole team was laid off, I started organizing Abstractions&#8217; program and CFP (call for proposals), and got a huge wave of conference acceptances. All of this took away time and sort of backlogged this post. So it&#8217;s mid-May and this post got abandoned. Coincidentally, my idea of what I wanted out of the year also changed, so perhaps it worked out in the end to wait this long before I finish up this super old post.
 
 In Part 1 of my Year in Review post, I wrote about what happened in the past year (or two) in my life, both good things that happened as well as some things that could be improved. In this part, I hope to put into words what I really want to figure out and work on in this year..
