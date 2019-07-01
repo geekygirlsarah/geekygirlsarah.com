@@ -1,17 +1,13 @@
 ---
 title: "Resume"
 layout: splash
-author: sarah
 permalink: /resume/
 date: 2019-05-19T12:00:00-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/splash_bg_ncwit_2018.jpg
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/splash_bg_ncwit_2018.jpg
+  caption: "At a speed networking event at the NCWIT high school girls in computing awards ceremony in 2018"
 ---
 
 _PDF copy is available upon request._

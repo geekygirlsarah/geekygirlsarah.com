@@ -1,7 +1,6 @@
 ---
 title: "Speaking"
 layout: splash
-author: sarah
 permalink: /speaking/
 date: 2019-05-19T12:00:00-04:00
 classes: 
@@ -9,8 +8,9 @@ classes:
   - landing
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/splash_bg_minkwic_2015.jpg
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/splash_bg_minkwic_2015.jpg
+  caption: "Speaking at MINK WIC 2015, which I also helped organize"
 ---
 
 Over the years, I've given over 55 presentations that range from workshops to keynote presentations. I've also spoken 

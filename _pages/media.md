@@ -1,20 +1,22 @@
 ---
 title: "Media and Press"
 layout: splash
-author: sarah
 permalink: /media/
 date: 2019-05-19T12:00:00-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/splash_bg_robotteam_2013-1.jpg
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_filter: "0.2"
+  overlay_image: assets/images/splash_bg_robotteam_2013-2.jpg
+  caption: "The second competition robot I helped program and build in 2013"
 ---
 
-Sarah has been in a variety of podcasts, articles, blog posts, and videos. Here’s a list of several of them.
+I have been in a variety of podcasts, articles, blog posts, and videos. Here’s a list of several of them.
+
+Jump to section: 
+[Podcasts](#podcasts){: .btn .btn--inverse .btn--large }
+[Articles or Blog Posts](#articles-or-blog-posts){: .btn .btn--inverse .btn--large }
+[Videos](#videos){: .btn .btn--inverse .btn--large }
+{: .notice--primary.text-center}
 
 ## Podcasts
 

@@ -1,17 +1,13 @@
 ---
 title: "Contact"
 layout: splash
-author: sarah
 permalink: /contact/
 date: 2019-05-19T12:00:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/splash_bg_lytmkc_2017.jpg
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: assets/images/splash_bg_build-and-beer_2016.jpg
+  caption: "My team (and robot) at the Build and Beer bad robot building workshop held by Simone Giertz in 2016"
 ---
 
 I want to hear from you! Whether it's feedback on something I worked on, wanting 

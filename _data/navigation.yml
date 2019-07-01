@@ -1,7 +1,4 @@
 main:
-#  - title: "Home"
-#    description: Home page
-#    url: /
   - title: "About"
     description: About Sarah
     url: about/
