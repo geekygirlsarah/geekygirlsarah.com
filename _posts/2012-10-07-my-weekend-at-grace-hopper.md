@@ -12,11 +12,11 @@ tags:
   - Grace Hopper Celebration of Women in Computing
   - travel
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info} 
 
-<img class="alignright size-full wp-image-279" src="http://sarahwithee.com/wp-content/uploads/GracehopperLogoDark-150x150.jpg" alt="Grace Hoper Women in Comptuing logo" width="150" height="150" /> I&#8217;m writing this on my flight home. It helps pass the time, but my tablet might have typos. Sorry in advance!
+<img class="alignright size-full wp-image-279" src="/assets/images/GracehopperLogoDark-150x150.jpg" alt="Grace Hoper Women in Comptuing logo" width="150" height="150" /> I&#8217;m writing this on my flight home. It helps pass the time, but my tablet might have typos. Sorry in advance!
 
 There were many firsts to this trip. I haven&#8217;t been further east than Ohio, so I&#8217;ve now been to the coast. I also saw the ocean!<!--more--> (Well , from the 27th floor observation deck of the world trade center.) Although I have flown in an airplane one other time in my life, it was many years ago, so I got to experience that again. And, of course, my first Grace Hopper conference was an experience of its own.
 

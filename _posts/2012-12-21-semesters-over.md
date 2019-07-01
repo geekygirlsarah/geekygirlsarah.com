@@ -7,9 +7,9 @@ categories:
   - School
   - Uncategorized
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
 So I survived another semester of school. I received an A in discrete structures 2 and a B- in physics 1. I wanted better but it was a bit of a rough semester. I&#8217;ll take it though!  My GPA is still over 3.6, which is pretty nice! It&#8217;s the highest GPA of my life.
 

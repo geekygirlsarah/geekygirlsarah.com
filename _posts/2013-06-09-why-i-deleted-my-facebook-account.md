@@ -11,13 +11,11 @@ tags:
   - frustration
   - Twitter
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
-&nbsp;
-
-<img class="alignright size-medium wp-image-342" src="http://sarahwithee.com/wp-content/uploads/no_facebook-300x152-300x152.png" alt="I'm not on Facebook" width="300" height="152" /> Back in August I deleted my Facebook account. They have made me incredibly frustrated over the years, but they finally made me mad enough to just get rid of it.<!--more-->
+<img class="alignright size-medium wp-image-342" src="/assets/images/no_facebook-300x152-300x152.png" alt="I'm not on Facebook" width="300" height="152" /> Back in August I deleted my Facebook account. They have made me incredibly frustrated over the years, but they finally made me mad enough to just get rid of it.<!--more-->
 
 I was an early adopter of Facebook. I created my account back in 2005, within a year of their starting. Back then only college students could sign up, and after some pressure from some friends I finally caved in. (After all, I had MySpace, why would I need a Facebook?) But as more friends joined Facebook and MySpace seemed to drift away, I ended up drifting to that as my main source of social contact.
 

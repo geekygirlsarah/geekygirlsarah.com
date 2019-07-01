@@ -7,9 +7,9 @@ categories:
   - Uncategorized
   - Women in Computing
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
 I&#8217;m sorry, blogosphere. The Binary Girls have been a bit busy lately. I know it&#8217;s been 2 months and 18 days (or 11 weeks 2 days, or 79 days) since we last blogged, so I&#8217;ll try to catch you up.
 

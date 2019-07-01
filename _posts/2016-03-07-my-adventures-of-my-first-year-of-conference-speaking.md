@@ -2,9 +2,9 @@
 title: My Adventures of My First Year of Conference Speaking
 date: 2016-03-07T00:00:19+00:00
 permalink: /2016/03/07/my-adventures-of-my-first-year-of-conference-speaking/
-# canonical_url: "https://yoursite.com/custom-canonical-url"
+canonical_url: "https://medium.com/@geekygirlsarah/my-adventures-of-my-first-year-of-conference-speaking-f61def383e27"
 medium_post:
-  - ""
+  - "https://medium.com/@geekygirlsarah/my-adventures-of-my-first-year-of-conference-speaking-f61def383e27"
 categories:
   - Uncategorized
 tags:

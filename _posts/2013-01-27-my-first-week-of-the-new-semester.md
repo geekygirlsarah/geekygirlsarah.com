@@ -7,9 +7,9 @@ categories:
   - School
   - Uncategorized
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
 So the first week of the spring semester is over. I feel good about this semester, which is great since my last one was so emotional and tiring. But I want to talk about the cool things about it so far!<!--more-->
 

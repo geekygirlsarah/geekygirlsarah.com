@@ -10,9 +10,9 @@ tags:
   - internship
   - school
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
 I ended my spring semester with a A in Assembly Language, A- in Operating Systems, A- in Special Topics: Java, and a C+ in calculus 2 (which is probably not bad considering the class is a bit evil). I still have my great GPA, which definitely makes me happy!
 

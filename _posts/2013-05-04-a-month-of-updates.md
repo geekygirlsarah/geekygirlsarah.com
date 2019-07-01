@@ -14,11 +14,11 @@ tags:
   - UMKC
   - university
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
-<img class="alignright size-full wp-image-305" src="http://sarahwithee.com/wp-content/uploads/sarahwprofile.jpg" alt="Sarah's picture" width="175" height="175" /> It&#8217;s been a crazy busy semester. In the last month&#8230;
+<img class="alignright size-full wp-image-305" src="/assets/images/sarahwprofile.jpg" alt="Sarah's picture" width="175" height="175" /> It&#8217;s been a crazy busy semester. In the last month&#8230;
 
   * I was elected president of Upsilon Pi Epsilon, the international computer science honor society.
   * I traveled to Denver, CO for the IEEE Region 5 conference as the school robotics team was competing there. (Good news: we tied for fifth place.)

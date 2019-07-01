@@ -10,11 +10,11 @@ tags:
   - cloud
   - Dropbox
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
-_<img class="alignright size-full wp-image-299" src="http://sarahwithee.com/wp-content/uploads/cloudicon.png" alt="Cloud" width="150" height="150" />_I have a <a href="http://www.dropbox.com" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">Dropbox</span></u></a> and a <a href="http://www.box.com" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">Box</span></u></a> account. To start off, Dropbox offers 2 GB for free and Box offers 5 GB for free. But I now have over 75 GB of space, and it&#8217;s more than I know what to do with!<!--more-->
+<img class="alignright size-full wp-image-299" src="/assets/images/cloudicon.png" alt="Cloud" width="150" height="150" />I have a <a href="http://www.dropbox.com" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">Dropbox</span></u></a> and a <a href="http://www.box.com" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">Box</span></u></a> account. To start off, Dropbox offers 2 GB for free and Box offers 5 GB for free. But I now have over 75 GB of space, and it&#8217;s more than I know what to do with!<!--more-->
 
 With Dropbox, I can get little bits of extra space for completing tutorials and referring friends. I got more space by using my school&#8217;s .edu address.  Then, I got another free gigabyte for competing their yearly Dropbox Quest, an online-based scavenger hunt. I received a few more gigabytes by signing up with <a href="https://www.dropbox.com/spacerace" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">The Great Space Race</span></u></a>, a competition to get the most users from universities. And then when I got my Samsung Galaxy S3, it let you get another 50GB free through that offer.
 

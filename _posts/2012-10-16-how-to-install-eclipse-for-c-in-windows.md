@@ -13,11 +13,11 @@ tags:
   - MinGW
   - Windows
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
-<img class="alignright wp-image-282 size-full" src="http://sarahwithee.com/wp-content/uploads/eclipse_pos_logo_fc_med2-150x150.jpg" alt="Eclipse logo" width="150" height="150" /> If you&#8217;ve used Eclipse, you know it&#8217;s Java-based. And it&#8217;s easy to get it running in Windows to compile Java programs. But what about C++? If you&#8217;ve downloaded the CDT (C/C++ Development Tooling), you may see that it lets you write C++ programs, but they don&#8217;t compile and the #includes act all confused. Of course there are directions online, but they&#8217;re all out of date.
+<img class="alignright wp-image-282 size-full" src="/assets/images/eclipse_pos_logo_fc_med2-150x150.jpg" alt="Eclipse logo" width="150" height="150" /> If you&#8217;ve used Eclipse, you know it&#8217;s Java-based. And it&#8217;s easy to get it running in Windows to compile Java programs. But what about C++? If you&#8217;ve downloaded the CDT (C/C++ Development Tooling), you may see that it lets you write C++ programs, but they don&#8217;t compile and the #includes act all confused. Of course there are directions online, but they&#8217;re all out of date.
 
 Binary Girls to the rescue!
 

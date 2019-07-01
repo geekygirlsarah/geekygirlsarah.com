@@ -19,9 +19,9 @@ tags:
   - Twilio
   - UMKC
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
 You know how on shows like American Idol and Dancing with the Stars you&#8217;re able to text who you want to vote for, and by the end of the show they already have the votes tabulated? Well, I built one of those about a month ago. Here&#8217;s a bit more of the story behind that.<!--more-->
 
@@ -41,7 +41,7 @@ So after some tests with my phone, I took it to other SWE members who tested it 
 
 I paid to get the full account, and the time came at the event: The People&#8217;s Choice vote. They had 5 minutes to vote, and the phone number showed up on the projector. I watched on my own computer at the votes. And I anxiously waited during those 5 minutes, expecting something bad to happen.
 
-<figure id="attachment_333" aria-describedby="caption-attachment-333" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-333" src="http://sarahwithee.com/wp-content/uploads/mrengineer_twilio-300x161-300x161.jpg" alt="Mr. Engineer results screenshot" width="300" height="161" /><figcaption id="caption-attachment-333" class="wp-caption-text">Mr. Engineer results screenshot</figcaption></figure>
+<figure id="attachment_333" aria-describedby="caption-attachment-333" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-333" src="/assets/images/mrengineer_twilio-300x161-300x161.jpg" alt="Mr. Engineer results screenshot" width="300" height="161" /><figcaption id="caption-attachment-333" class="wp-caption-text">Mr. Engineer results screenshot</figcaption></figure>
 
 And nothing did. My program worked _flawlessly!_
 

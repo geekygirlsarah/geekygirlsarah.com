@@ -22,11 +22,11 @@ tags:
   - Scott Chacon
   - Zach Kaplan
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info} 
 
-[<img class="alignright size-full wp-image-285" src="http://sarahwithee.com/wp-content/uploads/CMW_logo-150x150.png" alt="Compute Midwest logo" width="150" height="150" />](http://www.binarygirls.com/wp-content/uploads/2012/11/CMW_logo.png)Last weekend Abbey and I attended <a href="http://www.computemidwest.com" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">Compute Midwest</span></u></a>, a regional conference described as:
+[<img class="alignright size-full wp-image-285" src="/assets/images/CMW_logo-150x150.png" alt="Compute Midwest logo" width="150" height="150" />](http://www.binarygirls.com/wp-content/uploads/2012/11/CMW_logo.png)Last weekend Abbey and I attended <a href="http://www.computemidwest.com" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">Compute Midwest</span></u></a>, a regional conference described as:
 
 > Compute Midwest is a 2 day convergence of tech: new people, new ideas and innovation in Kansas City.<!--more-->
 > 

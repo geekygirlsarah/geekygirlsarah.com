@@ -11,11 +11,11 @@ tags:
   - notes
   - university
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
-<img class="alignright size-full wp-image-327" src="http://sarahwithee.com/wp-content/uploads/takingnotes-150x150.jpg" alt="Taking notes" width="150" height="150" /> Sometimes I feel a bit funny in my classes. When class starts, many students pull out their laptops or tablets. I pull out a notebook. Yeah, one made of paper. I sometimes feel a bit out of place when I do that, especially in my lower-level classes like Assembly Language this semester. Why do I do it this way?<span id="more-449"></span>
+<img class="alignright size-full wp-image-327" src="/assets/images/takingnotes-150x150.jpg" alt="Taking notes" width="150" height="150" /> Sometimes I feel a bit funny in my classes. When class starts, many students pull out their laptops or tablets. I pull out a notebook. Yeah, one made of paper. I sometimes feel a bit out of place when I do that, especially in my lower-level classes like Assembly Language this semester. Why do I do it this way?<span id="more-449"></span>
 
 At my last university, I spent a semester taking notes by my laptop. It turned out not to be that great for me. First, in math and physics, it’s really hard to take good notes while properly typing in the symbols they used. It’s hard to type Greek symbols, integral signs, big fractions, and other things with just a keyboard alone. Sure there are add-ons like Microsoft Mathematics that can attach to Word or OneNote, but in the end, the amount of work it takes to properly make a formula look correctly means the professor may have already erased the board full of stuff you needed to type.
 

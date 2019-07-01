@@ -2,9 +2,9 @@
 title: Life, Gender, and the Pursuit of Happiness
 date: 2015-09-29T00:00:51+00:00
 permalink: /2015/09/29/life-gender-and-the-pursuit-of-happiness/
-# canonical_url: "https://yoursite.com/custom-canonical-url"
+canonical_url: "https://medium.com/@geekygirlsarah/life-gender-and-the-pursuit-of-happiness-e0e57970ceae"
 medium_post:
-  - ""
+  - "https://medium.com/@geekygirlsarah/life-gender-and-the-pursuit-of-happiness-e0e57970ceae"
 categories:
   - Uncategorized
 tags:
@@ -16,7 +16,7 @@ This is a post I wrote originally on Medium.
 
 * * *
 
-<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 290px" class="wp-caption aligncenter"><img class="wp-image-491 size-full" src="https://geekygirlsarah.com/wp-content/uploads/2016/12/1-jhPmOi4NbuqJR9_4iGBWgQ.png" alt="A Commodore 64 personal computer, along with monitor, 5 1/4&quot; floppy drives, and joysticks." width="290" height="179" /><figcaption id="caption-attachment-491" class="wp-caption-text">A Commodore 64 personal computer, along with monitor, 5 1/4&#8243; floppy drives, and joysticks.</figcaption></figure>
+<figure id="attachment_491" aria-describedby="caption-attachment-491" style="width: 290px" class="wp-caption aligncenter"><img class="wp-image-491 size-full" src="/assets/images/2016/12/1-jhPmOi4NbuqJR9_4iGBWgQ.png" alt="A Commodore 64 personal computer, along with monitor, 5 1/4&quot; floppy drives, and joysticks." width="290" height="179" /><figcaption id="caption-attachment-491" class="wp-caption-text">A Commodore 64 personal computer, along with monitor, 5 1/4&#8243; floppy drives, and joysticks.</figcaption></figure>
 
 <p id="258a" class="graf graf--p graf-after--figure">
   I was probably in first grade when I wrote my first computer program. My parents had a Commodore 64. (I<span class="markup--quote markup--p-quote is-other" data-creator-ids="8ee8c8a1fc43">f you’re a bit younger, it was about equivalent in power to the original Nintendo </span><span class="markup--quote markup--p-quote is-other" data-creator-ids="8ee8c8a1fc43">game</span><span class="markup--quote markup--p-quote is-other" data-creator-ids="8ee8c8a1fc43"> system.</span>) My dad taught me how to put in a floppy disk, flip the lever to lock it in, then type <strong class="markup--strong markup--p-strong">LOAD “*”,8,1</strong>. I had no clue what that meant, but the computer listened. I eventually learned there were a lot of other commands you could enter to do a variety of other things, and the computer listened to all of them. It fascinated me. I copied programs in from the instruction manual, then would change them, or add on to them, to make the computer do more things.

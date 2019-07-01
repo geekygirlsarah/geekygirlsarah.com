@@ -2,9 +2,9 @@
 title: My Friend Waldo
 date: 2015-11-27T00:00:15+00:00
 permalink: /2015/11/27/my-friend-waldo/
-# canonical_url: "https://yoursite.com/custom-canonical-url"
+canonical_url: "https://medium.com/@geekygirlsarah/my-friend-waldo-3d978326ef78"
 medium_post:
-  - ""
+  - "https://medium.com/@geekygirlsarah/my-friend-waldo-3d978326ef78"
 categories:
   - Uncategorized
 tags:
@@ -31,7 +31,7 @@ This is a post I originally wrote on Medium.
 
 <div class="aspectRatioPlaceholder is-locked">
   <p>
-    <figure id="attachment_501" aria-describedby="caption-attachment-501" style="width: 300px" class="wp-caption aligncenter"><img class="size-medium wp-image-501" src="https://geekygirlsarah.com/wp-content/uploads/2016/12/1-28k1v6sItYFMknEY6J-VHw-300x225.jpeg" alt="Waldo back in 2008 when I got her" width="300" height="225" /><figcaption id="caption-attachment-501" class="wp-caption-text">Waldo back in 2008 when I got her</figcaption></figure>
+    <figure id="attachment_501" aria-describedby="caption-attachment-501" style="width: 300px" class="wp-caption aligncenter"><img class="size-medium wp-image-501" src="/assets/images/2016/12/1-28k1v6sItYFMknEY6J-VHw-300x225.jpeg" alt="Waldo back in 2008 when I got her" width="300" height="225" /><figcaption id="caption-attachment-501" class="wp-caption-text">Waldo back in 2008 when I got her</figcaption></figure>
   </p>
 </div></figure> 
 

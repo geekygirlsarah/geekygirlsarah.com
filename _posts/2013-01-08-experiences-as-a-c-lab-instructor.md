@@ -7,11 +7,11 @@ categories:
   - School
   - Uncategorized
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
-<img class="alignright size-full wp-image-302" src="http://sarahwithee.com/wp-content/uploads/labclassroom.jpg" alt="Computer lab classroom" width="150" height="150" /> I was asked this past semester to be a lab instructor for the intro to programming 2 (CS 201) lab. At first I was under the impression I was a student that would be helping the teacher with the class. I later realized that I _was_ the teacher.<!--more-->
+<img class="alignright size-full wp-image-302" src="/assets/images/labclassroom.jpg" alt="Computer lab classroom" width="150" height="150" /> I was asked this past semester to be a lab instructor for the intro to programming 2 (CS 201) lab. At first I was under the impression I was a student that would be helping the teacher with the class. I later realized that I _was_ the teacher.<!--more-->
 
 So for years I&#8217;ve tutored people in assorted subjects. In high school and my first university it was mostly math. People have also hired me to help train them in assorted software products over the years. So I&#8217;m not really new to teaching. But generally tutoring is a one-on-one activity. I&#8217;m with someone who I am helping to learn something. After learning that my &#8220;lab instructor&#8221; position was just me, by myself, instructing a whole class, I started to freak out a little. Could I do the public speaking thing? Could I adequately instruct up to 20 students (the maximum number of seats in the room)? Would I be able to help them all with problems? And then there&#8217;s grading and coming up with labs and&#8230;. AHH!
 

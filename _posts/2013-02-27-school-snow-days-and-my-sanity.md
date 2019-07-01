@@ -11,9 +11,9 @@ tags:
   - school
   - snow
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
 Before I started back to school to finish my degree, this little voice in my head said &#8220;Are you insane? You want to go back to homework? You want to go back to tests? You&#8217;re crazy!&#8221;<!--more-->
 

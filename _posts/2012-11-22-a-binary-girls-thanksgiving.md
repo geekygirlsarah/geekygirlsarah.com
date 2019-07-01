@@ -9,11 +9,11 @@ tags:
   - Abbey T
   - Sarah W
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info} 
 
-<img class="alignright wp-image-294 size-full" src="http://sarahwithee.com/wp-content/uploads/turkey-150x150.jpg" alt="Turkey" width="150" height="150" /> Abbey and I got together for Thanksgiving. We decided to do things just like the pilgrims did:
+<img class="alignright wp-image-294 size-full" src="/assets/images/turkey-150x150.jpg" alt="Turkey" width="150" height="150" /> Abbey and I got together for Thanksgiving. We decided to do things just like the pilgrims did:
 
   * We had turkey made in the oven with a wireless digital thermometer, just like the pilgrims did.
   * We made green beans in a ZipLock veggie steamer bag, just like the pilgrims did.

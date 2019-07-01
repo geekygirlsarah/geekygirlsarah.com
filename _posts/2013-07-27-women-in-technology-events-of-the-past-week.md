@@ -6,15 +6,15 @@ permalink: /2013/07/27/women-in-technology-events-of-the-past-week/
 categories:
   - Uncategorized
 ---
-_This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons._
 
-* * *
+This post was originally from the blog site Binary Girls that my friends Abbey, Sarah, and I started. I’m saving it here for archival reasons.
+{: .notice--info}
 
 The past two weeks have had some cool events I got to participate in. The first event was a discussion panel after the screening of the documentary She++, and then Thursday was the Kansas City Women in Technology kickoff party, which both were wonderful events.<!--more-->
 
 On Wednesday the 17th, <a href="http://www.nerdery.com/" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">The Nerdery</span></u></a> hosted a screening of <a href="http://www.sheplusplus.com/" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">She++</span></u></a>, a documentary about women in computer science. The film (<a href="http://vimeo.com/63877454" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">watch it here</span></u></a>) also discussed reasons about why numbers of women in CS are declining even though women still remain a larger number of those graduating with degrees from college. Afterward, a discussion panel answered some prepared questions as well as those from the audience. Besides myself, the panel consisted of (left to right):
 
-<img class="aligncenter wp-image-351 size-full" src="http://sarahwithee.com/wp-content/uploads/sheplusplus_panel-300x137.jpg" alt="She++ discussion panel" width="300" height="137" /> 
+<img class="aligncenter wp-image-351 size-full" src="/assets/images/sheplusplus_panel-300x137.jpg" alt="She++ discussion panel" width="300" height="137" /> 
 
 <p style="text-align: center;">
   <ul>
