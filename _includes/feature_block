@@ -7,7 +7,8 @@
     {% if type == "posts" %}
       {% for item in site.posts %}
         {% if count < show_number %}
-          <li>{{ date | date_to_string: "ordinal", "US" }}: <a href="{{ url }}" target="_blank">{{ item.title }}</a></li>
+          {% assign date = item.date | date: "%Y-%m-%d" %}
+          <li>{{ date | date_to_string: "ordinal", "US" }}: <a href="{{ item.url }}" target="_blank">{{ item.title }}</a></li>
           {% assign count = count | plus:1 %}
         {% endif %}
       {% endfor %}
