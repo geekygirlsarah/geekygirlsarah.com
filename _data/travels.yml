@@ -1,0 +1,293 @@
+lived:
+  - name: Kansas City, MO
+    latitude: 39.099728
+    longitude: -94.578568
+    radius: 25000
+    years: Birth-2002, 2006-2018<br />Blue area is approximate range of areas I've lived
+  - name: Springfield, MO
+    latitude: 37.215520
+    longitude: -93.292360
+    years: 2002-2006
+  - name: Pittsburgh, PA
+    latitude: 40.442169
+    longitude: -79.994957
+    years: 2018-Present
+
+visited:
+  - name: Emporia, KS
+    latitude: 38.412300
+    longitude: -96.200172
+  - name: Warrensburg, MO
+    latitude: 38.771091
+    longitude: -93.735352
+  - name: Joplin, MO
+    latitude: 37.087631
+    longitude: -94.512253
+  - name: Rolla, MO
+    latitude: 37.951500
+    longitude: -91.772552
+  - name: Sombrerete, Zacatecas, Mexico
+    latitude: 23.631300
+    longitude: -103.641060
+  - name: Breckinridge, CO
+    latitude: 32.889469
+    longitude: -83.743103
+  - name: Denver, CO
+    latitude: 39.739235
+    longitude: -104.990250
+  - name: Topeka, KS
+    latitude: 39.047344
+    longitude: -95.675156
+  - name: Eureka Springs, AR
+    latitude: 36.402679
+    longitude: -93.735962
+  - name: Eagle Rock, MO
+    latitude: 36.548340
+    longitude: -93.756120
+  - name: Branson, MO
+    latitude: 36.644161
+    longitude: -93.217010
+  - name: Louisville, KY
+    latitude: 38.252666
+    longitude: -85.758453
+  - name: Dayton, OH
+    latitude: 39.758949
+    longitude: -84.191605
+  - name: Corpus Christi, TX
+    latitude: 27.800583
+    longitude: -97.396378
+  - name: Baltimore, MD
+    latitude: 39.290386
+    longitude: -76.612190
+  - name: Tulsa, OK
+    latitude: 36.153980
+    longitude: -95.992775
+  - name: Phoenix, AZ
+    latitude: 33.448376
+    longitude: -112.074036
+  - name: Indianapolis, IN
+    latitude: 39.768402
+    longitude: -86.158066
+  - name: Oakland, CA
+    latitude: 37.804363
+    longitude: -122.271111
+  - name: Lincoln, NE
+    latitude: 40.813618
+    longitude: -96.702599
+  - name: Omaha, NE
+    latitude: 41.256538
+    longitude: -95.934502
+  - name: Boston, MA
+    latitude: 42.360081
+    longitude: -71.058884
+  - name: Washington, DC
+    latitude: 38.907192
+    longitude: -77.036873
+  - name: Camp Meeker, CA
+    latitude: 38.423670
+    longitude: -122.955730
+  - name: Des Moines, IA
+    latitude: 41.586834
+    longitude: -93.624962
+  - name: Columbia, MO
+    latitude: 38.951706
+    longitude: -92.334068
+  - name: Wichita, KS
+    latitude: 37.687176
+    longitude: -97.330055
+  - name: San Francisco, CA
+    latitude: 37.774929
+    longitude: -122.419418
+  - name: Portland, OR
+    latitude: 45.512230
+    longitude: -122.658722
+  - name: Seattle, WA
+    latitude: 47.606209
+    longitude: -122.332069
+  - name: Mountain View, CA
+    latitude: 37.386051
+    longitude: -122.083855
+  - name: St. Joseph, MO
+    latitude: 39.768188
+    longitude: -94.848160
+  - name: Austin, TX
+    latitude: 30.267153
+    longitude: -97.743057
+  - name: Akron, OH
+    latitude: 41.081444
+    longitude: -81.519005
+  - name: Nashville, TN
+    latitude: 36.162663
+    longitude: -86.781601
+  - name: Buffalo, NY
+    latitude: 42.886448
+    longitude: -78.878372
+  - name: St. Louis, MO
+    latitude: 38.627003
+    longitude: -90.199402
+  - name: Morgantown, WV
+    latitude: 39.629524
+    longitude: -79.955894
+  - name: Minneapolis, MN
+    latitude: 44.977753
+    longitude: -93.265015
+  - name: Sandusky, OH
+    latitude: 41.454929
+    longitude: -82.710960
+  - name: London, United Kingdom
+    latitude: 51.507351
+    longitude: -0.127758
+  - name: Columbus, OH
+    latitude: 39.961178
+    longitude: -82.998795
+  - name: Southfield, MI
+    latitude: 42.480202
+    longitude: -83.240997
+  - name: Cleveland, OH
+    latitude: 41.499321
+    longitude: -81.694359
+  - name: New York, NY
+    latitude: 40.678177
+    longitude: -73.944160
+  - name: Windsor, ON
+    latitude: 42.314938
+    longitude: -83.036362
+  - name: Detroit, MI
+    latitude: 42.331429
+    longitude: -83.045753
+  - name: Oslo, Norway
+    latitude: 59.913868
+    longitude: 10.752245
+  - name: Drøbak, Norway
+    latitude: 59.666640
+    longitude: 10.635610
+
+airports:
+  - name: Hartsfield-Jackson Atlanta International Airport
+    code: ATL
+    latitude: 33.6394444444
+    longitude: -84.4280555556
+  - name: Austin-Bergstrom International Airport
+    code: AUS
+    latitude: 30.1944444444
+    longitude: -97.67
+  - name: Nashville International Airport
+    code: BNA
+    latitude: 36.12666666
+    longitude: -86.68194444
+  - name: Boston Logan International Airport
+    code: BOS
+    latitude: 42.3616666667
+    longitude: -71.0116666667
+  - name: Baltimore/Washington International Thurgood Marshall Airport
+    code: BWI
+    latitude: 39.1791666667
+    longitude: -76.6688888889
+  - name: Copenhagen Airport, Kastrup
+    code: CPH
+    latitude: 55.6136111111
+    longitude: 12.645
+  - name: Dallas Love Field
+    code: DAL
+    latitude: 32.84722
+    longitude: -96.85167
+  - name: Denver International Airport
+    code: DEN
+    latitude: 39.8533333333
+    longitude: -104.6755555556
+  - name: Detroit Metropolitan Wayne County Airport
+    code: DTW
+    latitude: 42.2083333333
+    longitude: -83.3566666667
+  - name: Newark Liberty International Airport
+    code: EWR
+    latitude: 40.6897222222
+    longitude: -74.175
+  - name: William P. Hobby Airport (Houston)
+    code: HOU
+    latitude: 29.6455555556
+    longitude: -95.2788888889
+  - name: McCarran International Airport (Las Vegas)
+    code: LAS
+    latitude: 36.08
+    longitude: -115.1533333333
+  - name: Los Angeles International Airport
+    code: LAX
+    latitude: 33.9425222
+    longitude: -118.4071611
+  - name: London Heathrow Airport
+    code: LHR
+    latitude: 51.47138888
+    longitude: -0.45277777
+  - name: Kansas City International Airport
+    code: MCI
+    latitude: 39.29749999
+    longitude: -94.71388888
+  - name: Chicago Midway International Airport
+    code: MDW
+    latitude: 41.7861111111
+    longitude: -87.7525
+  - name: Minneapolis-Saint Paul International Airport
+    code: MSP
+    latitude: 44.8816666667
+    longitude: -93.2208333333
+  - name: Chicago O'Hare International Airport
+    code: ORD
+    latitude: 41.97805555
+    longitude: -87.90611111
+  - name: Oslo Airport Gardermoen
+    code: OSL
+    latitude: 60.1952777778
+    longitude: 11.0994444444
+  - name: Portland International Airport
+    code: PDX
+    latitude: 45.5875
+    longitude: -122.5933333333
+  - name: Philadelphia International Airport
+    code: PHL
+    latitude: 39.8686111111
+    longitude: -75.2483333333
+  - name: Pittsburgh International Airport
+    code: PIT
+    latitude: 40.4913888889
+    longitude: -80.2327777778
+  - name: Seattle-Tacoma International Airport
+    code: SEA
+    latitude: 47.4488888889
+    longitude: -122.309444444
+  - name: San Francisco International Airport
+    code: SFO
+    latitude: 37.6180555556
+    longitude: -122.3786111111
+  - name: Norman Y. Mineta San Jose International Airport
+    code: SJC
+    latitude: 37.3627777778
+    longitude: -121.9291666667
+  - name: Salt Lake City International Airport
+    code: SLC
+    latitude: 40.7861111111
+    longitude: -111.9822222222
+  - name: Lambert-St. Louis International Airport
+    code: STL
+    latitude: 38.7472222222
+    longitude: -90.3613888889
+
+countries:
+  - name: United States
+    latitude: 37.090240
+    longitude: -95.712891
+  - name: Mexico
+    latitude: 23.634501
+    longitude: -102.552788
+  - name: United Kingdom
+    latitude: 55.378052
+    longitude: -3.435973
+  - name: Canada
+    latitude: 56.130367
+    longitude: -106.346771
+  - name: Denmark
+    latitude: 56.263920
+    longitude: 9.501785
+  - name: Norway
+    latitude: 60.472023
+    longitude: 8.468946
