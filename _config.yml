@@ -338,3 +338,17 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+jekyll_compose:
+  auto_open: false              # set true, make sure that you have EDITOR or JEKYLL_EDITOR environment variable set
+  draft_default_front_matter:
+    description:
+    image:
+    category:
+    tags:
+  post_default_front_matter:
+    permalink:
+    description:
+    category:
+    tags:
+
