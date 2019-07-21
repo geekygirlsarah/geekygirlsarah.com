@@ -2,7 +2,7 @@
 title: "About"
 layout: splash
 permalink: /about/
-date: 2019-05-19T12:00:00-04:00
+date: 2019-07-09T02:31:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -50,27 +50,16 @@ If speaking at conferences wasn't enough, I was asked to join the conference org
 conference for women in computing in 2012. Six conferences later and I'm now the Director of Programming for 
 Abstractions Conference, a 2000-person conference located in Pittsburgh, PA.
 
-## I'm a user of 100% organic sarcasm and puns
+# Bios
 
-I don't remember when I realized I have a magical talent for saying about anything with a straight face, but it's 
-helped me be able to say some silly off-the-wall things in the most serious way. I also learned that I have a talent 
-of not just saying puns, but really letting out some great groan-worthy ones. My record is a pun war that lasted an 
-hour and a half.
-
-
-
-
-
-
-<!-- 
-## My Short Bio
+## Short
 (41 words)
 
 Sarah is a polyglot software engineer, international public speaker, teacher and mentor, and hardware and robot 
 tinkerer in Pittsburgh, PA. She has always loved programming and technology for as long as she can remember. She lives 
 up to her Twitter username.
 
-## My Medium Bio 
+## Medium 
 (98 words)
 
 Sarah Withee is a polyglot software engineer, public speaker, teacher and mentor, and hardware and robot tinkerer 
@@ -81,7 +70,7 @@ mentored middle and high school robotics teams to world championships. She's eve
 the Director of Programming for Abstractions conference. 
 
 
-## My Long Bio
+## Long
 (196 words)
 
 Sarah Withee is a polyglot software engineer, public speaker, teacher and mentor, and hardware and robot tinkerer 
@@ -99,4 +88,3 @@ people going in tech. She even started a podcast to try to help boost underrepre
 
 Sarah would love to connect with you too! Say hello over on Twitter, LinkedIn, her blog, or you can contact her 
 directly on the Contact page.
--->

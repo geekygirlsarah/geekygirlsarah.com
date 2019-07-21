@@ -2,7 +2,7 @@
 title: "Speaking"
 layout: splash
 permalink: /speaking/
-date: 2019-05-19T12:00:00-04:00
+date: 2019-06-30T21:39:00-04:00
 classes: 
   - wide
   - landing

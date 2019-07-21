@@ -1,19 +1,14 @@
 ---
 title: "Doors"
 layout: single
-author: sarah
+# author: sarah # this seems to break the author profile and not sure why yet
 permalink: /speaking/doors/
-date: 2019-06-28T12:00:00-04:00
+date: 2019-07-21T12:19:00-04:00
 # classes: wide
 toc: true
 toc_label: "Page Contents"
 toc_icon: "file-alt"
-author_profile: false
-
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+author_profile: true
 ---
 
 This page will always be updated with the most recent version of this talk. 
@@ -47,7 +42,7 @@ Doors are great! Wooden doors, metal doors, red doors, blue doors, green doors, 
 they're all over. They're opportunities to end up in a new place. Sometimes you know what's behind the door, and 
 sometimes you don't. In this keynote, I share my story of how I always wanted to be a developer since I first learned 
 to program as a kid. But many barriers and challenges showed up along the way. It took many years, a big community, and 
-some really encouraging people to help tell break through those barriers and get through those challenges. And 
+some really encouraging people to help break through those barriers and get through those challenges. And 
 sometimes, even when you don't know if you can or should go through a door, you never know what wonders will be on the 
 other side.
 

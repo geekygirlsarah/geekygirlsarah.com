@@ -1,19 +1,14 @@
 ---
 title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
 layout: single
-author: sarah
+# author: sarah # this seems to break the author profile and not sure why yet
 permalink: /speaking/building-your-team-to-last/
-date: 2019-06-28T12:00:00-04:00
+date: 2019-07-21T12:19:00-04:00
 # classes: wide
 toc: true
 toc_label: "Page Contents"
 toc_icon: "file-alt"
-author_profile: false
-
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+author_profile: true
 ---
 
 This page will always be updated with the most recent version of this talk. 

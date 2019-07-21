@@ -2,7 +2,7 @@
 title: "Contact"
 layout: splash
 permalink: /contact/
-date: 2019-05-19T12:00:00-04:00
+date: 2019-06-30T21:48:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

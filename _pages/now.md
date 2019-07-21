@@ -3,7 +3,7 @@ title: "What I'm Doing Now"
 layout: splash
 author: sarah
 permalink: /now/
-date: 2019-05-19T12:00:00-04:00
+date: 2019-06-29T01:09:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
