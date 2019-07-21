@@ -3,7 +3,7 @@ title: "A Primer on Functional Programming"
 layout: single
 # author: sarah # this seems to break the author profile and not sure why yet
 permalink: /speaking/a-primer-on-functional-programming/
-date: 2019-07-21T12:19:00-04:00
+description: Slides, videos, and more for my talk "A Primer on Functional Programming"
 # classes: wide
 toc: true
 toc_label: "Page Contents"
