@@ -21,6 +21,10 @@ http://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
 
 # -----------------------------------------------------------------------------
 
+# Misc captures
+/talks/               /speaking/
+/press/               /media/
+
 # Talk - Building Your Team to Last
 /build-your-team/     /speaking/building-your-team-to-last/
 /building-your-team/  /speaking/building-your-team-to-last/
