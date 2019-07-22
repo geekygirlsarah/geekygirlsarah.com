@@ -4,6 +4,7 @@ layout: single
 # author: sarah # this seems to break the author profile and not sure why yet
 permalink: /speaking/intro-to-hacking-with-the-raspberry-pi/
 date: 2019-07-21T12:19:00-04:00
+description: Slides, videos, and more for my talk "Intro to Hacking with the Raspberry Pi"
 # classes: wide
 toc: true
 toc_label: "Page Contents"

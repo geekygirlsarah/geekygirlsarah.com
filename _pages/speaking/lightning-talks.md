@@ -4,6 +4,7 @@ layout: single
 # author: sarah # this seems to break the author profile and not sure why yet
 permalink: /speaking/lightning-talks/
 date: 2019-07-21T12:19:00-04:00
+description: Slides for all of my lightning talks 
 # classes: wide
 toc: true
 toc_label: "Page Contents"

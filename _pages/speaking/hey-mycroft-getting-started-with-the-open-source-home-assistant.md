@@ -4,6 +4,7 @@ layout: single
 # author: sarah # this seems to break the author profile and not sure why yet
 permalink: /speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
 date: 2019-07-21T12:19:00-04:00
+description: Slides, videos, and more for my talk "“Hey Mycroft”: Getting Started with the Open Source Home Assistant"
 # classes: wide
 toc: true
 toc_label: "Page Contents"
