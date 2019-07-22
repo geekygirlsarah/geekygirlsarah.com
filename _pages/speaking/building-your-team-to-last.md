@@ -4,7 +4,7 @@ layout: single
 # author: sarah # this seems to break the author profile and not sure why yet
 permalink: /speaking/building-your-team-to-last/
 date: 2019-07-21T12:19:00-04:00
-description: Slides, videos, and more for my talk "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
+description: "Slides, videos, and more for my talk 'Building Your Team to Last: Successful Onboarding and Mentoring Practices'" 
 # classes: wide
 toc: true
 toc_label: "Page Contents"
