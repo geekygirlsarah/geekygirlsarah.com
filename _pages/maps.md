@@ -12,10 +12,10 @@ header:
 
 A map of where I've been in the world. Definitely not an exhaustive list.
 
-* ![Blue Icon](/assets/images/marker-icon-blue.png) - Cities I've lived in (points aren't specific homes)
-* ![Green Icon](/assets/images/marker-icon-green.png) - Cities I've traveled to (and not just passed through, 2018-Present)
-* ![Orange Icon](/assets/images/marker-icon-orange.png) - Airports I've been in, 2018-Present)
-* ![Red Icon](/assets/images/marker-icon-red.png) - Countries I have been to (2018-Present)
+* ![Blue Icon](/assets/images/marker-icon-blue.png) - Cities I've lived in
+* ![Green Icon](/assets/images/marker-icon-green.png) - Cities I've traveled to (and not just passed through, 2015-Present)
+* ![Orange Icon](/assets/images/marker-icon-orange.png) - Airports I've been in (lifetime)
+* ![Red Icon](/assets/images/marker-icon-red.png) - Countries I have been to (lifetime)
 
 <div id="mapid"></div>
 
