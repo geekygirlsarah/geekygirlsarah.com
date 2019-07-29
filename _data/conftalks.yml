@@ -578,6 +578,16 @@
   time: 
   event_url: https://thestrangeloop.com/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
+- date: 2019-10-11
+  end_date: 2019-10-12
+  event: DevSpace Conf
+  location: Huntsville, AL
+  type: Keynote
+  title: Building an Open Source Artificial Pancreas
+  room:
+  time:
+  event_url: https://www.devspaceconf.com/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-11-03
   end_date: 2019-11-08
   event: Agile + DevOps East
