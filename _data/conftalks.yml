@@ -4,28 +4,28 @@
   location: Kansas City, MO
   type: Discussion Panel
   title: College discussion panel
-  room: 
-  time: 
-  event_url: 
-  talk_url: 
+  room:
+  time:
+  event_url:
+  talk_url:
 - date: 2013-07-17
   end_date: 2013-07-17
   event: She++ Women in Technology Panel
   location: Kansas City, MO
   type: Discussion Panel
   title: Women in tech panel (moderator)
-  room: 
-  time: 
-  event_url: 
-  talk_url: 
+  room:
+  time:
+  event_url:
+  talk_url:
 - date: 2013-10-19
   end_date: 2013-10-19
   event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
   location: Kansas City, MO
   type: Lightning Talk
   title: Why You Should Participate in a Hackathon
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.minkwic.org/
   talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2013-10-19
@@ -34,8 +34,8 @@
   location: Kansas City, MO
   type: Lightning Talk
   title: Becoming an Undergraduate Teaching Assistant
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.minkwic.org/
   talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2014-02-21
@@ -44,38 +44,38 @@
   location: Kansas City, MO
   type: Discussion Panel
   title: College discussion panel
-  room: 
-  time: 
-  event_url: 
-  talk_url: 
+  room:
+  time:
+  event_url:
+  talk_url:
 - date: 2015-02-06
   end_date: 2015-02-06
   event: NCWIT Aspriations Awards Ceremony (KS-MO Chapter)
   location: Kansas City, MO
   type: Discussion Panel
   title: College student panel (moderator)
-  room: 
-  time: 
-  event_url: 
-  talk_url: 
+  room:
+  time:
+  event_url:
+  talk_url:
 - date: 2015-02-27
   end_date: 2015-02-27
   event: Introduce a Girl to Engineering Day
   location: Kansas City, MO
   type: Discussion Panel
   title: College discussion panel
-  room: 
-  time: 
-  event_url: 
-  talk_url: 
+  room:
+  time:
+  event_url:
+  talk_url:
 - date: 2015-03-20
   end_date: 2015-03-20
   event: Nebraska.Code() Conference
   location: Lincoln, NE
   type: Session
   title: Intro to Hacking with the Raspberry Pi
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://nebraskacode.amegala.com/
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-04-28
@@ -84,9 +84,9 @@
   location: Kansas City, MO
   type: Group Meeting
   title: Intro to Hacking with the Raspberry Pi
-  room: 
-  time: 
-  event_url: 
+  room:
+  time:
+  event_url:
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-06-25
   end_date: 2015-06-25
@@ -94,8 +94,8 @@
   location: Kansas City, MO
   type: Session
   title: Intro to Hacking with the Raspberry Pi
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://2015.kcdc.info/#!/speakers/sarah-withee
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-06-26
@@ -104,8 +104,8 @@
   location: Kansas City, MO
   type: Session
   title: Intro to Hacking with the Raspberry Pi (encore)
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://2015.kcdc.info/#!/speakers/sarah-withee
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-10-17
@@ -114,8 +114,8 @@
   location: Kansas City, MO
   type: Session
   title: Intro to Hacking with the Raspberry Pi
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.minkwic.org/
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2015-11-12
@@ -124,9 +124,9 @@
   location: Kansas City, MO
   type: Group Meeting
   title: Intro to Hacking with the Raspberry Pi
-  room: 
-  time: 
-  event_url: 
+  room:
+  time:
+  event_url:
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2016-05-19
   end_date: 2016-05-19
@@ -134,8 +134,8 @@
   location: Lincoln, NE
   type: Session
   title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://nebraskacode.com/speakers/sarah-withee
   talk_url: /speaking/building-your-team-to-last/
 - date: 2016-05-19
@@ -144,8 +144,8 @@
   location: Lincoln, NE
   type: Session
   title: A Primer on Functional Programming
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://nebraskacode.com/speakers/sarah-withee
   talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2016-05-21
@@ -154,8 +154,8 @@
   location: Detroit, MI
   type: Session
   title: A Primer on Functional Programming
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://selfconference.org/events/2/sessions#speaker_2
   talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2016-05-21
@@ -164,8 +164,8 @@
   location: Detroit, MI
   type: Lightning Talk
   title: Encouraging Kids Through Robotics Mentoring
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://selfconference.org/events/2/sessions#speaker_2
   talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2016-06-23
@@ -174,8 +174,8 @@
   location: Kansas City, MO
   type: Session
   title: A Primer on Functional Programming
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://www.kcdc.info/#!/speakers/sarah-withee
   talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2016-06-24
@@ -184,8 +184,8 @@
   location: Kansas City, MO
   type: Session
   title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://www.kcdc.info/#!/speakers/sarah-withee
   talk_url: /speaking/building-your-team-to-last/
 - date: 2016-08-12
@@ -194,8 +194,8 @@
   location: Camp Meeker, CA (near San Francisco)
   type: Lightning Talk
   title: Why Self Care Is Harder for Me
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://andconf.io/
   talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2016-09-26
@@ -204,8 +204,8 @@
   location: Kansas City, MO
   type: Class
   title: JavaScript for Beginners
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.meetup.com/Girl-Develop-It-Kansas-City/events/233650726/
   talk_url: https://www.meetup.com/Girl-Develop-It-Kansas-City/events/233650726/
 - date: 2016-10-01
@@ -214,8 +214,8 @@
   location: Portland, OR
   type: Session
   title: The Power of Secrets
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.alterconf.com/talks/power-secrets
   talk_url: /speaking/the-power-of-secrets/
 - date: 2016-10-27
@@ -224,8 +224,8 @@
   location: Des Moines, IA
   type: Session
   title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://prairiecode.amegala.com/
   talk_url: /speaking/building-your-team-to-last/
 - date: 2016-10-28
@@ -234,8 +234,8 @@
   location: Des Moines, IA
   type: Session
   title: A Primer on Functional Programming
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://prairiecode.amegala.com/
   talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2017-05-07
@@ -244,18 +244,18 @@
   location: Lawrence, KS
   type: Spoken Essay
   title: I’d Like to Be A Mother Someday, But…
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://listentoyourmothershow.com/kansascity/
-  talk_url: 
+  talk_url:
 - date: 2017-05-19
   end_date: 2017-05-19
   event: Self.Conference
   location: Detroit, MI
   type: Session
   title: The Power of Secrets
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://selfconference.org/
   talk_url: /speaking/the-power-of-secrets/
 - date: 2017-05-19
@@ -264,8 +264,8 @@
   location: Detroit, MI
   type: Lightning Talk
   title: How to Start a Podcast
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://selfconference.org/
   talk_url: https://sarahwithee.com/speaking/lightning-talks/
 - date: 2017-08-26
@@ -274,18 +274,18 @@
   location: Austin, TX
   type: Session
   title: Life as a Midwestern Developer
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.alterconf.com/conferences/2017/austin-tx
-  talk_url: 
+  talk_url:
 - date: 2017-10-16
   end_date: 2017-10-16
   event: devUp Conference
   location: St. Louis, MO
   type: Session
   title: The Power of Secrets
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://devupconf.org/Speakers/435
   talk_url: /speaking/the-power-of-secrets/
 - date: 2017-10-17
@@ -294,8 +294,8 @@
   location: St. Louis, MO
   type: Session
   title: Intro to Hacking with the Raspberry Pi
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://devupconf.org/Speakers/435
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2017-11-04
@@ -304,18 +304,18 @@
   location: Kansas City, MO
   type: Session
   title: "Pursuing a Passion Project: Struggles and Successes"
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://minkwic.org/program/tech-talks/#passion
-  talk_url: 
+  talk_url:
 - date: 2018-01-18
   end_date: 2018-01-18
   event: Techtonica Launch Celebration
   location: San Francisco, CA
   type: Invited Keynote
   title: Doors
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.eventbrite.com/e/2018-apprenticeship-launch-celebration-tickets-41595729948
   talk_url: /speaking/doors/
 - date: 2018-04-20
@@ -323,9 +323,9 @@
   event: Heartifacts
   location: Pittsburgh, PA
   type: Emcee
-  title: 
-  room: 
-  time: 
+  title:
+  room:
+  time:
   event_url: https://codeandsupply.co/heartifacts
   talk_url: https://codeandsupply.co/heartifacts
 - date: 2018-04-30
@@ -334,8 +334,8 @@
   location: Austin, TX
   type: Invited Speaker
   title: "Building Your Team to Last: Successful Onboarding and Mentoring Practices"
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.agilealliance.org/deliver-agile-2018/#q=~(filters~(postType~(~'aa_event_session~'aa_video)~sources~(~'deliver*3aAgile*202018))~searchTerm~'~sort~'name.sort~sortDirection~'asc~page~1)
   talk_url: /speaking/building-your-team-to-last/
 - date: 2018-05-31
@@ -344,8 +344,8 @@
   location: Nashville, TN
   type: Session
   title: A Primer on Functional Programming
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://www.musiccitytech.com/sessions/
   talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2018-08-17
@@ -354,8 +354,8 @@
   location: Detroit, MI
   type: Lightning Talk
   title: I Built an Artificial Pancreas!
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://selfconference.org/sessions#speaker_2
   talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2018-08-17
@@ -364,8 +364,8 @@
   location: Detroit, MI
   type: Session
   title: Maintaining Your Mental and Emotional Health While Job Hunting
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://selfconference.org/sessions#speaker_2
   talk_url: /speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
 - date: 2018-08-20
@@ -374,8 +374,8 @@
   location: Pittsburgh, PA
   type: Meetup
   title: Intro to Hacking with the Raspberry Pi
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.meetup.com/Pittsburgh-Code-Supply/events/252757579/
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2018-09-14
@@ -384,8 +384,8 @@
   location: Buffalo, NY
   type: Session
   title: A Primer on Functional Programming
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://codedaze.me/
   talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2018-09-27
@@ -394,8 +394,8 @@
   location: St. Louis, MO
   type: Lightning Talk
   title: I Built an Artificial Pancreas!
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://github.com/strangeloop/StrangeLoop2018/wiki/Lightning-Talks-Sign-up
   talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2018-10-08
@@ -404,8 +404,8 @@
   location: St. Louis, MO
   type: Session
   title: Maintaining Your Mental and Emotional Health While Job Hunting
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://devupconf.org/speakers/Sarah-Withee
   talk_url: /speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
 - date: 2018-10-08
@@ -414,8 +414,8 @@
   location: St. Louis, MO
   type: Session
   title: A Primer on Functional Programming
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://devupconf.org/speakers/Sarah-Withee
   talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2018-11-12
@@ -424,18 +424,18 @@
   location: Pittsburgh, PA
   type: Discussion Panel
   title: "Small Snakes: Python for microcontrollers & embedded systems (panelist)"
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.meetup.com/Pittsburgh-Code-Supply/
-  talk_url: 
+  talk_url:
 - date: 2019-01-09
   end_date: 2019-01-11
   event: Code Mash
   location: Sandusky, OH
   type: Session
   title: Building Your Team to Last
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://www.codemash.org/
   talk_url: /speaking/building-your-team-to-last/
 - date: 2019-01-09
@@ -444,8 +444,8 @@
   location: Sandusky, OH
   type: Session
   title: A Primer on Functional Programming
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://www.codemash.org/
   talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2019-01-09
@@ -454,8 +454,8 @@
   location: Sandusky, OH
   type: Lightning Talk
   title: I Built an Artificial Pancreas!
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://www.codemash.org/
   talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-02-01
@@ -464,8 +464,8 @@
   location: London, United Kingdom
   type: Session
   title: "“Hey Mycroft”: Getting Started with the OSS Home Assistant"
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://ndc-london.com/
   talk_url: /speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
 - date: 2019-02-07
@@ -474,8 +474,8 @@
   location: Pittsburgh, PA
   type: Meetup
   title: Building Your Team to Last
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://www.meetup.com/Pittsburgh-Code-Supply/events/258286538
   talk_url: /speaking/building-your-team-to-last/
 - date: 2019-04-26
@@ -484,8 +484,8 @@
   location: Columbus, OH
   type: Session
   title: Intro to Hacking with the Raspberry Pi
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://stirtrek.com/
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 - date: 2019-05-03
@@ -494,8 +494,8 @@
   location: Southfield (Detroit), MI
   type: Invited Featured Guest
   title: Building an Open Source Artificial Pancreas
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://2019.penguicon.org/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-05-03
@@ -504,8 +504,8 @@
   location: Southfield (Detroit), MI
   type: Invited Featured Guest
   title: Maintaining Your Mental and Emotional Health While Job Hunting
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://2019.penguicon.org/
   talk_url: /speaking/maintaining-your-mental-and-emotional-health-while-job-hunting/
 - date: 2019-05-04
@@ -514,8 +514,8 @@
   location: Cleveland, OH
   type: Session
   title: Building an Open Source Artificial Pancreas
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://us.pycon.org/2019/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-05-11
@@ -524,8 +524,8 @@
   location: New York City, NY
   type: Lightning Talk
   title: I Built an Artificial Pancreas!
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://bangbangcon.com/
   talk_url: https://sarahwithee.com/speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-06-07
@@ -534,8 +534,8 @@
   location: Detroit, MI
   type: Session
   title: Building an Open Source Artificial Pancreas
-  room: 
-  time: 
+  room:
+  time:
   event_url: http://selfconference.org/events/2/sessions#speaker_2
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-06-19
@@ -544,38 +544,38 @@
   location: Oslo, Norway
   type: Session
   title: A Primer on Functional Programming
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://ndcoslo.com/
   talk_url: /speaking/a-primer-on-functional-programming/
 - date: 2019-08-05
-  end_date: 2019-08-08
+  end_date: 2019-08-05
   event: THAT Conference
   location: Wisconsin Dells, WI
   type: Workshop
   title: “What is a HashTrieStackFilter?” A Data Structures & Algorithms Refresher For Everyone
-  room: 
-  time: 
+  room: 4
+  time: 8:00 am
   event_url: https://www.thatconference.com/
-  talk_url: 
-- date: 2019-08-05
-  end_date: 2019-08-08
+  talk_url: https://geekygirlsarah.com/algorithms/
+- date: 2019-08-07
+  end_date: 2019-08-07
   event: THAT Conference
   location: Wisconsin Dells, WI
   type: Session
   title: Building an Open Source Artificial Pancreas
-  room: 
-  time: 
+  room: 6
+  time: 4:00 pm
   event_url: https://www.thatconference.com/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
-- date: 2019-09-12
+- date: 2019-09-14
   end_date: 2019-09-14
   event: Strange Loop
   location: St. Louis, MO
   type: Session
   title: Building an Open Source Artificial Pancreas
-  room: 
-  time: 
+  room: Union Station Grand Ballroom EF
+  time: 1:30 pm
   event_url: https://thestrangeloop.com/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-10-11
@@ -594,7 +594,7 @@
   location: Orlando, FL
   type: Invited Session
   title: Building an Open Source Artificial Pancreas
-  room: 
-  time: 
+  room:
+  time:
   event_url: https://agiledevopseast.techwell.com/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
