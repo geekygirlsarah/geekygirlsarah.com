@@ -557,7 +557,7 @@
   room: 4
   time: 8:00 am
   event_url: https://www.thatconference.com/
-  talk_url: https://geekygirlsarah.com/algorithms/
+  talk_url: /speaking/wtf-is-a-hashtriestackfiltermap/
 - date: 2019-08-07
   end_date: 2019-08-07
   event: THAT Conference
