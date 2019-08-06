@@ -12,13 +12,15 @@ toc_icon: "file-alt"
 author_profile: true
 ---
 
-This page will always be updated with the most recent version of this talk. 
+This page will always be updated with the most recent version of this workshop. 
 
 The latest version is 1.0 which was given at THAT Conference on 8/5/2019.
 
 ## Slides/Code/Diagrams
 
-These will be added when they are complete.
+My original workshop notes are here: [Notes](https://github.com/geekygirlsarah/talk-wtf-is-a-hashtriestackfiltermap/raw/master/Workshop%20-%20WTF%20is%20a%20HashTrieStackFilterMap%20Notse.docx)
+
+Slides weren't created but instead typed live in session. Those are here: [From 8/5/2019 workshop](https://github.com/geekygirlsarah/talk-wtf-is-a-hashtriestackfiltermap/raw/master/HashTrieStackFilterMap%20-%202019-08-05.docx)
 
 ## History
 
@@ -42,10 +44,23 @@ technical problems. You will leave with a wealth of knowledge and resources to h
 ## Talk Outline
 
 - Introductions
-- Part 1: The Basics (lists, trees, hashmaps, and applications of those)
-- Part 2: The Algorithms (Big O, traversing data structures, improving some inefficiencies)
-- Part 3: The Sorts (going over several algorithms, why bother learning this, etc.)
-- Part 4: Job Interviews and Strategies (what to focus attention on, how to think through problems, etc.)
+- Part 1: The Basics (how they work, methodologies behind them, when to use them)
+    - Arrays and Linked Lists
+    - Stacks/Queues
+    - Trees (and the many types)
+    - Heaps
+    - Hashmaps/hash tables/maps
+    - Graphs
+- Part 2: The Algorithms (Big O, traversing data structures, improving some inefficiencies, common sort algorithms)
+     - Big-O notation (what is it, how it works, why use it?)
+     - Searching data structures
+     - Common sorting algorithms (and why bother learning)
+     - Pair problem solving
+- Part 3: Job Interviews and Strategies (what to focus attention on, how to think through problems, etc.)
+    - Some strategies for yourself and the process
+    - Some strategies for problem solving technical questions
+    - Strategies for actually job hunting
+
 We will make sure practice problems are mixed in as the problem solving is very important to learning the problems. 
 I'll have people pair (or triple) up to work on them. I'll throw in plenty of breaks (as sitting and cramming this 
 material isn't always fun). 
