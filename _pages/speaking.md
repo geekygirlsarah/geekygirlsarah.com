@@ -67,6 +67,9 @@ Here's a list of my talks I've given.
 - [The Power of Secrets](/speaking/the-power-of-secrets/)
 - [Pursuing a Passion Project: Struggles and Successes]()
 
+**Workshops**
+- [“What is a HashTrieStackFilter?” A Data Structures & Algorithms Refresher For Everyone](/speaking/wtf-is-a-hashtriestackfiltermap/)
+
 
 ## Past Events
 

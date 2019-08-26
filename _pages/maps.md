@@ -101,22 +101,22 @@ A map of where I've been in the world. Definitely not an exhaustive list.
 
   // Countries
   {% for item in site.data.travels.countries %}
-    L.marker([{{ item.latitude }}, {{ item.longitude }}], {icon: redIcon}).addTo(myMap).bindPopup("<b>{{ item.name }}</b>");
+    L.marker([{{ item.latitude }}, {{ item.longitude }}], {icon: redIcon}).addTo(myMap).bindPopup("<b>Country I've Been To</b><br />{{ item.name }}");
   {% endfor %}  
 
   // Airports
   {% for item in site.data.travels.airports %}
-    L.marker([{{ item.latitude }}, {{ item.longitude }}], {icon: orangeIcon}).addTo(myMap).bindPopup("<b>{{ item.name }}</b><br />{{ item.code }} ");
+    L.marker([{{ item.latitude }}, {{ item.longitude }}], {icon: orangeIcon}).addTo(myMap).bindPopup("<b>Airport I've Been To</b><br />{{ item.name }} - {{ item.code }} ");
   {% endfor %}  
 
   // Visited
   {% for item in site.data.travels.visited %}
-    L.marker([{{ item.latitude }}, {{ item.longitude }}], {icon: greenIcon}).addTo(myMap).bindPopup("<b>{{ item.name }}</b>");
+    L.marker([{{ item.latitude }}, {{ item.longitude }}], {icon: greenIcon}).addTo(myMap).bindPopup("<b>City I've Visited</b><br />{{ item.name }}");
   {% endfor %}  
 
   // Homes
   {% for item in site.data.travels.lived %}
-  L.marker([{{ item.latitude }}, {{ item.longitude }}], {icon: blueIcon} ).addTo(myMap).bindPopup("<b>{{ item.name }}</b><br />Lived: years");
+  L.marker([{{ item.latitude }}, {{ item.longitude }}], {icon: blueIcon} ).addTo(myMap).bindPopup("<b>City I've Lived In</b><br />{{ item.name }}<br />Years: {{ item.years }}");
   {% if item.radius %}
   var circle = L.circle([{{ item.latitude }}, {{ item.longitude }}], {
       icon: blueIcon,
