@@ -16,7 +16,7 @@ This page will always be updated with the most recent version of this talk.
 
 Lightning Talk: The latest version is 1.3 which was given at !!Con on 5/11/2019.
 
-Full session: The latest version is 1.2 which was given at Self.Conference on 6/7/2019.
+Full session: The latest version is 1.3 which was given at THAT Conference on 8/7/2019.
 
 ## Slides/Code/Diagrams
 
@@ -42,7 +42,7 @@ Date      | Type           | Version | Venue
 3/4/2019  | Conf Session   | 1.1     | PyCon US
 3/11/2019 | Lightning Talk | 1.3     | !!Con
 6/7/2019  | Conf Session   | 1.2     | Self.Conference
-8/?/2019  | Conf Session   |         | THAT Conference
+8/7/2019  | Conf Session   | 1.3     | THAT Conference
 11/?/2019 | Conf Session   |         | Agile + DevOps East
 
 ## Abstract/Description

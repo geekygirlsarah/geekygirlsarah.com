@@ -54,3 +54,5 @@ http://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
 # Talk - The Power of Secrets
 /secrets/             /speaking/the-power-of-secrets/
 
+# Workshop - “What is a HashTrieStackFilterMap?"
+/algorithms/          /speaking/wtf-is-a-hashtriestackfiltermap/
