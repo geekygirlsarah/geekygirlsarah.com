@@ -16,6 +16,7 @@ tags:
   - github
   - jekyll
   - netlify
+  - personal website
   - static site generator
   - website
   - wordpress
