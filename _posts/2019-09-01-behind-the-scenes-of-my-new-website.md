@@ -12,8 +12,13 @@ medium_post:
 categories:
   - Website
 tags:
+  - continuous deployment
   - github
+  - jekyll
+  - netlify
+  - static site generator
   - website
+  - wordpress
 ---
 
 <figure>
