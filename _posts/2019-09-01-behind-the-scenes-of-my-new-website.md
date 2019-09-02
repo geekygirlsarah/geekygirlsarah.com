@@ -106,7 +106,7 @@ etc. from my talks as people go there to see things. I went through and updated 
 information, version histories, code updates, links to the GitHub content, and so on. 
 
 There's also a [schedule of talks](https://geekygirlsarah.com/speaking/), something I managed in HTML directly. It was 
-pretty annoying. I knew Jekyll could do some [manipluation based on data files](https://jekyllrb.com/docs/datafiles/). I 
+pretty annoying. I knew Jekyll could do some [manipulation based on data files](https://jekyllrb.com/docs/datafiles/). I 
 started loading talks into a YAML data file (the full file is 
 [here](https://github.com/geekygirlsarah/geekygirlsarah.com/blob/master/_data/conftalks.yml)):
 
