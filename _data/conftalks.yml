@@ -568,6 +568,16 @@
   time: 4:00 pm
   event_url: https://www.thatconference.com/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
+- date: 2019-09-13
+  end_date: 2019-09-13
+  event: Strange Loop
+  location: St. Louis, MO
+  type: Lightning Talk
+  title: How a Pinball Machine Works
+  room: Union Station Grand Ballroom EF
+  time: 8:00 pm
+  event_url: https://thestrangeloop.com/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2019-09-14
   end_date: 2019-09-14
   event: Strange Loop
