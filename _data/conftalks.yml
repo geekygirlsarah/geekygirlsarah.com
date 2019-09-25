@@ -592,9 +592,29 @@
   end_date: 2019-10-12
   event: DevSpace Conf
   location: Huntsville, AL
-  type: Keynote
+  type: Opening Keynote
   title: Building an Open Source Artificial Pancreas
   room:
   time:
   event_url: https://www.devspaceconf.com/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
+- date: 2019-11-09
+  end_date: 2019-11-09
+  event: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
+  location: Kansas City, MO
+  type: Panel
+  title: Where Are They Now?
+  room:
+  time: 1:00pm
+  event_url: https://www.minkwic.org/
+  talk_url:
+- date: 2020-03-09
+  end_date: 2020-03-09
+  event: Above Clouds
+  location: Zagreb, Croatia
+  type: Closing Keynote
+  title: TBA
+  room:
+  time:
+  event_url:
+  talk_url:
