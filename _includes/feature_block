@@ -8,16 +8,17 @@
       {% for item in site.posts %}
         {% if count < show_number %}
           {% assign date = item.date | date: "%Y-%m-%d" %}
-          <li>{{ date | date_to_string: "ordinal", "US" }}: <a href="{{ item.url }}" target="_blank">{{ item.title }}</a></li>
+          <li><strong>{{ date | date_to_string: "ordinal", "US" }}</strong>: <a href="{{ item.url }}" target="_blank">{{ item.title }}</a></li>
           {% assign count = count | plus:1 %}
         {% endif %}
       {% endfor %}
     {% elsif type == "talks" %}
       {% for item in site.data.conftalks %}
         {% if count < show_number %}
-          {% assign date = item.date | date: "%Y-%m-%d" %}
+          {% assign date = item.talk_date | date: "%Y-%m-%d" %}
           {% if date >= today %}
-            <li>{{ date | date_to_xmlschema | date_to_string: "ordinal", "US" }}: <a href="{{ item.event_url }}" target="_blank">{{ item.title }}</a>  ({{ item.type }}, {{ item.event }})</li>
+            <li><strong>{{ date | date_to_xmlschema | date_to_string: "ordinal", "US" }}</strong>: {{ item.talk_type }} at <a href="{{ item.event_url }}" target="_blank">{{ item.event_name }}</a><br />
+              {{ item.talk_title }}</li>
             {% assign count = count | plus:1 %}
           {% endif %}
         {% endif %}
@@ -26,7 +27,7 @@
       {% for item in site.data.podcasts reversed %}
         {% if count < show_number %}
           {% assign date = item.date | date: "%Y-%m-%d" %}
-          <li>{{ date | date_to_xmlschema | date_to_string: "ordinal", "US" }}: <a href="{{ item.url }}" target="_blank">{{ item.episode }}</a> ({{ item.show }})</li>
+          <li><strong>{{ date | date_to_xmlschema | date_to_string: "ordinal", "US" }}</strong>: <a href="{{ item.url }}" target="_blank">{{ item.episode }}</a> ({{ item.show }})</li>
           {% assign count = count | plus:1 %}
         {% endif %}
       {% endfor %}
