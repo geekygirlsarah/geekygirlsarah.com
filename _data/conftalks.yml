@@ -608,6 +608,26 @@
   time: 1:00pm
   event_url: https://www.minkwic.org/
   talk_url:
+- date: 2020-01-07
+  end_date: 2020-01-10
+  event: Code Mash
+  location: Sandusky, OH
+  type: Session
+  title: Intro to Hacking with the Raspberry Pi
+  room:
+  time:
+  event_url: https://www.codemash.org/
+  talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
+- date: 2020-01-07
+  end_date: 2020-01-10
+  event: Code Mash
+  location: Sandusky, OH
+  type: Session
+  title: Building an Open Source Artificial Pancreas
+  room:
+  time:
+  event_url: https://www.codemash.org/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
 - date: 2020-03-09
   end_date: 2020-03-09
   event: Above Clouds
