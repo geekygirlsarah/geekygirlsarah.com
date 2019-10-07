@@ -28,9 +28,9 @@ Jump to section:
 
 {% assign today = "now" | date: "%Y-%m-%d" %}
 
-| Date | Event | Location | Talk Type | Talk Title | 
-|------|-------|----------|-----------|------------|
-{% for item in site.data.conftalks %}{% assign event_date = item.date | date: "%Y-%m-%d" %}{% if event_date >= today %}{% if item.date == item.end_date %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {% if item.event_url %}<a href="{{ item.event_url}}" target="_blank">{{ item.event }}</a>{% else %}{{ item.event }}{% endif %} | {{ item.location }} | {{ item.type }} | {% if item.talk_url %}<a href="{{ item.talk_url}}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+| Date | Event, Location | Talk Type | Talk Title | 
+|------|-----------------|-----------|------------|
+{% for item in site.data.conftalks %}{% assign event_date = item.talk_date | date: "%Y-%m-%d" %}{% if event_date >= today %}{% if item.event_start_date == item.event_end_date %}{{ item.event_start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.event_start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.event_end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {% if item.event_url %}<a href="{{ item.event_url}}" target="_blank">{{ item.event_name }}</a>{% else %}{{ item.event_name }}{% endif %}, {{ item.event_location }} | {{ item.talk_type }} | {% if item.talk_url %}<a href="{{ item.talk_url}}">{{ item.talk_title }}</a>{% else %}{{ item.talk_title }}{% endif %}
 {% endif %}{% endfor %}
 
 ## About My Talks
@@ -73,7 +73,7 @@ Here's a list of my talks I've given.
 
 ## Past Events
 
-| Date | Event | Location | Talk Type | Talk Title | 
-|------|-------|----------|-----------|------------|
-{% for item in site.data.conftalks reversed %}{% assign event_date = item.date | date: "%Y-%m-%d" %}{% if event_date < today %}{% if item.date == item.end_date %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {% if item.event_url %}<a href="{{ item.event_url}}" target="_blank">{{ item.event }}</a>{% else %}{{ item.event }}{% endif %} | {{ item.location }} | {{ item.type }} | {% if item.talk_url %}<a href="{{ item.talk_url}}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+| Date | Event, Location | Talk Type | Talk Title | 
+|------|-----------------|-----------|------------|
+{% for item in site.data.conftalks reversed %}{% assign date = item.talk_date | date: "%Y-%m-%d" %}{% if date < today %}{% if item.event_start_date == item.event_end_date %}{{ item.event_start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.event_start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.event_end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {% if item.event_url %}<a href="{{ item.event_url}}" target="_blank">{{ item.event_name }}</a>{% else %}{{ item.event_name }}{% endif %}, {{ item.event_location }} | {{ item.talk_type }} | {% if item.talk_url %}<a href="{{ item.talk_url}}">{{ item.talk_title }}</a>{% else %}{{ item.talk_title }}{% endif %}
 {% endif %}{% endfor %}
