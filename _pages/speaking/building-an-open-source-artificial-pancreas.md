@@ -14,9 +14,9 @@ author_profile: true
 
 This page will always be updated with the most recent version of this talk. 
 
-Lightning Talk: The latest version is 1.3 which was given at !!Con on 5/11/2019.
+Full session: The latest version is 1.4 which was given at Strange Loop on 9/14/2019.
 
-Full session: The latest version is 1.3 which was given at THAT Conference on 8/7/2019.
+Lightning Talk: The latest version is 1.3 which was given at !!Con on 5/11/2019.
 
 ## Slides/Code/Diagrams
 
@@ -25,25 +25,28 @@ Full session: The latest version is 1.3 which was given at THAT Conference on 8/
 
 ## Videos
 
-PyCon (2019, 30 min version): [https://www.youtube.com/watch?v=1kT1VoX7VAs](https://www.youtube.com/watch?v=1kT1VoX7VAs)
-{% include video id="1kT1VoX7VAs" provider="youtube" %}
+Strange Loop (2019, 40 min): [https://www.youtube.com/watch?v=5prZU5RxkZ4](https://www.youtube.com/watch?v=5prZU5RxkZ4)
+{% include video id="5prZU5RxkZ4" provider="youtube" %}
 
+Older videos:
+PyCon (2019, 30 min version): [https://www.youtube.com/watch?v=1kT1VoX7VAs](https://www.youtube.com/watch?v=1kT1VoX7VAs)
 !!Con (2019, 10 min version): [https://www.youtube.com/watch?v=IgxhCTs4S3c](https://www.youtube.com/watch?v=IgxhCTs4S3c)
-{% include video id="IgxhCTs4S3c" provider="youtube" %}
+
 
 ## History
 
-Date      | Type           | Version | Venue
---------- | -------------- | ------- | ------
-8/17/2018 | Lightning Talk | 1.0     | Self.Conference
-9/27/2018 | Lightning Talk | 1.1     | Strange Loop
-1/9/2019  | Lightning Talk | 1.2     | Code Mash
-3/3/2019  | Conf Session   | 1.0     | Penguicon
-3/4/2019  | Conf Session   | 1.1     | PyCon US
-3/11/2019 | Lightning Talk | 1.3     | !!Con
-6/7/2019  | Conf Session   | 1.2     | Self.Conference
-8/7/2019  | Conf Session   | 1.3     | THAT Conference
-11/?/2019 | Conf Session   |         | Agile + DevOps East
+Date       | Type            | Version | Venue
+---------- | --------------- | ------- | ------
+8/17/2018  | Lightning Talk  | 1.0     | Self.Conference
+9/27/2018  | Lightning Talk  | 1.1     | Strange Loop
+1/9/2019   | Lightning Talk  | 1.2     | Code Mash
+3/3/2019   | Conf Session    | 1.0     | Penguicon
+3/4/2019   | Conf Session    | 1.1     | PyCon US
+3/11/2019  | Lightning Talk  | 1.3     | !!Con
+6/7/2019   | Conf Session    | 1.2     | Self.Conference
+8/7/2019   | Conf Session    | 1.3     | THAT Conference
+9/14/2019  | Conf Session    | 1.4     | Strange Loop
+10/11/2019 | Opening Keynote | 1.4     | DevSpace Technical Conference
 
 ## Abstract/Description
 
