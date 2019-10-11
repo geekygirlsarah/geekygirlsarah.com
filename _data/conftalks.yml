@@ -736,6 +736,18 @@
   event_start_date: 2019-11-08
   event_end_date: 2019-11-09
   talk_date: 2019-11-09
+  talk_type: Session
+  talk_title: Building an Open Source Artificial Pancreas
+  talk_room: City Center A
+  talk_time: 9:00am
+  event_url: https://www.minkwic.org/
+  talk_url: /speaking/building-an-open-source-artificial-pancreas/
+-
+  event_name: Missouri, Iowa, Nebraska and Kansas Celebration of Women in Computing
+  event_location: Kansas City, MO
+  event_start_date: 2019-11-08
+  event_end_date: 2019-11-09
+  talk_date: 2019-11-09
   talk_type: Panel
   talk_title: Where Are They Now?
   talk_room: TBD
