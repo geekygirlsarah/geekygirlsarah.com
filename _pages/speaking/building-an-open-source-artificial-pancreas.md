@@ -46,7 +46,8 @@ Date       | Type            | Version | Venue
 6/7/2019   | Conf Session    | 1.2     | Self.Conference
 8/7/2019   | Conf Session    | 1.3     | THAT Conference
 9/14/2019  | Conf Session    | 1.4     | Strange Loop
-10/11/2019 | Opening Keynote | 1.4     | DevSpace Technical Conference
+10/11/2019 | Opening Keynote | 1.5     | DevSpace Technical Conference
+1/?/2020   | Conf Session    | ?       | Code Mash
 
 ## Abstract/Description
 
