@@ -9,15 +9,15 @@ https://mademistakes.com/work/minimal-mistakes-jekyll-theme/ .
 
 ## How to Run It Locally
 
-1) Install Ruby v2.6.2 (if need be)
-1) Run `bundle`
+1) Install Ruby v2.6.2 (Win, Mac) or `ruby` and `ruby-dev` for Linux
+1) Run `bundle` (if that errors, run `gem install bundle` first)
 1) Run `jekyll serve`
 1) Navigate to [http://localhost:4000](http://localhost:4000)
 
 ## How to Run It Locally (Production Mode)
 
-1) Install Ruby v2.6.2 (if need be)
-1) Run `bundle`
+1) Install Ruby v2.6.2 (Win, Mac) or `ruby` and `ruby-dev` for Linux
+1) Run `bundle` (if that errors, run `gem install bundle` first)
 1) For OSX/Linux, run `export JEKYLL_ENV=production`. For Windows, run `set JEKYLL_ENV=production`
 1) Run `jekyll serve`
 1) Navigate to [http://localhost:4000](http://localhost:4000)
