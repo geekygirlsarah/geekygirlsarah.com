@@ -56,3 +56,6 @@ http://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
 
 # Workshop - “What is a HashTrieStackFilterMap?"
 /algorithms/          /speaking/wtf-is-a-hashtriestackfiltermap/
+
+# Lightning talk - How to Build a Pinball Machine
+/pinball/             https://slides.com/geekygirlsarah/pinball/live           302
