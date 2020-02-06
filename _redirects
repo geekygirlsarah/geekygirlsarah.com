@@ -16,7 +16,7 @@ http://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
 # -----------------------------------------------------------------------------
 
 # Travel shortlink
-/travel/              https://trello.com/b/ANNnxeq5/travel-pittsburgh-first-week-2-4-18-2-8-18      302
+/travel/              https://trello.com/b/J4tMubeh/travel-kc-nov-2019-dec-2019      302
 
 
 # -----------------------------------------------------------------------------
@@ -56,3 +56,6 @@ http://geekygirlsarah.netlify.com/* https://geekygirlsarah.com/:splat 301!
 
 # Workshop - “What is a HashTrieStackFilterMap?"
 /algorithms/          /speaking/wtf-is-a-hashtriestackfiltermap/
+
+# Lightning talk - How to Build a Pinball Machine
+/pinball/             https://slides.com/geekygirlsarah/pinball/live           302

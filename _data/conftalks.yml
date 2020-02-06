@@ -759,11 +759,11 @@
   event_location: Sandusky, OH
   event_start_date: 2020-01-07
   event_end_date: 2020-01-10
-  talk_date: 2020-01-07
+  talk_date: 2020-01-09
   talk_type: Session
   talk_title: Intro to Hacking with the Raspberry Pi
-  talk_room: TBA
-  talk_time: TBA
+  talk_room: Salon A
+  talk_time: 10:30am
   event_url: https://www.codemash.org/
   talk_url: /speaking/intro-to-hacking-with-the-raspberry-pi/
 -
@@ -771,22 +771,22 @@
   event_location: Sandusky, OH
   event_start_date: 2020-01-07
   event_end_date: 2020-01-10
-  talk_date: 2020-01-07
+  talk_date: 2020-01-10
   talk_type: Session
   talk_title: Building an Open Source Artificial Pancreas
-  talk_room: TBA
-  talk_time: TBA
+  talk_room: Mangrove
+  talk_time: 2:45pm
   event_url: https://www.codemash.org/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
 -
   event_name: Above Clouds
   event_location: Zagreb, Croatia
-  event_start_date: 2020-03-09
-  event_end_date: 2020-03-09
-  talk_date: 2020-03-09
+  event_start_date: 2020-05-09
+  event_end_date: 2020-05-09
+  talk_date: 2020-05-09
   talk_type: Closing Keynote
   talk_title: TBA
   talk_room: TBA
   talk_time: TBA
-  event_url:
+  event_url: https://www.abovecloudsconf.com/
   talk_url:
