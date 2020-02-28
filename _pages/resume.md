@@ -31,6 +31,7 @@ Azure (IoT Hub, Service Queues), Laravel, Xamarin, React and React Native, Mongo
 ### Freelancing/Contracting
 **Jun 2019 – Present**<br />
 
+* Integrated Redis server into system platform and built out code for using it in caching and login systems
 * Fixed bugs and added new features with a small team on a React, React Native, and C# app (web and mobile) to help caregivers remember to report patient information to doctors
 * Added AWS integrations into a Python project to allow searching for academic papers without needing to subscribe to journals
 
@@ -118,11 +119,9 @@ The Rest of Us in Tech is an inclusive initiative for the tech community which h
 
 I am presently mentoring a FIRST Robotics Challenge team of all girls based out of Carnegie Mellon University. In my past, I was involved in my university’s robotics competition team for several years. I also mentored other middle and high school FIRST robotics competition teams in my last city. (All teams won numerous awards and one middle school team went to the world championships.) I have continued to tinker with hardware projects on the side to this day, and make my code and diagrams available on GitHub.
 
-
 ## Speaking and Conferences
 
-I love sharing what I learn with the developer communities as well as people interested in getting started programming. I have been speaking, teaching, and mentoring in many forms since 2011. Besides local classes and workshops, I have spoken and keynoted at over 60 events locally, nationally, and internationally. I have organized multiple events and conferences as well. All of my notes, videos, and slides can be found at geekygirlsarah.com/speaking .
-
+I love sharing what I learn with the developer communities as well as people interested in getting started programming. I have been speaking, teaching, and mentoring in many forms since 2011. Besides local classes and workshops, I have spoken and keynoted at over 60 events locally, nationally, and internationally. I have organized multiple events and conferences as well. All of my notes, videos, and slides can be found at [geekygirlsarah.com/speaking](/speaking) .
 
 ## Education
 University of Missouri-Kansas City, Bachelor of Science in Computer Science
