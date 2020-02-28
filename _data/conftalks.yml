@@ -557,7 +557,7 @@
   event_end_date: 2019-02-01
   talk_date: 2019-02-01
   talk_type: Session
-  talk_title: Hey Mycroft
+  talk_title: "\"Hey Mycroft\": Getting Started with the Open Source Home Assistant"
   talk_room: Room 4
   talk_time: 13:40
   event_url: https://ndc-london.com/
@@ -778,15 +778,39 @@
   talk_time: 2:45pm
   event_url: https://www.codemash.org/
   talk_url: /speaking/building-an-open-source-artificial-pancreas/
+#-
+#  event_name: Above Clouds
+#  event_location: Zagreb, Croatia
+#  event_start_date: 2020-05-09
+#  event_end_date: 2020-05-09
+#  talk_date: 2020-05-09
+#  talk_type: Closing Keynote
+#  talk_title: TBA
+#  talk_room: TBA
+#  talk_time: TBA
+#  event_url: https://www.abovecloudsconf.com/
+#  talk_url:
 -
-  event_name: Above Clouds
-  event_location: Zagreb, Croatia
-  event_start_date: 2020-05-09
-  event_end_date: 2020-05-09
-  talk_date: 2020-05-09
-  talk_type: Closing Keynote
-  talk_title: TBA
-  talk_room: TBA
-  talk_time: TBA
-  event_url: https://www.abovecloudsconf.com/
-  talk_url:
+  event_name: "deliver:Agile"
+  event_location: Columbus, OH
+  event_start_date: 2020-04-29
+  event_end_date: 2020-05-01
+  talk_date: 2020-04-29
+  talk_type: Invited Session
+  talk_title: "A Primer on Functional Programming"
+  talk_room:
+  talk_time:
+  event_url: https://www.agilealliance.org/deliveragile-2020/
+  talk_url: /speaking/a-primer-on-functional-programming/
+-
+  event_name: Stir Trek
+  event_location: Columbus, OH
+  event_start_date: 2020-05-01
+  event_end_date: 2020-05-01
+  talk_date: 2020-05-01
+  talk_type: Session
+  talk_title: "\"Hey Mycroft\": Getting Started with the Open Source Home Assistant"
+  talk_room:
+  talk_time:
+  event_url: https://stirtrek.com/
+  talk_url: /speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
