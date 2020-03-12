@@ -790,18 +790,18 @@
 #  talk_time: TBA
 #  event_url: https://www.abovecloudsconf.com/
 #  talk_url:
--
-  event_name: "deliver:Agile"
-  event_location: Columbus, OH
-  event_start_date: 2020-04-29
-  event_end_date: 2020-05-01
-  talk_date: 2020-04-29
-  talk_type: Invited Session
-  talk_title: "A Primer on Functional Programming"
-  talk_room:
-  talk_time:
-  event_url: https://www.agilealliance.org/deliveragile-2020/
-  talk_url: /speaking/a-primer-on-functional-programming/
+#-
+#  event_name: "deliver:Agile"
+#  event_location: Columbus, OH
+#  event_start_date: 2020-04-29
+#  event_end_date: 2020-05-01
+#  talk_date: 2020-04-29
+#  talk_type: Invited Session
+#  talk_title: "A Primer on Functional Programming"
+#  talk_room:
+#  talk_time:
+#  event_url: https://www.agilealliance.org/deliveragile-2020/
+#  talk_url: /speaking/a-primer-on-functional-programming/
 -
   event_name: Stir Trek
   event_location: Columbus, OH
