@@ -790,6 +790,17 @@
 #  talk_time: TBA
 #  event_url: https://www.abovecloudsconf.com/
 #  talk_url:
+  event_name: Prototype PGH
+  event_location: Pittsburgh, PA
+  event_start_date: 2020-03-20
+  event_end_date: 2020-03-20
+  talk_date: 2020-03-20
+  talk_type: Workshop
+  talk_title: Introduction to Arudino
+  talk_room: Pitt MAC Makerspace
+  talk_time: 6:00pm
+  event_url: https://prototypepgh.com
+  talk_url:
 #-
 #  event_name: "deliver:Agile"
 #  event_location: Columbus, OH
@@ -802,27 +813,15 @@
 #  talk_time:
 #  event_url: https://www.agilealliance.org/deliveragile-2020/
 #  talk_url: /speaking/a-primer-on-functional-programming/
--
-  event_name: Prototype PGH
-  event_location: Pittsburgh, PA
-  event_start_date: 2020-03-20
-  event_end_date: 2020-03-20
-  talk_date: 2020-03-20
-  talk_type: Workshop
-  talk_title: Introduction to Arudino
-  talk_room: Pitt MAC Makerspace
-  talk_time: 6:00pm
-  event_url: https://prototypepgh.com
-  talk_url:
--
-  event_name: Stir Trek
-  event_location: Columbus, OH
-  event_start_date: 2020-05-01
-  event_end_date: 2020-05-01
-  talk_date: 2020-05-01
-  talk_type: Session
-  talk_title: "\"Hey Mycroft\": Getting Started with the Open Source Home Assistant"
-  talk_room:
-  talk_time:
-  event_url: https://stirtrek.com/
-  talk_url: /speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
+#-
+#  event_name: Stir Trek
+#  event_location: Columbus, OH
+#  event_start_date: 2020-05-01
+#  event_end_date: 2020-05-01
+#  talk_date: 2020-05-01
+#  talk_type: Session
+#  talk_title: "\"Hey Mycroft\": Getting Started with the Open Source Home Assistant"
+#  talk_room:
+#  talk_time:
+#  event_url: https://stirtrek.com/
+#  talk_url: /speaking/hey-mycroft-getting-started-with-the-open-source-home-assistant/
