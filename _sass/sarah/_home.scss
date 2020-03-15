@@ -1,3 +1,6 @@
+// Sarah's customizations
+
+// Add Fira Sans font (local)
 @font-face {
   font-family: 'fira_sansmedium';
   src: url('/assets/fonts/firasans-medium-webfont.woff2') format('woff2'),
@@ -6,6 +9,7 @@
   font-style: normal;
 }
 
+// Turn headers teal
 h1,
 h2,
 h3,
@@ -15,42 +19,42 @@ h6 {
   color: $theme-teal-hex;
 }
 
+// Turn title teal and decreas spacing between nav items
 nav a.site-title {
   color: $theme-teal-hex;
 }
+nav li.masthead__menu-item > a {
+  margin: 0px 9px;
+}
+
+// Home/Index feature_block table formatting
 
 .home_feature_table {
   display: table;
   width: 100%;
 }
-
 .home_feature_table_title {
   display: table-caption;
   text-align: center;
   font-weight: bold;
   font-size: larger;
 }
-
 .home_feature_table_heading {
   display: table-row;
   font-weight: bold;
   text-align: center;
 }
-
 .home_feature_table_row {
   display: table-row;
   vertical-align: top;
 }
-
 .home_feature_table_cell {
   display: table-cell;
   border: none;
   padding-left: 5px;
   padding-right: 5px;
   vertical-align: top;
-
 }
-
 .home_feature_table_cell_third {
   display: table-cell;
   border: none;
@@ -58,15 +62,12 @@ nav a.site-title {
   padding-right: 20px;
   width: 33%;
 }
-
 .home_feature_table_cell_third h2 {
   text-align: center;
 }
-
 .home_feature_table_cell_third p {
   text-align: center;
 }
-
 .home_feature_table_cell_image {
   display: table-cell;
   border: none;
@@ -77,6 +78,7 @@ nav a.site-title {
   vertical-align: middle;
 }
 
+// Maps page width/height of the map
 #mapid {
   width: 1080px;
   height: 810px;
