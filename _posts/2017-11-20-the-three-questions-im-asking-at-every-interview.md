@@ -11,6 +11,10 @@ tags:
   - job hunting
   - interviews
 ---
+
+This post is a part of a series on job hunting and job interviewing.
+{: .notice--info}
+
 From my last couple of jobs, I realized I wasn&#8217;t a very good fit for them or they weren&#8217;t a great fit for me. It made me start to wonder how to find a job that I knew we&#8217;d be more of a match for each other.
 
 For this latest round of job applying, I knew I wanted to do better. I realized that before my interviews end, the interviewers usually ask if I had any questions before we ended our call or meeting. I usually asked about how big the team is or how &#8220;agile&#8221; they are or whatever. But I realized I could ask some better questions to get more of a feel of how I might fit in.
