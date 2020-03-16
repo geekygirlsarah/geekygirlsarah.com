@@ -72,19 +72,7 @@ intro:
 <!-- a bit of extra space between the two tables-->
 <div><p>&nbsp;</p></div>
 
-
 <div class="home_feature_table">
-  <div class="home_feature_table_row">
-    <div class="home_feature_table_cell_image">
-      <img src="assets/images/icons8-lecturer-100.png" alt="Speaker at podium icon"/>
-    </div>
-    <div class="home_feature_table_cell">
-      <h2>Upcoming Talks</h2>
-      {% include feature_block data_type="talks" show_number=3 %}
-      <a href="/speaking/" class="btn btn--primary">All Talk Schedule</a>
-    </div>
-  </div>
-
   <div class="home_feature_table_row">
     <div class="home_feature_table_cell_image">
       <img src="assets/images/icons8-edit-file-100.png" alt="Blog icon"/>
@@ -95,16 +83,27 @@ intro:
       <a href="/speaking/" class="btn btn--primary">All Posts</a>
     </div>
   </div>
-</div>
 
-<div class="home_feature_table_row">
-  <div class="home_feature_table_cell_image">
-    <img src="assets/images/icons8-micro-100.png" alt="Lecturer icon"/>
+  <div class="home_feature_table_row">
+    <div class="home_feature_table_cell_image">
+      <img src="assets/images/icons8-micro-100.png" alt="Lecturer icon"/>
+    </div>
+    <div class="home_feature_table_cell">
+      <h2>Latest Podcasts</h2>
+      {% include feature_block data_type="podcasts" show_number=3 %}
+      <a href="/media/" class="btn btn--primary">All Media</a>
+    </div>
   </div>
-  <div class="home_feature_table_cell">
-    <h2>Latest Podcasts</h2>
-    {% include feature_block data_type="podcasts" show_number=3 %}
-    <a href="/media/" class="btn btn--primary">All Media</a>
-  </div>
-</div>
 
+  <div class="home_feature_table_row">
+    <div class="home_feature_table_cell_image">
+      <img src="assets/images/icons8-lecturer-100.png" alt="Speaker at podium icon"/>
+    </div>
+    <div class="home_feature_table_cell">
+      <h2>Upcoming Talks</h2>
+      All upcoming talks, workshops, and travel have been canceled due to the Coronavirus.<br /><br />
+      <a href="/speaking/" class="btn btn--primary">See Past Talks</a>
+    </div>
+  </div>
+
+</div>

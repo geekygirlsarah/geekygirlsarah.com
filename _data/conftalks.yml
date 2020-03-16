@@ -790,17 +790,18 @@
 #  talk_time: TBA
 #  event_url: https://www.abovecloudsconf.com/
 #  talk_url:
-  event_name: Prototype PGH
-  event_location: Pittsburgh, PA
-  event_start_date: 2020-03-20
-  event_end_date: 2020-03-20
-  talk_date: 2020-03-20
-  talk_type: Workshop
-  talk_title: Introduction to Arudino
-  talk_room: Pitt MAC Makerspace
-  talk_time: 6:00pm
-  event_url: https://prototypepgh.com
-  talk_url:
+#-
+#  event_name: Prototype PGH
+#  event_location: Pittsburgh, PA
+#  event_start_date: 2020-03-20
+#  event_end_date: 2020-03-20
+#  talk_date: 2020-03-20
+#  talk_type: Workshop
+#  talk_title: Introduction to Arudino
+#  talk_room: Pitt MAC Makerspace
+#  talk_time: 6:00pm
+#  event_url: https://prototypepgh.com
+#  talk_url:
 #-
 #  event_name: "deliver:Agile"
 #  event_location: Columbus, OH

@@ -13,11 +13,14 @@ header:
   caption: "Speaking at MINK WIC 2015, which I also helped organize"
 ---
 
+{% assign today = "now" | date: "%Y-%m-%d" %}
+
 Over the years, I've given over 60 presentations that range from workshops to keynote presentations. I've also spoken 
 locally, regionally, nationally, and internationally. 
 
-In 2020, I am choosing to only submit to my top 5 favorite conferences. However, if you’re interested in having me 
-speak, please reach out anyway! Drop me a message on my [Contact](/contact/) page.
+In 2020, I am only speaking at conferences I am invited to, and I am submitting to my top 5 favorite conferences. 
+However, if you’re interested in having me speak, please reach out anyway! Drop me a message on my 
+[Contact](/contact/) page.
 
 Jump to section: 
 [Upcoming Events](#upcoming-events){: .btn .btn--inverse .btn--large }
@@ -28,12 +31,7 @@ Jump to section:
 
 ## Upcoming Events
 
-{% assign today = "now" | date: "%Y-%m-%d" %}
-
-| Date | Event, Location | Talk Type | Talk Title | 
-|------|-----------------|-----------|------------|
-{% for item in site.data.conftalks %}{% assign event_date = item.talk_date | date: "%Y-%m-%d" %}{% if event_date >= today %}{% if item.event_start_date == item.event_end_date %}{{ item.event_start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% else %}{{ item.event_start_date | date_to_xmlschema | date_to_string: "ordinal", "US" }} - {{ item.event_end_date | date_to_xmlschema | date_to_string: "ordinal", "US" }}{% endif %} | {% if item.event_url %}<a href="{{ item.event_url}}" target="_blank">{{ item.event_name }}</a>{% else %}{{ item.event_name }}{% endif %}, {{ item.event_location }} | {{ item.talk_type }} | {% if item.talk_url %}<a href="{{ item.talk_url}}">{{ item.talk_title }}</a>{% else %}{{ item.talk_title }}{% endif %}
-{% endif %}{% endfor %}
+All upcoming talks, workshops, and travel have been canceled due to the Coronavirus. 
 
 ## Why I Speak
 
