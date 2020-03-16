@@ -1,7 +1,7 @@
 ---
 title: "Learning to Share Accomplishments: Part 1 - How to Share Accomplishments"
-date: 2020-03-15T09:00:00-04:00
-permalink: /2020/03/15/learning-to-share-accomplishments-1/
+date: 2020-03-16T09:00:00-04:00
+permalink: /2020/03/16/learning-to-share-accomplishments-1/
 author_profile: true
 toc: true
 toc_label: "Post Contents"

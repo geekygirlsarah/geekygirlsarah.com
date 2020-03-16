@@ -1,7 +1,7 @@
 ---
 title: "Learning to Share Accomplishments: Part 2 - Sharing My Accomplishments"
-date: 2020-03-15T10:00:00-04:00
-permalink: /2020/03/15/learning-to-share-accomplishments-2/
+date: 2020-03-16T10:00:00-04:00
+permalink: /2020/03/16/learning-to-share-accomplishments-2/
 author_profile: true
 toc: true
 toc_label: "Post Contents"
@@ -51,8 +51,8 @@ expensive, a pain to set up, didn't scale well, and the company only used about 
 specific solution, scaled with the click of a few buttons, and cost closer to $1000/month (a VAST savings). 
 
 <figure>
-    <img src='/assets/images/2020/03/mack-architecture-diagram.jpg' alt='Architecture diagram*' width="50%" height="50%" />
-    <figcaption>Architecture diagram*</figcaption>
+    <img src='/assets/images/2020/03/mack-team-diagrams.jpg' alt='My team drawing out our architecture diagrams*' width="50%" height="50%" />
+    <figcaption>My team drawing out our architecture diagrams*</figcaption>
 </figure>
 
 **What did I Do?**
@@ -238,7 +238,7 @@ I'd love to hear if anything about these posts resonated with you. Feel free to 
 P.S. I realize there's some gray area on showing design documents from projects I've worked on. I've decided these 
 were likely ok to share because:
 
-\* This is the diagram for a project that was killed off and no longer real-.
+\* This is the diagram for a project that was killed off and is no longer real.
  
 \*\* This diagram described some of the object and data mappings as of 2015. It has likely evolved since then and was 
 for an internal project that never saw the outside world.
