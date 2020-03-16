@@ -17,6 +17,9 @@ tags:
   - tech interviews
 ---
 
+This post is a part of a series on job hunting and job interviewing.
+{: .notice--info}
+
 <figure>
     <img src='/assets/images/2019/09/meeting-room-1213007.jpg' alt='Interview room with two chairs and a whiteboard' width="50%" height="50%" />
 </figure>

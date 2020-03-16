@@ -13,6 +13,10 @@ tags:
   - new job
   - tech interviews
 ---
+
+This post is a part of a series on job hunting and job interviewing.
+{: .notice--info}
+
 I&#8217;m excited to say that after about 8 months of job hunting, I finally accepted a new software engineering job!
 
 Before I tell you about it, I really want to talk about the jobs I _didn&#8217;t_ get and the interview processes I went through.
