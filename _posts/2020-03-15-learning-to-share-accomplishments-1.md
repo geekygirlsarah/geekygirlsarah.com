@@ -19,8 +19,8 @@ This post is a part of a series on job hunting and job interviewing.
 {: .notice--info}
 
 <figure>
-    <img src='https://www.hdwallpaper.nu/wp-content/uploads/2017/04/cat-11.jpg' alt='Until I figure out a better image' width="50%" height="50%" />
-    <figcaption>Until I figure out a better image to put here.....</figcaption>
+    <img src='/assets/images/2020/03/cat-11.jpg' alt='Until I figure out a better image' width="50%" height="50%" />
+    <figcaption>Until I figure out a better image to put here...</figcaption>
 </figure>
 
 In [my last post](/2019/09/02/reflections-on-the-latest-round-of-job-hunting/), I talked about my last round of job 

@@ -17,10 +17,10 @@ tags:
 
 This post is a part of a series on job hunting and job interviewing.
 {: .notice--info}
-
+-
 <figure>
-    <img src='https://www.hdwallpaper.nu/wp-content/uploads/2017/04/cat-11.jpg' alt='Until I figure out a better image' width="50%" height="50%" />
-    <figcaption>Until I figure out a better image to put here.....</figcaption>
+    <img src='/assets/images/2020/03/IMG_20150820_144741.jpg' alt='The "album cover" photo my team took on our last day working together' width="50%" height="50%" />
+    <figcaption>The "album cover" photo my team took on our last day working together</figcaption>
 </figure>
 This is the second part of a two-part post. The first part is more on how to share your career accomplishments. You 
 may want to read it first. [Part 1 is here.](../learning-to-share-accomplishments-1/)
@@ -49,6 +49,11 @@ are usually NDAs or not publicly available). So I hope this post helps with that
 This team was created to replace a $1M/year third-party product with an in-house solution. The third-party product was 
 expensive, a pain to set up, didn't scale well, and the company only used about 10% of it. Ours was built for this 
 specific solution, scaled with the click of a few buttons, and cost closer to $1000/month (a VAST savings). 
+
+<figure>
+    <img src='/assets/images/2020/03/mack-architecture-diagram.jpg' alt='Architecture diagram*' width="50%" height="50%" />
+    <figcaption>Architecture diagram*</figcaption>
+</figure>
 
 **What did I Do?**
 
@@ -91,6 +96,11 @@ dozen tabs, data from several years, a constantly evolving report, and a dozen u
 basic web app turned into a quirky data project that required data auditing, a report-designing system, hierarchies of 
 management, and redefining terminology the department used. (For more fun, we were told another team tried to tackle 
 this in the past and couldn't do it.)
+
+<figure>
+    <img src='/assets/images/2020/03/IMG_20150616_142917.jpg' alt='The five of us designing the metric tracking part of the system**' width="50%" height="50%" />
+    <figcaption>The five of us designing the metric tracking part of the system**</figcaption>
+</figure>
 
 **What did I Do?**
 
@@ -135,6 +145,11 @@ this in the past and couldn't do it.)
 I interned with a electronic document management company that loved me so much they brought me back the next summer. I 
 was on different teams each time.
 
+<figure>
+    <img src='/assets/images/2020/03/IMG_20130809_081855.jpg' alt='My teammates (and the foil-covering prank I pulled)' width="50%" height="50%" />
+    <figcaption>My teammates (and the foil-covering prank I pulled)</figcaption>
+</figure>
+
 **What did I Do?**
 
 * The first summer, I was handed a tiny bit of code that was supposed to build out a set of sample documents to test 
@@ -158,6 +173,11 @@ was on different teams each time.
   software developer.
   
 ### Other Projects and Teams
+
+<figure>
+    <img src='/assets/images/2020/03/IMG_20151007_151735.jpg' alt='Design/architecture meeting with an old team***' width="50%" height="50%" />
+    <figcaption>Design/architecture meeting with an old team***</figcaption>
+</figure>
 
 **What did I Do?**
 
@@ -212,3 +232,16 @@ accomplishments.
 I'd love to hear if anything about these posts resonated with you. Feel free to reach out!
 
 ~ Sarah
+
+-----
+
+P.S. I realize there's some gray area on showing design documents from projects I've worked on. I've decided these 
+were likely ok to share because:
+
+\* This is the diagram for a project that was killed off and no longer real-.
+ 
+\*\* This diagram described some of the object and data mappings as of 2015. It has likely evolved since then and was 
+for an internal project that never saw the outside world.
+
+\*\*\* These would have been accurate as of 2016 and have likely evolved since then. Also it's for a tiny subset of 
+what that thing did that it doesn't really make sense outside the context of that one small subsystem.
