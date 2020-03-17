@@ -19,6 +19,14 @@ h6 {
   color: $theme-teal-hex;
 }
 
+a {
+  color: $theme-teal-hex-links;
+}
+
+a:hover, a:visited {
+  color: $theme-teal-hex-links;
+}
+
 // Turn title teal and decreas spacing between nav items
 nav a.site-title {
   color: $theme-teal-hex;
