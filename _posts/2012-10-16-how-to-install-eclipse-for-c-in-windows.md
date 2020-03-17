@@ -26,14 +26,14 @@ Binary Girls to the rescue!
 The CDT is only a plugin that lets you write C/C++ programs, but it doesn&#8217;t include the compiler or the includes needed. So if you want your program to work, you&#8217;ll need more than just that.
 
 **Part I: Install Eclipse** (for Java)  
-Latest version as of writing: <a href="http://www.eclipse.org/downloads/packages/eclipse-classic-421/junosr1" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">http://www.eclipse.org/downloads/packages/eclipse-classic-421/junosr1</span></u></a>
+Latest version as of writing: <a href="http://www.eclipse.org/downloads/packages/eclipse-classic-421/junosr1" target="_blank" rel="noopener"><u><span style="color: #0066cc;">http://www.eclipse.org/downloads/packages/eclipse-classic-421/junosr1</span></u></a>
 
   1. Download Eclipse. I recommend Eclipse Classic. Grab either the 32-bit or 64-bit version depending on which your system is.
   2. Extract the eclipse folder to your Desktop.
   3. Move the folder to your Program Files. In Vista/Win7/Win8 you will have to give it administrative privileges. If can also leave it in a folder on your Desktop or My Documents, but other users won&#8217;t be able to use it.
 
 **Part II: Install MinGW** (for C/C++ compilers)  
-Latest version as of writing: <a href="http://sourceforge.net/projects/mingw/files/latest/download?source=files" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">http://sourceforge.net/projects/mingw/files/latest/download?source=files</span></u></a>
+Latest version as of writing: <a href="http://sourceforge.net/projects/mingw/files/latest/download?source=files" target="_blank" rel="noopener"><u><span style="color: #0066cc;">http://sourceforge.net/projects/mingw/files/latest/download?source=files</span></u></a>
 
 MinGW is the Minimalist GNU for Windows. Basically it contains the compiler you need. (You can use the Visual Studio compiler, but that&#8217;s a pain to set up and this is easier.) As of this writing, version 20120426 was the latest, but you can grab something newer.
 
@@ -66,8 +66,8 @@ MinGW is the Minimalist GNU for Windows. Basically it contains the compiler you 
       * Close the command prompt. Congratulations, you&#8217;re done!</ol> 
     
     **Part III: Install Eclipse&#8217;s CDT** (for C/C++ support in Eclipse)  
-    Eclipse repository: <a href="http://download.eclipse.org/eclipse/updates/4.2/" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">http://download.eclipse.org/eclipse/updates/4.2/</span></u></a>  
-    CDT: <a href="http://download.eclipse.org/tools/cdt/releases/juno" target="_blank" rel="noopener noreferrer"><u><span style="color: #0066cc;">http://download.eclipse.org/tools/cdt/releases/juno</span></u></a>
+    Eclipse repository: <a href="http://download.eclipse.org/eclipse/updates/4.2/" target="_blank" rel="noopener"><u><span style="color: #0066cc;">http://download.eclipse.org/eclipse/updates/4.2/</span></u></a>  
+    CDT: <a href="http://download.eclipse.org/tools/cdt/releases/juno" target="_blank" rel="noopener"><u><span style="color: #0066cc;">http://download.eclipse.org/tools/cdt/releases/juno</span></u></a>
     
     So Eclipse is installed, and so is MinGW. You&#8217;re practically done. This is one of the easiest steps.
     

@@ -207,7 +207,7 @@ I'd be happy to hear your thoughts and discuss this (though constructive feedbac
 ~ Sarah
 
 Photo credits:
-* Interview room: <a href="https://freeimages.com/photographer/tsk-39923" target="_blank">Razvan Caliman</a>
-* Two rocks: <a href="https://www.freeimages.com/photographer/anndesine-54931" target="_blank">Ann Kanth</a>
-* Cell phone on table: <a href="https://www.freeimages.com/photographer/weebism-31055" target="_blank">Craig Young</a>
-* Man with question marks: <a href="https://www.freeimages.com/photographer/brainloc-32259" target="_blank">Bob Smith</a>
+* Interview room: <a href="https://freeimages.com/photographer/tsk-39923" target="_blank" rel="noopener">Razvan Caliman</a>
+* Two rocks: <a href="https://www.freeimages.com/photographer/anndesine-54931" target="_blank" rel="noopener">Ann Kanth</a>
+* Cell phone on table: <a href="https://www.freeimages.com/photographer/weebism-31055" target="_blank" rel="noopener">Craig Young</a>
+* Man with question marks: <a href="https://www.freeimages.com/photographer/brainloc-32259" target="_blank" rel="noopener">Bob Smith</a>

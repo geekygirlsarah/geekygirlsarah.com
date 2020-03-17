@@ -58,7 +58,7 @@ Now, it may look like a huge mess to you. And I&#8217;ll admit, to the untrained
 
 ## Getting Started with Tweetdeck
 
-Head over to <a href="https://tweetdeck.twitter.com" target="_blank" rel="noopener noreferrer">tweetdeck.twitter.com</a> and sign in with your Twitter username and password. For this blog post, I&#8217;ll set it up using my @sarahwithee account, which I haven&#8217;t really used before. Once logged in, you should get this lovely intro screen:
+Head over to <a href="https://tweetdeck.twitter.com" target="_blank" rel="noopener">tweetdeck.twitter.com</a> and sign in with your Twitter username and password. For this blog post, I&#8217;ll set it up using my @sarahwithee account, which I haven&#8217;t really used before. Once logged in, you should get this lovely intro screen:
 
 <img class="aligncenter wp-image-682 size-medium" src="/assets/images/2017/07/tweetdeck2-300x292.jpg" alt="Tweetdeck welcome screen" width="300" height="292" /> 
 
@@ -112,8 +112,8 @@ I made a few different lists:
 
 But also I have a couple of lists other people have made that are good:
 
-  * <a href="http://twitter.com/embryoconcepts/" target="_blank" rel="noopener noreferrer">@embryoconcepts</a> made a Women in Tech list with 275+ women on it
-  * <a href="http://twitter.com/creatrixtiara" target="_blank" rel="noopener noreferrer">@creatrixtiara</a> made a list of LGBTQ in Tech with 27 people on it. (I don&#8217;t know that she really updates it that much.)
+  * <a href="http://twitter.com/embryoconcepts/" target="_blank" rel="noopener">@embryoconcepts</a> made a Women in Tech list with 275+ women on it
+  * <a href="http://twitter.com/creatrixtiara" target="_blank" rel="noopener">@creatrixtiara</a> made a list of LGBTQ in Tech with 27 people on it. (I don&#8217;t know that she really updates it that much.)
 
 In my opinion, lists **ARE** where the organization starts to happen. By adding columns of lists, I can start to truly organize the firehose of tweets and get rid of some of the default columns.
 
@@ -122,28 +122,28 @@ I decided that going left to right should have the most important stuff I wanted
 So I started with direct messages, notifications, and mentions on the far left (I want to keep up with things). Then from there, most important lists to least important lists. So my current order is:
 
   1. Messages
-  2. Notifications (<a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener noreferrer">@geekygirlsarah</a>)
+  2. Notifications (<a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener">@geekygirlsarah</a>)
   3. Mentions
   4. Favorite People (list)
   5. Cool People (list)
-  6. WIT (list by <a href="http://twitter.com/embryoconcepts" target="_blank" rel="noopener noreferrer">@embryoconcepts</a>)
-  7. LGBT in tech (list by <a href="http://twitter.com/creatrixtiara" target="_blank" rel="noopener noreferrer">@creatrixtiara</a>)
+  6. WIT (list by <a href="http://twitter.com/embryoconcepts" target="_blank" rel="noopener">@embryoconcepts</a>)
+  7. LGBT in tech (list by <a href="http://twitter.com/creatrixtiara" target="_blank" rel="noopener">@creatrixtiara</a>)
   8. Home (everyone feed)
-  9. User (<a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener noreferrer">@geekygirlsarah</a>)
+  9. User (<a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener">@geekygirlsarah</a>)
 
 When I started tweeting from another account regularly, I logged into it (I&#8217;ll talk about this later), and then I could add columns from _both_ accounts. I logged in with my podcast account, and then I decided to add notifications as well as a user column for it. My new column list is:
 
   1. Messages
-  2. Notifications (<a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener noreferrer">@geekygirlsarah</a>)
-  3. Notifications (<a href="http://twitter.com/restofusintech" target="_blank" rel="noopener noreferrer">@restofusintech)</a>
+  2. Notifications (<a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener">@geekygirlsarah</a>)
+  3. Notifications (<a href="http://twitter.com/restofusintech" target="_blank" rel="noopener">@restofusintech)</a>
   4. Mentions
   5. Favorite People (list)
   6. Cool People (list)
-  7. WIT (list by <a href="http://twitter.com/embryoconcepts" target="_blank" rel="noopener noreferrer">@embryoconcepts</a>)
-  8. LGBT in tech (list by <a href="http://twitter.com/creatrixtiara" target="_blank" rel="noopener noreferrer">@creatrixtiara</a>)
+  7. WIT (list by <a href="http://twitter.com/embryoconcepts" target="_blank" rel="noopener">@embryoconcepts</a>)
+  8. LGBT in tech (list by <a href="http://twitter.com/creatrixtiara" target="_blank" rel="noopener">@creatrixtiara</a>)
   9. Home (everyone feed)
- 10. User (<a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener noreferrer">@geekygirlsarah</a>)
- 11. User (<a href="http://twitter.com/restofusintech" target="_blank" rel="noopener noreferrer">@restofusintech</a>)
+ 10. User (<a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener">@geekygirlsarah</a>)
+ 11. User (<a href="http://twitter.com/restofusintech" target="_blank" rel="noopener">@restofusintech</a>)
 
 And this works REALLY well. On less energetic days I get the few tweets I want. On more energetic days, I can engage in the full flood of data.
 
@@ -237,7 +237,7 @@ So interactions with people are fast. But let&#8217;s go faster! Let&#8217;s see
 
 Let&#8217;s say I see a reply to a tweet I wrote. If you click on the reply tweet, the column slides over to show that tweet, plus any previous tweets and any other threaded tweets with it. It&#8217;s easy to see the whole conversation quickly.
 
-For example, I posted a tweet with me and a cat I&#8217;m catsitting. <a href="http://twitter.com/justkelly_ok" target="_blank" rel="noopener noreferrer">@justkelly_ok</a> replied about how lovable it was. If I click on her tweet, I see hers in the middle, with my original tweet above it, then my response to that one below it:
+For example, I posted a tweet with me and a cat I&#8217;m catsitting. <a href="http://twitter.com/justkelly_ok" target="_blank" rel="noopener">@justkelly_ok</a> replied about how lovable it was. If I click on her tweet, I see hers in the middle, with my original tweet above it, then my response to that one below it:
 
 <img class="aligncenter wp-image-705 size-medium" src="/assets/images/2017/07/tweetdeck-137x300.jpg" alt="Tweet with replies and threading" width="137" height="300" /> 
 
@@ -343,4 +343,4 @@ I mentioned I&#8217;ve used it for a couple of years. And how I use it evolves o
 
 Tweetdeck is a tool by Twitter to allow you to organize your tweets easier and make it easier to engage with other users and interact with your timelines. It&#8217;s based on organizing various feeds into columns, which you can customize in nearly any way you see fit. You can log in with multiple accounts and work from all of them a lot easier than multiple browsers or logging out and back in. And it lets you create and join in conversations a lot easier than Twitter&#8217;s default page alone. If you want to be more engaged in the  people you follow as well as the people who follow you, I highly recommending using this instead!
 
-If you have any questions, or spot any inconsistencies, let me know. Feel free to tweet to me <a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener noreferrer">@geekygirlsarah</a> or drop me a line from my website.
+If you have any questions, or spot any inconsistencies, let me know. Feel free to tweet to me <a href="http://twitter.com/geekygirlsarah" target="_blank" rel="noopener">@geekygirlsarah</a> or drop me a line from my website.

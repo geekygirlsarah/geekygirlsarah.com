@@ -147,7 +147,7 @@ this blurb that I was kind of proud of for pretty-printing talks in two tables, 
       { { item.date | date_to_xmlschema | date_to_string: "ordinal", "US" } } - { { item.end_date | date_to_xmlschema | date_to_string: "ordinal", "US" } }
     { % endif % }
     | { % if item.event_url % }
-        <a href="{ { item.event_url} }" target="_blank">{ { item.event } }</a>
+        <a href="{ { item.event_url} }" target="_blank" rel="noopener">{ { item.event } }</a>
       { % else % }
         { { item.event } }
       { % endif % }
@@ -191,7 +191,7 @@ That looks like this:
       { % for item in site.posts % }
         { % if count < show_number % }
           { % assign date = item.date | date: "%Y-%m-%d" % }
-          <li>{ { date | date_to_string: "ordinal", "US" } }: <a href="{ { item.url } }" target="_blank">{ { item.title } }</a></li>
+          <li>{ { date | date_to_string: "ordinal", "US" } }: <a href="{ { item.url } }" target="_blank" rel="noopener">{ { item.title } }</a></li>
           { % assign count = count | plus:1 % }
         { % endif % }
       { % endfor % }
@@ -200,7 +200,7 @@ That looks like this:
         { % if count < show_number % }
           { % assign date = item.date | date: "%Y-%m-%d" % }
           { % if date >= today % }
-            <li>{ { date | date_to_xmlschema | date_to_string: "ordinal", "US" } }: <a href="{ { item.event_url } }" target="_blank">{ { item.title } }</a>  ({ { item.type } }, { { item.event } })</li>
+            <li>{ { date | date_to_xmlschema | date_to_string: "ordinal", "US" } }: <a href="{ { item.event_url } }" target="_blank" rel="noopener">{ { item.title } }</a>  ({ { item.type } }, { { item.event } })</li>
             { % assign count = count | plus:1 % }
           { % endif % }
         { % endif % }
@@ -209,7 +209,7 @@ That looks like this:
       { % for item in site.data.podcasts reversed % }
         { % if count < show_number % }
           { % assign date = item.date | date: "%Y-%m-%d" % }
-          <li>{ { date | date_to_xmlschema | date_to_string: "ordinal", "US" } }: <a href="{ { item.url } }" target="_blank">{ { item.episode } }</a> ({ { item.show } })</li>
+          <li>{ { date | date_to_xmlschema | date_to_string: "ordinal", "US" } }: <a href="{ { item.url } }" target="_blank" rel="noopener">{ { item.episode } }</a> ({ { item.show } })</li>
           { % assign count = count | plus:1 % }
         { % endif % }
       { % endfor % }

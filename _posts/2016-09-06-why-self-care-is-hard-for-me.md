@@ -17,11 +17,11 @@ This was originally posted on Medium.
 * * *
 
 <p id="00c3" class="graf graf--p graf-after--h3">
-  <em class="markup--em markup--p-em">This was a 90-second lightning talk I gave at </em><a class="markup--anchor markup--p-anchor" href="http://andconf.io/" target="_blank" rel="nofollow noopener noreferrer" data-href="http://andconf.io/"><em class="markup--em markup--p-em">AndConf</em></a><em class="markup--em markup--p-em"> 2016. This is basically a transcribed form of that talk.</em>
+  <em class="markup--em markup--p-em">This was a 90-second lightning talk I gave at </em><a class="markup--anchor markup--p-anchor" href="http://andconf.io/" target="_blank" rel="nofollow noopener" data-href="http://andconf.io/"><em class="markup--em markup--p-em">AndConf</em></a><em class="markup--em markup--p-em"> 2016. This is basically a transcribed form of that talk.</em>
 </p>
 
 <p id="c80c" class="graf graf--p graf-after--p">
-  Hi. I’m Sarah. I’m @geekygirlsarah on Twitter. <a class="markup--anchor markup--p-anchor" href="https://medium.com/@geekygirlsarah/life-gender-and-the-pursuit-of-happiness-e0e57970ceae" target="_blank" data-href="https://medium.com/@geekygirlsarah/life-gender-and-the-pursuit-of-happiness-e0e57970ceae" rel="noopener noreferrer">Long story short</a>, I’m trans. (Feel free to find me if you have questions or want details.)
+  Hi. I’m Sarah. I’m @geekygirlsarah on Twitter. <a class="markup--anchor markup--p-anchor" href="https://medium.com/@geekygirlsarah/life-gender-and-the-pursuit-of-happiness-e0e57970ceae" target="_blank" data-href="https://medium.com/@geekygirlsarah/life-gender-and-the-pursuit-of-happiness-e0e57970ceae" rel="noopener">Long story short</a>, I’m trans. (Feel free to find me if you have questions or want details.)
 </p>
 
 <p id="5210" class="graf graf--p graf-after--p">
