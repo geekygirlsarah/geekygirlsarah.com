@@ -270,6 +270,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-purgecss
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -279,7 +280,9 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-purgecss
 
+css_dir: "assets/css" # defaults to "css"
 
 # Archives
 #  Type

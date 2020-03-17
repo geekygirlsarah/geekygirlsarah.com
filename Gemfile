@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jemoji"
   gem 'jekyll-compose'
+  gem 'jekyll-purgecss'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
